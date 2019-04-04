@@ -1,0 +1,14 @@
+Char,Dialog
+ImageSetting,2
+강승모,Images/1
+하이요,Images/2
+강승모,하이
+하이요,하이요
+강승모,그래
+하이요,하이요
+강승모,아님
+EventLoad,event2
+Go,
+Go,
+,
+,
