@@ -12,10 +12,17 @@ public class EventDialogPlayer : MonoBehaviour {
 
     Text nameText, dialogText;
     string[] COMMAND_STRING = { "EventLoad",
-        "ImageSetting","SetImage1","SetImage2", "Setimage3","Focus" ,"Go" };
+        "ImageSetting",
+        "SetImage1",
+        "SetImage2",
+        "Setimage3",
+        "Focus",
+        "Jump",
+        "Button"};
     
     string[] imageLink;
-
+    bool[] isFocused, forceFocus;
+    GameObject nowFocused, preFocused;
 
     List<Dictionary<string, object>> data;
     int CommandNumber = -1;
@@ -50,7 +57,10 @@ public class EventDialogPlayer : MonoBehaviour {
 
             for (int i = 0; i < imageLink.Length; i++) {
                 if (nameText.text.Equals(imageLink[i])) {
-                    Focus(imageObjs[i]); 
+                    StopCoroutine("UnFocus");
+                    StopCoroutine("Focus");
+                    StartCoroutine("Focus", imageObjs[i]);
+                    StartCoroutine("UnFocus", preFocused);
                 }
             }
         }
@@ -110,12 +120,29 @@ public class EventDialogPlayer : MonoBehaviour {
         }
     }
 
-    void Focus(GameObject obj) {
-    }
-
     void SetImage(GameObject imageObj, Sprite sprite) {
         imageObj.SetActive(true);
         imageObj.GetComponent<Image>().overrideSprite = sprite;
         imageObj.GetComponent<Image>().color = UNFOCUSED_COLOR;
+    }
+
+    IEnumerator Focus(GameObject obj) {
+        preFocused = nowFocused;
+        nowFocused = obj;
+
+        for (int i = 0; i < 500; i++)
+        {
+            obj.GetComponent<Image>().color = Color.Lerp(obj.GetComponent<Image>().color, Color.white, 0.1f);
+            yield return new WaitForSeconds(0.001f);
+        }
+    }
+
+    IEnumerator UnFocus(GameObject obj)
+    {
+        for (int i = 0; i < 500; i++)
+        {
+            obj.GetComponent<Image>().color = Color.Lerp(obj.GetComponent<Image>().color, UNFOCUSED_COLOR, 0.1f);
+            yield return new WaitForSeconds(0.001f);
+        }
     }
 }

@@ -225,10 +225,10 @@ MonoBehaviour:
   nameObj: {fileID: 893873488}
   dialogObj: {fileID: 838009823}
   imageObjs:
-  - {fileID: 717736985}
   - {fileID: 1289238721}
+  - {fileID: 717736985}
   - {fileID: 263163242}
-  UNFOCUSED_COLOR: {r: 0, g: 0, b: 0, a: 0}
+  UNFOCUSED_COLOR: {r: 0.5849056, g: 0.5849056, b: 0.5849056, a: 1}
 --- !u!1 &243348843
 GameObject:
   m_ObjectHideFlags: 0
