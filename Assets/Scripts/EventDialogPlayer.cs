@@ -15,7 +15,7 @@ public class EventDialogPlayer : MonoBehaviour {
         "ImageSetting",
         "SetImage1",
         "SetImage2",
-        "Setimage3",
+        "SetImage3",
         "Focus",
         "Jump",
         "Button"};
@@ -50,35 +50,53 @@ public class EventDialogPlayer : MonoBehaviour {
     }
 
     void ExecuteCommand() {
-        if (CommandNumber == -1)
-        {
-            nameText.text = "" + data[line]["Char"];
-            dialogText.text = "" + data[line]["Dialog"];
+        switch (CommandNumber) {
+            case -1: // IDLE
+                nameText.text = "" + data[line]["Char"];
+                dialogText.text = "" + data[line]["Dialog"];
 
-            for (int i = 0; i < imageLink.Length; i++) {
-                if (nameText.text.Equals(imageLink[i])) {
-                    StopCoroutine("UnFocus");
-                    StopCoroutine("Focus");
-                    StartCoroutine("Focus", imageObjs[i]);
-                    StartCoroutine("UnFocus", preFocused);
+                for (int i = 0; i < imageLink.Length; i++)
+                {
+                    if (nameText.text.Equals(imageLink[i]))
+                    {
+                        StopCoroutine("UnFocus");
+                        StopCoroutine("Focus");
+                        StartCoroutine("Focus", imageObjs[i]);
+                        StartCoroutine("UnFocus", preFocused);
+                    }
                 }
-            }
-        }
-        else if (CommandNumber == 0)
-        {
-            EventLoad("" + data[line]["Dialog"]);
-
-            line++;
-            CheckCommand();
-            ExecuteCommand();
-        }
-        else if (CommandNumber == 1)
-        {
-            ImageLink();
-
-            line++;
-            CheckCommand();
-            ExecuteCommand();
+                break;
+            case 0: // EventLoad
+                EventLoad("" + data[line]["Dialog"]);
+                break;
+            case 1: // ImageLink
+                ImageLink();
+                break;
+            case 2: // SetImage1
+                SetImage(imageObjs[0], Resources.Load<Sprite>("" + data[line]["Dialog"]));
+                line++;
+                CheckCommand();
+                ExecuteCommand();
+                break;
+            case 3: // SetImage2
+                SetImage(imageObjs[1], Resources.Load<Sprite>("" + data[line]["Dialog"]));
+                line++;
+                CheckCommand();
+                ExecuteCommand();
+                break;
+            case 4: // SetImage3
+                SetImage(imageObjs[2], Resources.Load<Sprite>("" + data[line]["Dialog"]));
+                line++;
+                CheckCommand();
+                ExecuteCommand();
+                break;
+            case 5: // Focus
+                StartCoroutine("Focus", imageObjs[(int)data[line]["Dialog"]]);
+                break;
+            case 6: // Jump
+                break;
+            case 7: // Button
+                break;
         }
     }
 
@@ -118,6 +136,10 @@ public class EventDialogPlayer : MonoBehaviour {
 
             }
         }
+
+        line++;
+        CheckCommand();
+        ExecuteCommand();
     }
 
     void SetImage(GameObject imageObj, Sprite sprite) {
