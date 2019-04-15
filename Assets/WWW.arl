@@ -1,0 +1,1095 @@
+# XPS NGFF ARL Blender Exporter file: 'untitled.blend'
+# Version: 0.1
+364 # bone Count
+root ground
+-1
+0 0 0
+root hips
+0
+0 0.887319 -6.69907e-08
+pelvis
+1
+-2.0169e-05 0.887319 -9.75542e-08
+leg right thigh
+2
+-0.0727602 0.86045 -0.0138715
+leg right knee
+3
+-0.166919 0.509047 -0.0138697
+leg right ankle
+4
+-0.26567 0.1405 -0.0138687
+leg right toes
+5
+-0.28542 0.0667908 0.0722014
+leg right knee ctr
+4
+-0.166919 0.509047 -0.012982
+leg right thigh ctr
+3
+-0.07299 0.859594 -0.0138711
+leg right thigh ctr2
+3
+-0.119839 0.684749 -0.0138704
+leg left thigh
+2
+0.0727602 0.86045 -0.0138715
+leg left knee
+10
+0.166919 0.509047 -0.0138698
+leg left ankle
+11
+0.265671 0.1405 -0.0138691
+leg left toes
+12
+0.285421 0.0667906 0.0722008
+leg left knee ctr
+11
+0.166919 0.509047 -0.0129819
+leg left thigh ctr
+10
+0.0729899 0.859594 -0.013871
+leg left thigh ctr2
+10
+0.119839 0.684749 -0.0138704
+leg left butt ctr
+2
+0.0725305 0.861306 -0.0138715
+leg right butt ctr
+2
+-0.0725305 0.861306 -0.0138715
+spine lower
+1
+-6.36824e-12 0.972497 0.00585598
+spine upper
+19
+-1.95302e-12 1.0568 0.012067
+arm left shoulder 1
+20
+0.0608702 1.23457 -0.0242253
+arm left shoulder 2
+21
+0.115391 1.22892 -0.0242551
+arm left elbow
+22
+0.269776 1.07453 -0.0242552
+arm left wrist
+23
+0.417059 0.927248 -0.0242553
+unusedhandl
+24
+0.417059 0.927248 -0.0242553
+arm left finger 2a
+25
+0.468708 0.891367 0.000767067
+arm left finger 2b
+26
+0.489018 0.871056 0.00378599
+arm left finger 2c
+27
+0.501552 0.858523 0.00564871
+arm left finger 5 base
+25
+0.410169 0.938982 -0.0216214
+arm left finger 5a
+29
+0.462088 0.891286 -0.0516696
+arm left finger 5b
+30
+0.477217 0.875522 -0.0565575
+arm left finger 5c
+31
+0.486885 0.865446 -0.0596819
+arm left finger 4a
+29
+0.467729 0.891397 -0.0364415
+arm left finger 4b
+33
+0.48731 0.871809 -0.0391739
+arm left finger 4c
+34
+0.500772 0.858334 -0.0410528
+arm left finger 3a
+25
+0.471813 0.89137 -0.017759
+arm left finger 3b
+36
+0.493852 0.869331 -0.0177592
+arm left finger 3c
+37
+0.507385 0.855799 -0.0177594
+arm left finger 1a
+25
+0.4201 0.913159 -0.00239524
+arm left finger 1b
+39
+0.422453 0.88627 0.0131875
+arm left finger 1c
+40
+0.424374 0.864305 0.0259171
+arm left elbow ctr
+23
+0.269776 1.07453 -0.0251158
+arm left elbow ctr2
+23
+0.31887 1.02544 -0.0242552
+arm left wrist ctr
+23
+0.367965 0.976342 -0.0242552
+arm left shoulder 2 ctr
+22
+0.115999 1.22831 -0.024255
+arm left shoulder 2 ctr2
+22
+0.192583 1.15172 -0.024255
+arm right shoulder 1
+20
+-0.0608702 1.23457 -0.0242253
+arm right shoulder 2
+47
+-0.113755 1.22908 -0.0242542
+arm right elbow
+48
+-0.26814 1.0747 -0.0242543
+arm right wrist
+49
+-0.415423 0.927418 -0.0242546
+unusedhandr
+50
+-0.415423 0.927418 -0.0242546
+arm right finger 2a
+51
+-0.467072 0.891537 0.000765365
+arm right finger 2b
+52
+-0.487383 0.871226 0.00378412
+arm right finger 2c
+53
+-0.499916 0.858693 0.00564678
+arm right finger 5 base
+51
+-0.408534 0.939152 -0.0216206
+arm right finger 5a
+55
+-0.460456 0.891456 -0.0516691
+arm right finger 5b
+56
+-0.475582 0.875695 -0.0565571
+arm right finger 5c
+57
+-0.485249 0.865619 -0.0596816
+arm right finger 4a
+55
+-0.466097 0.891567 -0.0364394
+arm right finger 4b
+59
+-0.485675 0.871982 -0.0391722
+arm right finger 4c
+60
+-0.49914 0.858511 -0.0410516
+arm right finger 3a
+51
+-0.470174 0.891537 -0.0177587
+arm right finger 3b
+62
+-0.492213 0.869501 -0.0177589
+arm right finger 3c
+63
+-0.505746 0.855969 -0.0177592
+arm right finger 1a
+51
+-0.418465 0.913326 -0.00239456
+arm right finger 1b
+65
+-0.420818 0.88644 0.0131882
+arm right finger 1c
+66
+-0.422738 0.864475 0.0259176
+arm right elbow ctr
+49
+-0.26814 1.0747 -0.0251149
+arm right elbow ctr2
+49
+-0.317235 1.02561 -0.0242544
+arm right wrist ctr
+49
+-0.366329 0.976512 -0.0242545
+arm right shoulder 2 ctr
+48
+-0.114363 1.22848 -0.024254
+arm right shoulder 2 ctr.001
+48
+-0.190948 1.15189 -0.0242541
+breast left base
+20
+0.0559012 1.13222 0.0475216
+breast left tip
+73
+0.0854969 1.13222 0.142543
+breast left 1
+74
+0.00208107 1.13222 0.10756
+breast left 2
+74
+0.0214431 1.18118 0.10153
+breast left 3
+74
+0.0681874 1.20145 0.08697
+breast left 4
+74
+0.114932 1.18118 0.0724105
+breast left 5
+74
+0.134294 1.13222 0.06638
+breast right base
+20
+-0.0559012 1.13222 0.0475216
+breast right tip
+80
+-0.0854969 1.13222 0.142543
+breast right 1
+81
+-0.00208105 1.13222 0.10756
+breast right 2
+81
+-0.0214431 1.18118 0.101529
+breast right 3
+81
+-0.0681874 1.20145 0.0869699
+breast right 4
+81
+-0.114932 1.18118 0.0724105
+breast right 5
+81
+-0.134294 1.13222 0.0663802
+head neck lower
+20
+1.19075e-11 1.27854 -0.0252434
+head neck upper
+87
+-2.77889e-12 1.32555 -0.0122221
+Face Root
+88
+-2.77889e-12 1.32555 -0.0122221
+head eyebrow middle
+89
+-2.78828e-12 1.41895 0.0764128
+head lip upper middle
+89
+-2.76789e-12 1.34854 0.076775
+head nose middle
+89
+-2.76692e-12 1.37003 0.0872733
+head jaw
+89
+-2.83011e-12 1.36937 0.0126595
+head lip lower middle
+93
+-2.77954e-12 1.34155 0.073869
+head tongue a
+93
+-2.80757e-12 1.34717 0.0447522
+head tongue b
+95
+-1.08658e-07 1.34154 0.0623363
+head lip lower left
+93
+0.00907977 1.34274 0.0709712
+head lip lower right
+93
+-0.00907981 1.34274 0.0709712
+head cheek left a
+89
+0.0296256 1.37606 0.0647748
+head cheek left b
+89
+0.0488271 1.37892 0.0524992
+head cheek left c
+89
+0.0485708 1.35544 0.0442433
+head eyeball left
+89
+0.0304737 1.40313 0.049215
+head eyelid left lower a
+89
+0.022873 1.3942 0.0645433
+head eyelid left lower b
+89
+0.0355986 1.39238 0.0624143
+head eyebrow left a
+89
+0.0169046 1.41931 0.0738693
+head eyebrow left b
+89
+0.0373102 1.42205 0.0685117
+head eyebrow left c
+89
+0.0505343 1.41851 0.0555756
+head eyelid left upper
+89
+0.0304737 1.40327 0.049215
+head forehead left
+89
+0.0286077 1.43331 0.0707355
+head lip corner left
+89
+0.0190134 1.34483 0.0628561
+head lip upper left
+89
+0.0105622 1.3481 0.0728077
+head nose left a
+89
+0.0107462 1.38308 0.0718778
+head nose left b
+89
+0.0132841 1.36847 0.070579
+head nose left c
+89
+0.0248934 1.35955 0.0651332
+head nose left d
+89
+0.0292536 1.35119 0.061085
+head cheek right a
+89
+-0.0296256 1.37606 0.0647748
+head cheek right b
+89
+-0.0488271 1.37892 0.0524992
+head cheek right c
+89
+-0.0485708 1.35544 0.0442433
+head eyeball right
+89
+-0.0304727 1.40313 0.049215
+head eyelid right lower a
+89
+-0.022873 1.3942 0.0645433
+head eyelid right lower b
+89
+-0.0355986 1.39238 0.0624143
+head eyebrow right a
+89
+-0.0169045 1.41931 0.0738693
+head eyebrow right b
+89
+-0.0373102 1.42205 0.0685117
+head eyebrow right c
+89
+-0.0505339 1.41851 0.0555756
+head eyelid right upper
+89
+-0.0304727 1.40327 0.049215
+head forehead right
+89
+-0.0286077 1.43331 0.0707355
+head lip corner right
+89
+-0.0190135 1.34483 0.0628561
+head lip upper right
+89
+-0.0105622 1.3481 0.0728077
+head nose right a
+89
+-0.0107462 1.38308 0.0718778
+head nose right b
+89
+-0.0132841 1.36847 0.070579
+head nose right c
+89
+-0.0248934 1.35955 0.0651332
+head nose right d
+89
+-0.0292535 1.35119 0.061085
+unused WGT_face4
+88
+-2.77889e-12 1.32555 -0.0122221
+glasses
+88
+-2.78229e-12 1.34455 -0.0122222
+unused WGT_sweat_cheek_l
+88
+-2.78146e-12 1.3396 -0.0151843
+unused WGT_sweat_cheek_r
+88
+-2.78146e-12 1.3396 -0.0151843
+unused MOT01_Head
+88
+-1.76356e-06 1.32554 -0.0122289
+unused WGT_cap_0
+137
+-1.80047e-06 0.809981 0.0441747
+unused OPT_acs_fronthair_root1
+88
+-1.03819e-07 0.844625 0.00514737
+hair front middle 1
+139
+0.00121094 1.51226 0.0414027
+hair front middle 2
+140
+0.00290627 1.49657 0.0640152
+hair front middle 3
+141
+0.00327348 1.47051 0.0768309
+hair front middle 4
+142
+0.000422996 1.43847 0.0808453
+hair front middle 5
+143
+-0.00566161 1.40397 0.0808448
+hair front left 1
+139
+0.00863244 1.50636 0.0477501
+hair front left 2
+145
+0.0354516 1.48799 0.0572954
+hair front left 3
+146
+0.0511884 1.45275 0.0600655
+hair front left 4
+147
+0.0566998 1.41508 0.0573157
+hair front left 5
+148
+0.0572843 1.37235 0.0520399
+hair front right 1
+139
+-0.00863224 1.50636 0.0477501
+hair front right 2
+150
+-0.0354512 1.48799 0.0572958
+hair front right 3
+151
+-0.0511876 1.45275 0.0600655
+hair front right 4
+152
+-0.0566993 1.41508 0.0573157
+hair front right 5
+153
+-0.0572838 1.37235 0.0520398
+hair side left root
+88
+-1.03819e-07 0.844625 0.00514737
+hair side left 1
+155
+0.0656568 1.46207 0.0249891
+hair side left 2
+156
+0.0656568 1.42248 0.0249891
+hair side left 3
+157
+0.0656568 1.3829 0.0249891
+hair side left 4
+158
+0.0656568 1.34331 0.024989
+hair side left 5
+159
+0.0656568 1.30372 0.024989
+hair side left 6
+160
+0.0656568 1.26414 0.0249889
+hair side left 7
+161
+0.0656568 1.22455 0.0249889
+hair side right root
+88
+-1.03819e-07 0.844625 0.00514737
+hair side right 1
+163
+-0.0656568 1.46207 0.0249891
+hair side right 2
+164
+-0.0656569 1.42248 0.0249891
+hair side right 3
+165
+-0.0656565 1.3829 0.0249891
+hair side right 4
+166
+-0.0656565 1.34331 0.024989
+hair side right 5
+167
+-0.0656565 1.30372 0.024989
+hair side right 6
+168
+-0.0656565 1.26414 0.024989
+hair side right 7
+169
+-0.0656566 1.22455 0.024989
+unused OPT_acs_Hair_root
+88
+-2.76448e-12 1.36737 -0.0137322
+hair back I left a root
+171
+-2.79574e-12 1.36737 -0.0137322
+hair back I left a 1
+172
+0.0245572 1.42142 -0.0910172
+hair back I left a 2
+173
+0.0245571 1.37722 -0.0910171
+hair back I left a 3
+174
+0.0245571 1.33302 -0.091017
+hair back I left a 4
+175
+0.0245571 1.28882 -0.0910169
+hair back I left a 5
+176
+0.0245571 1.24462 -0.0910169
+hair back I left a 6
+177
+0.0245571 1.20042 -0.0910168
+hair back I left a 7
+178
+0.024557 1.15622 -0.0910167
+hair back I left b root
+171
+-2.79574e-12 1.36737 -0.0137322
+hair back I left b 1
+180
+0.0615647 1.42142 -0.0627573
+hair back I left b 2
+181
+0.0615647 1.37722 -0.0627572
+hair back I left b 3
+182
+0.0615647 1.33302 -0.0627571
+hair back I left b 4
+183
+0.0615646 1.28882 -0.062757
+hair back I left b 5
+184
+0.0615646 1.24462 -0.0627569
+hair back I left b 6
+185
+0.0615646 1.20042 -0.0627569
+hair back I left b 7
+186
+0.0615645 1.15622 -0.0627568
+hair back I left c root
+171
+-2.79574e-12 1.36737 -0.0137322
+hair back I left c 1
+188
+0.0726716 1.42142 -0.0441723
+hair back I left c 2
+189
+0.0726716 1.37722 -0.0441723
+hair back I left c 3
+190
+0.0726716 1.33302 -0.0441722
+hair back I left c 4
+191
+0.0726716 1.28882 -0.0441722
+hair back I left c 5
+192
+0.0726712 1.24462 -0.0441721
+hair back I left c 6
+193
+0.0726712 1.20042 -0.0441721
+hair back I left c 7
+194
+0.0726712 1.15622 -0.0441721
+hair back I right a root
+171
+-2.79574e-12 1.36737 -0.0137322
+hair back I right a 1
+196
+-0.024557 1.42142 -0.0910172
+hair back I right a 2
+197
+-0.024557 1.37722 -0.0910171
+hair back I right a 3
+198
+-0.024557 1.33302 -0.0910171
+hair back I right a 4
+199
+-0.024557 1.28882 -0.091017
+hair back I right a 5
+200
+-0.024557 1.24462 -0.0910169
+hair back I right a 6
+201
+-0.024557 1.20042 -0.0910168
+hair back I right a 7
+202
+-0.024557 1.15622 -0.0910168
+hair back I right b root
+171
+-2.79574e-12 1.36737 -0.0137322
+hair back I right b 1
+204
+-0.0615647 1.42142 -0.0627573
+hair back I right b 2
+205
+-0.0615647 1.37722 -0.0627572
+hair back I right b 3
+206
+-0.0615647 1.33302 -0.0627571
+hair back I right b 4
+207
+-0.0615647 1.28882 -0.0627571
+hair back I right b 5
+208
+-0.0615646 1.24462 -0.062757
+hair back I right b 6
+209
+-0.0615646 1.20042 -0.0627569
+hair back I right b 7
+210
+-0.0615646 1.15622 -0.0627568
+hair back I right c root
+171
+-2.79574e-12 1.36737 -0.0137322
+hair back I right c 1
+212
+-0.0726711 1.42142 -0.0441723
+hair back I right c 2
+213
+-0.0726711 1.37722 -0.0441723
+hair back I right c 3
+214
+-0.0726712 1.33302 -0.0441722
+hair back I right c 4
+215
+-0.0726712 1.28882 -0.0441722
+hair back I right c 5
+216
+-0.0726712 1.24462 -0.0441721
+hair back I right c 6
+217
+-0.0726712 1.20042 -0.0441721
+hair back I right c 7
+218
+-0.0726716 1.15622 -0.0441721
+hair back II middle root
+171
+-2.79574e-12 1.36737 -0.0137322
+hair back II middle 1
+220
+8.71065e-08 1.45267 -0.104044
+hair back II middle 2
+221
+1.40253e-07 1.41263 -0.104044
+hair back II middle 3
+222
+1.2045e-07 1.3726 -0.104044
+hair back II middle 4
+223
+8.08645e-08 1.33255 -0.104044
+hair back II middle 5
+224
+5.73524e-08 1.29252 -0.104044
+hair back II middle 6
+225
+6.22781e-08 1.25248 -0.104044
+hair back II middle 7
+226
+-9.49809e-09 1.21244 -0.104044
+hair back II middle 8
+227
+-1.32277e-08 1.1724 -0.104044
+hair back II left a root
+171
+-2.79574e-12 1.36737 -0.0137322
+hair back II left a 1
+229
+0.0429729 1.45267 -0.0891352
+hair back II left a 2
+230
+0.0429728 1.41263 -0.0891351
+hair back II left a 3
+231
+0.0429728 1.3726 -0.089135
+hair back II left a 4
+232
+0.0429728 1.33255 -0.0891349
+hair back II left a 5
+233
+0.0429728 1.29252 -0.0891348
+hair back II left a 6
+234
+0.0429728 1.25248 -0.0891347
+hair back II left a 7
+235
+0.0429728 1.21244 -0.0891346
+hair back II left a 8
+236
+0.0429727 1.1724 -0.0891344
+hair back II left b root
+171
+-2.79574e-12 1.36737 -0.0137322
+hair back II left b 1
+238
+0.0695537 1.45267 -0.0647977
+hair back II left b 2
+239
+0.0695537 1.41263 -0.0647976
+hair back II left b 3
+240
+0.0695537 1.3726 -0.0647975
+hair back II left b 4
+241
+0.0695533 1.33255 -0.0647975
+hair back II left b 5
+242
+0.0695532 1.29252 -0.0647974
+hair back II left b 6
+243
+0.0695532 1.25248 -0.0647974
+hair back II left b 7
+244
+0.0695532 1.21244 -0.0647973
+hair back II left b 8
+245
+0.0695532 1.1724 -0.0647972
+hair back II right a root
+171
+-2.79574e-12 1.36737 -0.0137322
+hair back II right a 1
+247
+-0.0429728 1.45267 -0.0891352
+hair back II right a 2
+248
+-0.0429728 1.41263 -0.0891351
+hair back II right a 3
+249
+-0.0429728 1.3726 -0.0891349
+hair back II right a 4
+250
+-0.0429728 1.33255 -0.0891348
+hair back II right a 5
+251
+-0.0429728 1.29252 -0.0891347
+hair back II right a 6
+252
+-0.0429728 1.25248 -0.0891346
+hair back II right a 7
+253
+-0.0429728 1.21244 -0.0891345
+hair back II right a 8
+254
+-0.0429728 1.1724 -0.0891344
+hair back II right b root
+171
+-2.79574e-12 1.36737 -0.0137322
+hair back II right b 1
+256
+-0.0695533 1.45267 -0.0647977
+hair back II right b 2
+257
+-0.0695533 1.41263 -0.0647976
+hair back II right b 3
+258
+-0.0695532 1.3726 -0.0647976
+hair back II right b 4
+259
+-0.0695532 1.33255 -0.0647975
+hair back II right b 5
+260
+-0.0695536 1.29252 -0.0647974
+hair back II right b 6
+261
+-0.0695536 1.25248 -0.0647973
+hair back II right b 7
+262
+-0.0695536 1.21244 -0.0647973
+hair back II right b 8
+263
+-0.0695536 1.1724 -0.0647972
+hair back III left a root
+171
+-2.79574e-12 1.36737 -0.0137322
+hair back III left a 1
+265
+0.0342359 1.46814 -0.105692
+hair back III left a 2
+266
+0.0342359 1.42282 -0.105692
+hair back III left a 3
+267
+0.0342358 1.3775 -0.105692
+hair back III left a 4
+268
+0.0342358 1.33218 -0.105692
+hair back III left a 5
+269
+0.0342358 1.28687 -0.105692
+hair back III left a 6
+270
+0.0342357 1.24155 -0.105691
+hair back III left a 7
+271
+0.0342357 1.19623 -0.105691
+hair back III left a 8
+272
+0.0342357 1.15091 -0.105691
+hair back III left b root
+171
+-2.79574e-12 1.36737 -0.0137322
+hair back III left b 1
+274
+0.0788122 1.46423 -0.0700259
+hair back III left b 2
+275
+0.0788122 1.41891 -0.0700258
+hair back III left b 3
+276
+0.0788121 1.37359 -0.0700257
+hair back III left b 4
+277
+0.0788121 1.32827 -0.0700257
+hair back III left b 5
+278
+0.0788121 1.28296 -0.0700256
+hair back III left b 6
+279
+0.078812 1.23764 -0.0700255
+hair back III left b 7
+280
+0.078812 1.19232 -0.0700254
+hair back III left b 8
+281
+0.0788115 1.147 -0.0700253
+hair back III left c root
+171
+-2.79574e-12 1.36737 -0.0137322
+hair back III left c 1
+283
+0.0774821 1.40319 -0.0300538
+hair back III left c 2
+284
+0.0774821 1.35899 -0.0300537
+hair back III left c 3
+285
+0.077482 1.31479 -0.0300537
+hair back III left c 4
+286
+0.077482 1.27059 -0.0300537
+hair back III left c 5
+287
+0.077482 1.22639 -0.0300536
+hair back III left c 6
+288
+0.077482 1.18218 -0.0300536
+hair back III left c 7
+289
+0.077482 1.13798 -0.0300536
+hair back III right a root
+171
+-2.79574e-12 1.36737 -0.0137322
+hair back III right a 1
+291
+-0.0342357 1.46814 -0.105692
+hair back III right a 2
+292
+-0.0342358 1.42282 -0.105692
+hair back III right a 3
+293
+-0.0342357 1.3775 -0.105692
+hair back III right a 4
+294
+-0.0342357 1.33218 -0.105692
+hair back III right a 5
+295
+-0.0342357 1.28687 -0.105692
+hair back III right a 6
+296
+-0.0342357 1.24155 -0.105691
+hair back III right a 7
+297
+-0.0342357 1.19623 -0.105691
+hair back III right a 8
+298
+-0.0342357 1.15091 -0.105691
+hair back III right b root
+171
+-2.79574e-12 1.36737 -0.0137322
+hair back III right b 1
+300
+-0.0788117 1.46423 -0.0700259
+hair back III right b 2
+301
+-0.0788117 1.41891 -0.0700258
+hair back III right b 3
+302
+-0.0788117 1.37359 -0.0700257
+hair back III right b 4
+303
+-0.0788117 1.32827 -0.0700257
+hair back III right b 5
+304
+-0.0788118 1.28296 -0.0700256
+hair back III right b 6
+305
+-0.0788118 1.23764 -0.0700255
+hair back III right b 7
+306
+-0.0788118 1.19232 -0.0700254
+hair back III right b 8
+307
+-0.0788122 1.147 -0.0700253
+hair back III right c root
+171
+-2.79574e-12 1.36737 -0.0137322
+hair back III right c 1
+309
+-0.0825419 1.40319 -0.037232
+hair back III right c 2
+310
+-0.0825419 1.35899 -0.0372319
+hair back III right c 3
+311
+-0.0825419 1.31479 -0.0372319
+hair back III right c 4
+312
+-0.0825419 1.27059 -0.0372318
+hair back III right c 5
+313
+-0.0825419 1.22639 -0.0372318
+hair back III right c 6
+314
+-0.0825419 1.18218 -0.0372317
+hair back III right c 7
+315
+-0.0825419 1.13798 -0.0372317
+hair back III right d root
+171
+-2.79574e-12 1.36737 -0.0137322
+hair back III right d 1
+317
+-0.0774821 1.40319 -0.0300537
+hair back III right d 2
+318
+-0.077482 1.35899 -0.0300537
+hair back III right d 3
+319
+-0.077482 1.31479 -0.0300537
+hair back III right d 4
+320
+-0.077482 1.27059 -0.0300536
+hair back III right d 5
+321
+-0.077482 1.22639 -0.0300536
+hair back III right d 6
+322
+-0.077482 1.18218 -0.0300536
+hair back III right d 7
+323
+-0.077482 1.13798 -0.0300536
+hair sidetail a root
+88
+-1.03819e-07 0.844625 0.00514737
+hair sidetail a 1
+325
+0.0669959 1.50193 -0.0294981
+hair sidetail a 2
+326
+0.0880557 1.49179 -0.0294981
+hair sidetail a 3
+327
+0.100121 1.47488 -0.0294981
+hair sidetail a 4
+328
+0.104275 1.45091 -0.0294981
+hair sidetail a 5
+329
+0.105244 1.41684 -0.0294981
+hair sidetail a 6
+330
+0.106213 1.37696 -0.0294981
+hair sidetail a 7
+331
+0.106213 1.33707 -0.0294981
+hair sidetail a 8
+332
+0.106213 1.29718 -0.0294981
+hair sidetail a 9
+333
+0.106213 1.25729 -0.0294981
+hair sidetail a 10
+334
+0.106213 1.21741 -0.0294981
+hair sidetail b root
+88
+-1.03819e-07 0.844625 0.00514737
+hair sidetail b 1
+336
+0.0669959 1.50193 -0.0294981
+hair sidetail b 2
+337
+0.0880557 1.49179 -0.0294981
+hair sidetail b 3
+338
+0.100121 1.47488 -0.0294981
+hair sidetail b 4
+339
+0.104275 1.45091 -0.0294981
+hair sidetail b 5
+340
+0.105244 1.41684 -0.0294981
+hair sidetail b 6
+341
+0.106213 1.37696 -0.0294981
+hair sidetail b 7
+342
+0.106213 1.33707 -0.0294981
+hair sidetail b 8
+343
+0.106213 1.29718 -0.0294981
+hair sidetail b 9
+344
+0.106213 1.25729 -0.0294981
+hair sidetail b 10
+345
+0.106213 1.21741 -0.0294981
+hair sidetail c root
+88
+-1.03819e-07 0.844625 0.00514737
+hair sidetail c 1
+347
+0.0669959 1.50193 -0.0294981
+hair sidetail c 2
+348
+0.0880557 1.49179 -0.0294981
+hair sidetail c 3
+349
+0.100121 1.47488 -0.0294981
+hair sidetail c 4
+350
+0.104275 1.45091 -0.0294981
+hair sidetail c 5
+351
+0.105244 1.41684 -0.0294981
+hair sidetail c 6
+352
+0.106213 1.37696 -0.0294981
+hair sidetail c 7
+353
+0.106213 1.33707 -0.0294981
+hair sidetail c 8
+354
+0.106213 1.29718 -0.0294981
+hair sidetail c 9
+355
+0.106213 1.25729 -0.0294981
+hair sidetail c 10
+356
+0.106213 1.21741 -0.0294981
+dummy head
+88
+-2.7767e-12 1.32555 -0.0122218
+unused WGT_zdmodel
+88
+-1.03819e-07 0.844625 0.00514737
+unused MOT15_Neck
+-1
+0 0 0
+unused OPT_acs_ground
+-1
+0 0 0
+unused WGT_body_0
+-1
+0 0 0
+unused WGT_sweat_chest
+362
+-0.00146088 0.0115138 -0.0186856

@@ -1,0 +1,350 @@
+root ground: 0 0 0 0 0 0 1 1 1
+root hips: 0 0 0 0 0 0 1 1 1
+pelvis: 0 0 0 0 0 0 1 1 1
+leg right thigh: 0 0 0 0 0 0 1 1 1
+leg right knee: 0 0 0 0 0 0 1 1 1
+leg right ankle: 0 0 0 0 0 0 1 1 1
+leg right toes: 0 0 0 0 0 0 1 1 1
+leg right knee ctr: 0 0 0 0 0 0 1 1 1
+leg right thigh ctr: 0 0 0 0 0 0 1 1 1
+leg right thigh ctr2: 0 0 0 0 0 0 1 1 1
+leg left thigh: 0 0 0 0 0 0 1 1 1
+leg left knee: 0 0 0 0 0 0 1 1 1
+leg left ankle: 0 0 0 0 0 0 1 1 1
+leg left toes: 0 0 0 0 0 0 1 1 1
+leg left knee ctr: 0 0 0 0 0 0 1 1 1
+leg left thigh ctr: 0 0 0 0 0 0 1 1 1
+leg left thigh ctr2: 0 0 0 0 0 0 1 1 1
+leg left butt ctr: 0 0 0 0 0 0 1 1 1
+leg right butt ctr: 0 0 0 0 0 0 1 1 1
+spine lower: 0 0 0 0 0 0 1 1 1
+spine upper: 0 0 0 0 0 0 1 1 1
+arm left shoulder 1: 0 0 0 0 0 0 1 1 1
+arm left shoulder 2: 0 0 0 0 0 0 1 1 1
+arm left elbow: 0 0 0 0 0 0 1 1 1
+arm left wrist: 0 0 0 0 0 0 1 1 1
+arm left finger 2a: 0 0 0 0 0 0 1 1 1
+arm left finger 2b: 0 0 0 0 0 0 1 1 1
+arm left finger 2c: 0 0 0 0 0 0 1 1 1
+arm left finger 5 base: 0 0 0 0 0 0 1 1 1
+arm left finger 5a: 0 0 0 0 0 0 1 1 1
+arm left finger 5b: 0 0 0 0 0 0 1 1 1
+arm left finger 5c: 0 0 0 0 0 0 1 1 1
+arm left finger 4a: 0 0 0 0 0 0 1 1 1
+arm left finger 4b: 0 0 0 0 0 0 1 1 1
+arm left finger 4c: 0 0 0 0 0 0 1 1 1
+arm left finger 3a: 0 0 0 0 0 0 1 1 1
+arm left finger 3b: 0 0 0 0 0 0 1 1 1
+arm left finger 3c: 0 0 0 0 0 0 1 1 1
+arm left finger 1a: 0 0 0 0 0 0 1 1 1
+arm left finger 1b: 0 0 0 0 0 0 1 1 1
+arm left finger 1c: 0 0 0 0 0 0 1 1 1
+arm left elbow ctr: 0 0 0 0 0 0 1 1 1
+arm left elbow ctr2: 0 0 0 0 0 0 1 1 1
+arm left wrist ctr: 0 0 0 0 0 0 1 1 1
+arm left shoulder 2 ctr: 0 0 0 0 0 0 1 1 1
+arm left shoulder 2 ctr2: 0 0 0 0 0 0 1 1 1
+arm right shoulder 1: 0 0 0 0 0 0 1 1 1
+arm right shoulder 2: 0 0 0 0 0 0 1 1 1
+arm right elbow: 0 0 0 0 0 0 1 1 1
+arm right wrist: 0 0 0 0 0 0 1 1 1
+arm right finger 2a: 0 0 0 0 0 0 1 1 1
+arm right finger 2b: 0 0 0 0 0 0 1 1 1
+arm right finger 2c: 0 0 0 0 0 0 1 1 1
+arm right finger 5 base: 0 0 0 0 0 0 1 1 1
+arm right finger 5a: 0 0 0 0 0 0 1 1 1
+arm right finger 5b: 0 0 0 0 0 0 1 1 1
+arm right finger 5c: 0 0 0 0 0 0 1 1 1
+arm right finger 4a: 0 0 0 0 0 0 1 1 1
+arm right finger 4b: 0 0 0 0 0 0 1 1 1
+arm right finger 4c: 0 0 0 0 0 0 1 1 1
+arm right finger 3a: 0 0 0 0 0 0 1 1 1
+arm right finger 3b: 0 0 0 0 0 0 1 1 1
+arm right finger 3c: 0 0 0 0 0 0 1 1 1
+arm right finger 1a: 0 0 0 0 0 0 1 1 1
+arm right finger 1b: 0 0 0 0 0 0 1 1 1
+arm right finger 1c: 0 0 0 0 0 0 1 1 1
+arm right elbow ctr: 0 0 0 0 0 0 1 1 1
+arm right elbow ctr2: 0 0 0 0 0 0 1 1 1
+arm right wrist ctr: 0 0 0 0 0 0 1 1 1
+arm right shoulder 2 ctr: 0 0 0 0 0 0 1 1 1
+arm right shoulder 2 ctr.001: 0 0 0 0 0 0 1 1 1
+breast left base: 0 0 0 0 0 0 1 1 1
+breast left tip: 0 0 0 0 0 0 1 1 1
+breast left 1: 0 0 0 0 0 0 1 1 1
+breast left 2: 0 0 0 0 0 0 1 1 1
+breast left 3: 0 0 0 0 0 0 1 1 1
+breast left 4: 0 0 0 0 0 0 1 1 1
+breast left 5: 0 0 0 0 0 0 1 1 1
+breast right base: 0 0 0 0 0 0 1 1 1
+breast right tip: 0 0 0 0 0 0 1 1 1
+breast right 1: 0 0 0 0 0 0 1 1 1
+breast right 2: 0 0 0 0 0 0 1 1 1
+breast right 3: 0 0 0 0 0 0 1 1 1
+breast right 4: 0 0 0 0 0 0 1 1 1
+breast right 5: 0 0 0 0 0 0 1 1 1
+head neck lower: 0 0 0 0 0 0 1 1 1
+head neck upper: 0 0 0 0 0 0 1 1 1
+Face Root: 0 0 0 0 0 0 1 1 1
+head eyebrow middle: 0 0 0 0 0 0 1 1 1
+head lip upper middle: 0 0 0 0 0 0 1 1 1
+head nose middle: 0 0 0 0 0 0 1 1 1
+head jaw: 0 0 0 0 0 0 1 1 1
+head lip lower middle: 0 0 0 0 0 0 1 1 1
+head tongue a: 0 0 0 0 0 0 1 1 1
+head tongue b: 0 0 0 0 0 0 1 1 1
+head lip lower left: 0 0 0 0 0 0 1 1 1
+head lip lower right: 0 0 0 0 0 0 1 1 1
+head cheek left a: 0 0 0 0 0 0 1 1 1
+head cheek left b: 0 0 0 0 0 0 1 1 1
+head cheek left c: 0 0 0 0 0 0 1 1 1
+head eyeball left: 0 0 0 0 0 0 1 1 1
+head eyelid left lower a: 0 0 0 0 0 0 1 1 1
+head eyelid left lower b: 0 0 0 0 0 0 1 1 1
+head eyebrow left a: 0 0 0 0 0 0 1 1 1
+head eyebrow left b: 0 0 0 0 0 0 1 1 1
+head eyebrow left c: 0 0 0 0 0 0 1 1 1
+head eyelid left upper: 0 0 0 0 0 0 1 1 1
+head forehead left: 0 0 0 0 0 0 1 1 1
+head lip corner left: 0 0 0 0 0 0 1 1 1
+head lip upper left: 0 0 0 0 0 0 1 1 1
+head nose left a: 0 0 0 0 0 0 1 1 1
+head nose left b: 0 0 0 0 0 0 1 1 1
+head nose left c: 0 0 0 0 0 0 1 1 1
+head nose left d: 0 0 0 0 0 0 1 1 1
+head cheek right a: 0 0 0 0 0 0 1 1 1
+head cheek right b: 0 0 0 0 0 0 1 1 1
+head cheek right c: 0 0 0 0 0 0 1 1 1
+head eyeball right: 0 0 0 0 0 0 1 1 1
+head eyelid right lower a: 0 0 0 0 0 0 1 1 1
+head eyelid right lower b: 0 0 0 0 0 0 1 1 1
+head eyebrow right a: 0 0 0 0 0 0 1 1 1
+head eyebrow right b: 0 0 0 0 0 0 1 1 1
+head eyebrow right c: 0 0 0 0 0 0 1 1 1
+head eyelid right upper: 0 0 0 0 0 0 1 1 1
+head forehead right: 0 0 0 0 0 0 1 1 1
+head lip corner right: 0 0 0 0 0 0 1 1 1
+head lip upper right: 0 0 0 0 0 0 1 1 1
+head nose right a: 0 0 0 0 0 0 1 1 1
+head nose right b: 0 0 0 0 0 0 1 1 1
+head nose right c: 0 0 0 0 0 0 1 1 1
+head nose right d: 0 0 0 0 0 0 1 1 1
+glasses: 0 0 0 0 0 0 1 1 1
+hair front middle 1: 0 0 0 0 0 0 1 1 1
+hair front middle 2: 0 0 0 0 0 0 1 1 1
+hair front middle 3: 0 0 0 0 0 0 1 1 1
+hair front middle 4: 0 0 0 0 0 0 1 1 1
+hair front middle 5: 0 0 0 0 0 0 1 1 1
+hair front left 1: 0 0 0 0 0 0 1 1 1
+hair front left 2: 0 0 0 0 0 0 1 1 1
+hair front left 3: 0 0 0 0 0 0 1 1 1
+hair front left 4: 0 0 0 0 0 0 1 1 1
+hair front left 5: 0 0 0 0 0 0 1 1 1
+hair front right 1: 0 0 0 0 0 0 1 1 1
+hair front right 2: 0 0 0 0 0 0 1 1 1
+hair front right 3: 0 0 0 0 0 0 1 1 1
+hair front right 4: 0 0 0 0 0 0 1 1 1
+hair front right 5: 0 0 0 0 0 0 1 1 1
+hair side left root: 0 0 0 0 0 0 1 1 1
+hair side left 1: 0 0 0 0 0 0 1 1 1
+hair side left 2: 0 0 0 0 0 0 1 1 1
+hair side left 3: 0 0 0 0 0 0 1 1 1
+hair side left 4: 0 0 0 0 0 0 1 1 1
+hair side left 5: 0 0 0 0 0 0 1 1 1
+hair side left 6: 0 0 0 0 0 0 1 1 1
+hair side left 7: 0 0 0 0 0 0 1 1 1
+hair side right root: 0 0 0 0 0 0 1 1 1
+hair side right 1: 0 0 0 0 0 0 1 1 1
+hair side right 2: 0 0 0 0 0 0 1 1 1
+hair side right 3: 0 0 0 0 0 0 1 1 1
+hair side right 4: 0 0 0 0 0 0 1 1 1
+hair side right 5: 0 0 0 0 0 0 1 1 1
+hair side right 6: 0 0 0 0 0 0 1 1 1
+hair side right 7: 0 0 0 0 0 0 1 1 1
+hair back I left a root: 0 0 0 0 0 0 1 1 1
+hair back I left a 1: 0 0 0 0 0 0 1 1 1
+hair back I left a 2: 0 0 0 0 0 0 1 1 1
+hair back I left a 3: 0 0 0 0 0 0 1 1 1
+hair back I left a 4: 0 0 0 0 0 0 1 1 1
+hair back I left a 5: 0 0 0 0 0 0 1 1 1
+hair back I left a 6: 0 0 0 0 0 0 1 1 1
+hair back I left a 7: 0 0 0 0 0 0 1 1 1
+hair back I left b root: 0 0 0 0 0 0 1 1 1
+hair back I left b 1: 0 0 0 0 0 0 1 1 1
+hair back I left b 2: 0 0 0 0 0 0 1 1 1
+hair back I left b 3: 0 0 0 0 0 0 1 1 1
+hair back I left b 4: 0 0 0 0 0 0 1 1 1
+hair back I left b 5: 0 0 0 0 0 0 1 1 1
+hair back I left b 6: 0 0 0 0 0 0 1 1 1
+hair back I left b 7: 0 0 0 0 0 0 1 1 1
+hair back I left c root: 0 0 0 0 0 0 1 1 1
+hair back I left c 1: 0 0 0 0 0 0 1 1 1
+hair back I left c 2: 0 0 0 0 0 0 1 1 1
+hair back I left c 3: 0 0 0 0 0 0 1 1 1
+hair back I left c 4: 0 0 0 0 0 0 1 1 1
+hair back I left c 5: 0 0 0 0 0 0 1 1 1
+hair back I left c 6: 0 0 0 0 0 0 1 1 1
+hair back I left c 7: 0 0 0 0 0 0 1 1 1
+hair back I right a root: 0 0 0 0 0 0 1 1 1
+hair back I right a 1: 0 0 0 0 0 0 1 1 1
+hair back I right a 2: 0 0 0 0 0 0 1 1 1
+hair back I right a 3: 0 0 0 0 0 0 1 1 1
+hair back I right a 4: 0 0 0 0 0 0 1 1 1
+hair back I right a 5: 0 0 0 0 0 0 1 1 1
+hair back I right a 6: 0 0 0 0 0 0 1 1 1
+hair back I right a 7: 0 0 0 0 0 0 1 1 1
+hair back I right b root: 0 0 0 0 0 0 1 1 1
+hair back I right b 1: 0 0 0 0 0 0 1 1 1
+hair back I right b 2: 0 0 0 0 0 0 1 1 1
+hair back I right b 3: 0 0 0 0 0 0 1 1 1
+hair back I right b 4: 0 0 0 0 0 0 1 1 1
+hair back I right b 5: 0 0 0 0 0 0 1 1 1
+hair back I right b 6: 0 0 0 0 0 0 1 1 1
+hair back I right b 7: 0 0 0 0 0 0 1 1 1
+hair back I right c root: 0 0 0 0 0 0 1 1 1
+hair back I right c 1: 0 0 0 0 0 0 1 1 1
+hair back I right c 2: 0 0 0 0 0 0 1 1 1
+hair back I right c 3: 0 0 0 0 0 0 1 1 1
+hair back I right c 4: 0 0 0 0 0 0 1 1 1
+hair back I right c 5: 0 0 0 0 0 0 1 1 1
+hair back I right c 6: 0 0 0 0 0 0 1 1 1
+hair back I right c 7: 0 0 0 0 0 0 1 1 1
+hair back II middle root: 0 0 0 0 0 0 1 1 1
+hair back II middle 1: 0 0 0 0 0 0 1 1 1
+hair back II middle 2: 0 0 0 0 0 0 1 1 1
+hair back II middle 3: 0 0 0 0 0 0 1 1 1
+hair back II middle 4: 0 0 0 0 0 0 1 1 1
+hair back II middle 5: 0 0 0 0 0 0 1 1 1
+hair back II middle 6: 0 0 0 0 0 0 1 1 1
+hair back II middle 7: 0 0 0 0 0 0 1 1 1
+hair back II middle 8: 0 0 0 0 0 0 1 1 1
+hair back II left a root: 0 0 0 0 0 0 1 1 1
+hair back II left a 1: 0 0 0 0 0 0 1 1 1
+hair back II left a 2: 0 0 0 0 0 0 1 1 1
+hair back II left a 3: 0 0 0 0 0 0 1 1 1
+hair back II left a 4: 0 0 0 0 0 0 1 1 1
+hair back II left a 5: 0 0 0 0 0 0 1 1 1
+hair back II left a 6: 0 0 0 0 0 0 1 1 1
+hair back II left a 7: 0 0 0 0 0 0 1 1 1
+hair back II left a 8: 0 0 0 0 0 0 1 1 1
+hair back II left b root: 0 0 0 0 0 0 1 1 1
+hair back II left b 1: 0 0 0 0 0 0 1 1 1
+hair back II left b 2: 0 0 0 0 0 0 1 1 1
+hair back II left b 3: 0 0 0 0 0 0 1 1 1
+hair back II left b 4: 0 0 0 0 0 0 1 1 1
+hair back II left b 5: 0 0 0 0 0 0 1 1 1
+hair back II left b 6: 0 0 0 0 0 0 1 1 1
+hair back II left b 7: 0 0 0 0 0 0 1 1 1
+hair back II left b 8: 0 0 0 0 0 0 1 1 1
+hair back II right a root: 0 0 0 0 0 0 1 1 1
+hair back II right a 1: 0 0 0 0 0 0 1 1 1
+hair back II right a 2: 0 0 0 0 0 0 1 1 1
+hair back II right a 3: 0 0 0 0 0 0 1 1 1
+hair back II right a 4: 0 0 0 0 0 0 1 1 1
+hair back II right a 5: 0 0 0 0 0 0 1 1 1
+hair back II right a 6: 0 0 0 0 0 0 1 1 1
+hair back II right a 7: 0 0 0 0 0 0 1 1 1
+hair back II right a 8: 0 0 0 0 0 0 1 1 1
+hair back II right b root: 0 0 0 0 0 0 1 1 1
+hair back II right b 1: 0 0 0 0 0 0 1 1 1
+hair back II right b 2: 0 0 0 0 0 0 1 1 1
+hair back II right b 3: 0 0 0 0 0 0 1 1 1
+hair back II right b 4: 0 0 0 0 0 0 1 1 1
+hair back II right b 5: 0 0 0 0 0 0 1 1 1
+hair back II right b 6: 0 0 0 0 0 0 1 1 1
+hair back II right b 7: 0 0 0 0 0 0 1 1 1
+hair back II right b 8: 0 0 0 0 0 0 1 1 1
+hair back III left a root: 0 0 0 0 0 0 1 1 1
+hair back III left a 1: 0 0 0 0 0 0 1 1 1
+hair back III left a 2: 0 0 0 0 0 0 1 1 1
+hair back III left a 3: 0 0 0 0 0 0 1 1 1
+hair back III left a 4: 0 0 0 0 0 0 1 1 1
+hair back III left a 5: 0 0 0 0 0 0 1 1 1
+hair back III left a 6: 0 0 0 0 0 0 1 1 1
+hair back III left a 7: 0 0 0 0 0 0 1 1 1
+hair back III left a 8: 0 0 0 0 0 0 1 1 1
+hair back III left b root: 0 0 0 0 0 0 1 1 1
+hair back III left b 1: 0 0 0 0 0 0 1 1 1
+hair back III left b 2: 0 0 0 0 0 0 1 1 1
+hair back III left b 3: 0 0 0 0 0 0 1 1 1
+hair back III left b 4: 0 0 0 0 0 0 1 1 1
+hair back III left b 5: 0 0 0 0 0 0 1 1 1
+hair back III left b 6: 0 0 0 0 0 0 1 1 1
+hair back III left b 7: 0 0 0 0 0 0 1 1 1
+hair back III left b 8: 0 0 0 0 0 0 1 1 1
+hair back III left c root: 0 0 0 0 0 0 1 1 1
+hair back III left c 1: 0 0 0 0 0 0 1 1 1
+hair back III left c 2: 0 0 0 0 0 0 1 1 1
+hair back III left c 3: 0 0 0 0 0 0 1 1 1
+hair back III left c 4: 0 0 0 0 0 0 1 1 1
+hair back III left c 5: 0 0 0 0 0 0 1 1 1
+hair back III left c 6: 0 0 0 0 0 0 1 1 1
+hair back III left c 7: 0 0 0 0 0 0 1 1 1
+hair back III right a root: 0 0 0 0 0 0 1 1 1
+hair back III right a 1: 0 0 0 0 0 0 1 1 1
+hair back III right a 2: 0 0 0 0 0 0 1 1 1
+hair back III right a 3: 0 0 0 0 0 0 1 1 1
+hair back III right a 4: 0 0 0 0 0 0 1 1 1
+hair back III right a 5: 0 0 0 0 0 0 1 1 1
+hair back III right a 6: 0 0 0 0 0 0 1 1 1
+hair back III right a 7: 0 0 0 0 0 0 1 1 1
+hair back III right a 8: 0 0 0 0 0 0 1 1 1
+hair back III right b root: 0 0 0 0 0 0 1 1 1
+hair back III right b 1: 0 0 0 0 0 0 1 1 1
+hair back III right b 2: 0 0 0 0 0 0 1 1 1
+hair back III right b 3: 0 0 0 0 0 0 1 1 1
+hair back III right b 4: 0 0 0 0 0 0 1 1 1
+hair back III right b 5: 0 0 0 0 0 0 1 1 1
+hair back III right b 6: 0 0 0 0 0 0 1 1 1
+hair back III right b 7: 0 0 0 0 0 0 1 1 1
+hair back III right b 8: 0 0 0 0 0 0 1 1 1
+hair back III right c root: 0 0 0 0 0 0 1 1 1
+hair back III right c 1: 0 0 0 0 0 0 1 1 1
+hair back III right c 2: 0 0 0 0 0 0 1 1 1
+hair back III right c 3: 0 0 0 0 0 0 1 1 1
+hair back III right c 4: 0 0 0 0 0 0 1 1 1
+hair back III right c 5: 0 0 0 0 0 0 1 1 1
+hair back III right c 6: 0 0 0 0 0 0 1 1 1
+hair back III right c 7: 0 0 0 0 0 0 1 1 1
+hair back III right d root: 0 0 0 0 0 0 1 1 1
+hair back III right d 1: 0 0 0 0 0 0 1 1 1
+hair back III right d 2: 0 0 0 0 0 0 1 1 1
+hair back III right d 3: 0 0 0 0 0 0 1 1 1
+hair back III right d 4: 0 0 0 0 0 0 1 1 1
+hair back III right d 5: 0 0 0 0 0 0 1 1 1
+hair back III right d 6: 0 0 0 0 0 0 1 1 1
+hair back III right d 7: 0 0 0 0 0 0 1 1 1
+hair sidetail a root: 0 0 0 0 0 0 1 1 1
+hair sidetail a 1: 0 0 0 0 0 0 1 1 1
+hair sidetail a 2: 0 0 0 0 0 0 1 1 1
+hair sidetail a 3: 0 0 0 0 0 0 1 1 1
+hair sidetail a 4: 0 0 0 0 0 0 1 1 1
+hair sidetail a 5: 0 0 0 0 0 0 1 1 1
+hair sidetail a 6: 0 0 0 0 0 0 1 1 1
+hair sidetail a 7: 0 0 0 0 0 0 1 1 1
+hair sidetail a 8: 0 0 0 0 0 0 1 1 1
+hair sidetail a 9: 0 0 0 0 0 0 1 1 1
+hair sidetail a 10: 0 0 0 0 0 0 1 1 1
+hair sidetail b root: 0 0 0 0 0 0 1 1 1
+hair sidetail b 1: 0 0 0 0 0 0 1 1 1
+hair sidetail b 2: 0 0 0 0 0 0 1 1 1
+hair sidetail b 3: 0 0 0 0 0 0 1 1 1
+hair sidetail b 4: 0 0 0 0 0 0 1 1 1
+hair sidetail b 5: 0 0 0 0 0 0 1 1 1
+hair sidetail b 6: 0 0 0 0 0 0 1 1 1
+hair sidetail b 7: 0 0 0 0 0 0 1 1 1
+hair sidetail b 8: 0 0 0 0 0 0 1 1 1
+hair sidetail b 9: 0 0 0 0 0 0 1 1 1
+hair sidetail b 10: 0 0 0 0 0 0 1 1 1
+hair sidetail c root: 0 0 0 0 0 0 1 1 1
+hair sidetail c 1: 0 0 0 0 0 0 1 1 1
+hair sidetail c 2: 0 0 0 0 0 0 1 1 1
+hair sidetail c 3: 0 0 0 0 0 0 1 1 1
+hair sidetail c 4: 0 0 0 0 0 0 1 1 1
+hair sidetail c 5: 0 0 0 0 0 0 1 1 1
+hair sidetail c 6: 0 0 0 0 0 0 1 1 1
+hair sidetail c 7: 0 0 0 0 0 0 1 1 1
+hair sidetail c 8: 0 0 0 0 0 0 1 1 1
+hair sidetail c 9: 0 0 0 0 0 0 1 1 1
+hair sidetail c 10: 0 0 0 0 0 0 1 1 1
+dummy head: 0 0 0 0 0 0 1 1 1

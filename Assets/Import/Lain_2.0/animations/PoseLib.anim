@@ -1,0 +1,2078 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!74 &7400000
+AnimationClip:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: PoseLib
+  serializedVersion: 6
+  m_Legacy: 0
+  m_Compressed: 0
+  m_UseHighQualityCurve: 1
+  m_RotationCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0.1
+        value: {x: 0.016685775, y: 0.6475316, z: -0.76037365, w: -0.04743924}
+        inSlope: {x: -0.8895914, y: 1.6470106, z: 1.4733042, w: 0.7414282}
+        outSlope: {x: -0.8895914, y: 1.6470106, z: 1.4733042, w: 0.7414282}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0, w: 0}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.13333
+        value: {x: -0.012964308, y: 0.7024265, z: -0.7112684, w: -0.022727437}
+        inSlope: {x: -0.8895914, y: 1.6470106, z: 1.4733042, w: 0.7414282}
+        outSlope: {x: -0.8895914, y: 1.6470106, z: 1.4733042, w: 0.7414282}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0, y: 0, z: 0, w: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: RootNode (gltf orientation matrix)/RootNode (model correction matrix)/Root/Lain/Armature/Armature_rootJoint/base_Armature/b1_Armature
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0.1
+        value: {x: 0.03307837, y: -0.0104464805, z: -0.011778385, w: -0.9993314}
+        inSlope: {x: -0.23313236, y: 0.31370738, z: 0.341389, w: -0.010433048}
+        outSlope: {x: -0.23313236, y: 0.31370738, z: 0.341389, w: -0.010433048}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0, w: 0}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.13333
+        value: {x: 0.025308067, y: 0.000009386572, z: -0.00039988986, w: -0.99967915}
+        inSlope: {x: -0.23313236, y: 0.31370738, z: 0.341389, w: -0.010433048}
+        outSlope: {x: -0.23313236, y: 0.31370738, z: 0.341389, w: -0.010433048}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0, y: 0, z: 0, w: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: RootNode (gltf orientation matrix)/RootNode (model correction matrix)/Root/Lain/Armature/Armature_rootJoint/base_Armature/b1_Armature/b2_Armature
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0.1
+        value: {x: 0.081755415, y: 0.0060895937, z: -0.009901457, w: -0.9965805}
+        inSlope: {x: -1.5685104, y: -0.18248948, z: -0.52507585, w: -0.07826932}
+        outSlope: {x: -1.5685104, y: -0.18248948, z: -0.52507585, w: -0.07826932}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0, w: 0}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.13333
+        value: {x: 0.029476965, y: 0.000007219135, z: -0.027402235, w: -0.9991892}
+        inSlope: {x: -1.5685104, y: -0.18248948, z: -0.52507585, w: -0.07826932}
+        outSlope: {x: -1.5685104, y: -0.18248948, z: -0.52507585, w: -0.07826932}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0, y: 0, z: 0, w: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: RootNode (gltf orientation matrix)/RootNode (model correction matrix)/Root/Lain/Armature/Armature_rootJoint/base_Armature/b1_Armature/b2_Armature/b3_Armature
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0.1
+        value: {x: -0.034225155, y: -0.043402854, z: -0.000110681234, w: -0.99846715}
+        inSlope: {x: 2.0653863, y: 1.3369701, z: -0.6543925, w: -0.020901863}
+        outSlope: {x: 2.0653863, y: 1.3369701, z: -0.6543925, w: -0.020901863}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0, w: 0}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.13333
+        value: {x: 0.034614168, y: 0.0011583618, z: -0.021921584, w: -0.9991638}
+        inSlope: {x: 2.0653863, y: 1.3369701, z: -0.6543925, w: -0.020901863}
+        outSlope: {x: 2.0653863, y: 1.3369701, z: -0.6543925, w: -0.020901863}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0, y: 0, z: 0, w: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: RootNode (gltf orientation matrix)/RootNode (model correction matrix)/Root/Lain/Armature/Armature_rootJoint/base_Armature/b1_Armature/b2_Armature/b3_Armature/neck_Armature
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0.1
+        value: {x: 0.09505, y: 0.06277, z: -0.01994, w: -0.99329}
+        inSlope: {x: -5.0321026, y: -1.849985, z: -0.15031502, w: -0.11251025}
+        outSlope: {x: -5.0321026, y: -1.849985, z: -0.15031502, w: -0.11251025}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0, w: 0}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.13333
+        value: {x: -0.07267, y: 0.00111, z: -0.02495, w: -0.99704}
+        inSlope: {x: -5.0321026, y: -1.849985, z: -0.15031502, w: -0.11251025}
+        outSlope: {x: -5.0321026, y: -1.849985, z: -0.15031502, w: -0.11251025}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0, y: 0, z: 0, w: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: RootNode (gltf orientation matrix)/RootNode (model correction matrix)/Root/Lain/Armature/Armature_rootJoint/base_Armature/b1_Armature/b2_Armature/b3_Armature/neck_Armature/head_Armature
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0.1
+        value: {x: 0.60479796, y: 0.64039236, z: -0.34180596, w: -0.3275374}
+        inSlope: {x: 1.0286657, y: -0.039273255, z: 1.1760159, w: 0.74791574}
+        outSlope: {x: 1.0286657, y: -0.039273255, z: 1.1760159, w: 0.74791574}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0, w: 0}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.13333
+        value: {x: 0.6390834, y: 0.6390834, z: -0.30260935, w: -0.30260935}
+        inSlope: {x: 1.0286657, y: -0.039273255, z: 1.1760159, w: 0.74791574}
+        outSlope: {x: 1.0286657, y: -0.039273255, z: 1.1760159, w: 0.74791574}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0, y: 0, z: 0, w: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: RootNode (gltf orientation matrix)/RootNode (model correction matrix)/Root/Lain/Armature/Armature_rootJoint/base_Armature/b1_Armature/b2_Armature/b3_Armature/neck_Armature/head_Armature/eyebrow.l_Armature
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0.1
+        value: {x: -0.16543035, y: 0.7357463, z: -0.6383643, w: -0.15430677}
+        inSlope: {x: 1.8943652, y: -1.1140757, z: -1.847549, w: 1.4052572}
+        outSlope: {x: 1.8943652, y: -1.1140757, z: -1.847549, w: 1.4052572}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0, w: 0}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.13333
+        value: {x: -0.10229116, y: 0.6986142, z: -0.6999431, w: -0.107469544}
+        inSlope: {x: 1.8943652, y: -1.1140757, z: -1.847549, w: 1.4052572}
+        outSlope: {x: 1.8943652, y: -1.1140757, z: -1.847549, w: 1.4052572}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0, y: 0, z: 0, w: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: RootNode (gltf orientation matrix)/RootNode (model correction matrix)/Root/Lain/Armature/Armature_rootJoint/base_Armature/b1_Armature/b2_Armature/b3_Armature/neck_Armature/head_Armature/pupil.r_Armature
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0.1
+        value: {x: 0.28782475, y: 0.25124782, z: -0.6591965, w: -0.6476777}
+        inSlope: {x: 0.44358248, y: 1.541, z: 0.60345364, w: 0.2578558}
+        outSlope: {x: 0.44358248, y: 1.541, z: 0.60345364, w: 0.2578558}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0, w: 0}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.13333
+        value: {x: 0.30260935, y: 0.30260935, z: -0.6390834, w: -0.6390834}
+        inSlope: {x: 0.44358248, y: 1.541, z: 0.60345364, w: 0.2578558}
+        outSlope: {x: 0.44358248, y: 1.541, z: 0.60345364, w: 0.2578558}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0, y: 0, z: 0, w: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: RootNode (gltf orientation matrix)/RootNode (model correction matrix)/Root/Lain/Armature/Armature_rootJoint/base_Armature/b1_Armature/b2_Armature/b3_Armature/neck_Armature/head_Armature/eyebrow.r_Armature
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0.1
+        value: {x: 0.18086575, y: 0.73110366, z: -0.63603806, w: 0.16801608}
+        inSlope: {x: 2.8596008, y: -2.6762002, z: -0.6650952, w: 3.3628304}
+        outSlope: {x: 2.8596008, y: -2.6762002, z: -0.6650952, w: 3.3628304}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0, w: 0}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.13333
+        value: {x: 0.27617624, y: 0.6419059, z: -0.6582057, w: 0.2800992}
+        inSlope: {x: 2.8596008, y: -2.6762002, z: -0.6650952, w: 3.3628304}
+        outSlope: {x: 2.8596008, y: -2.6762002, z: -0.6650952, w: 3.3628304}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0, y: 0, z: 0, w: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: RootNode (gltf orientation matrix)/RootNode (model correction matrix)/Root/Lain/Armature/Armature_rootJoint/base_Armature/b1_Armature/b2_Armature/b3_Armature/neck_Armature/head_Armature/pupil.l_Armature
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0.1
+        value: {x: 0.024956448, y: 0.9983915, z: 0.046644837, w: -0.020155083}
+        inSlope: {x: -0.74876827, y: 0.048250612, z: -1.3978349, w: 0.58056056}
+        outSlope: {x: -0.74876827, y: 0.048250612, z: -1.3978349, w: 0.58056056}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0, w: 0}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.13333
+        value: {x: 0, y: 0.9999997, z: 0.000054999946, w: -0.0008049992}
+        inSlope: {x: -0.74876827, y: 0.048250612, z: -1.3978349, w: 0.58056056}
+        outSlope: {x: -0.74876827, y: 0.048250612, z: -1.3978349, w: 0.58056056}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0, y: 0, z: 0, w: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: RootNode (gltf orientation matrix)/RootNode (model correction matrix)/Root/Lain/Armature/Armature_rootJoint/base_Armature/b1_Armature/b2_Armature/b3_Armature/neck_Armature/head_Armature/hood.up_Armature
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0.1
+        value: {x: 0.0005692204, y: -0.70706767, z: -0.70714545, w: 0.0005692204}
+        inSlope: {x: -0.32970622, y: 0.0022801056, z: 0.0022801056, w: -0.32966995}
+        outSlope: {x: -0.32970622, y: 0.0022801056, z: 0.0022801056, w: -0.32966995}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0, w: 0}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.13333
+        value: {x: -0.010419888, y: -0.7069917, z: -0.70706946, w: -0.01041868}
+        inSlope: {x: -0.32970622, y: 0.0022801056, z: 0.0022801056, w: -0.32966995}
+        outSlope: {x: -0.32970622, y: 0.0022801056, z: 0.0022801056, w: -0.32966995}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0, y: 0, z: 0, w: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: RootNode (gltf orientation matrix)/RootNode (model correction matrix)/Root/Lain/Armature/Armature_rootJoint/base_Armature/b1_Armature/b2_Armature/b3_Armature/neck_Armature/head_Armature/hood.down_Armature
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0.1
+        value: {x: -0.057767678, y: -0.083098665, z: 0.9036052, w: -0.41624746}
+        inSlope: {x: -3.9258006, y: -1.0747206, z: -1.2153428, w: -1.1072462}
+        outSlope: {x: -3.9258006, y: -1.0747206, z: -1.2153428, w: -1.1072462}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0, w: 0}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.13333
+        value: {x: -0.1886146, y: -0.118919104, z: 0.86309785, w: -0.45315197}
+        inSlope: {x: -3.9258006, y: -1.0747206, z: -1.2153428, w: -1.1072462}
+        outSlope: {x: -3.9258006, y: -1.0747206, z: -1.2153428, w: -1.1072462}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0, y: 0, z: 0, w: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: RootNode (gltf orientation matrix)/RootNode (model correction matrix)/Root/Lain/Armature/Armature_rootJoint/base_Armature/b1_Armature/b2_Armature/b3_Armature/arm1.l_Armature
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0.1
+        value: {x: 0.20828512, y: -0.0040664147, z: 0.25053972, w: -0.9454247}
+        inSlope: {x: -7.938336, y: 2.6745596, z: 3.8206005, w: 0.7564425}
+        outSlope: {x: -7.938336, y: 2.6745596, z: 3.8206005, w: 0.7564425}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0, w: 0}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.13333
+        value: {x: -0.056299638, y: 0.08507666, z: 0.37788033, w: -0.92021245}
+        inSlope: {x: -7.938336, y: 2.6745596, z: 3.8206005, w: 0.7564425}
+        outSlope: {x: -7.938336, y: 2.6745596, z: 3.8206005, w: 0.7564425}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0, y: 0, z: 0, w: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: RootNode (gltf orientation matrix)/RootNode (model correction matrix)/Root/Lain/Armature/Armature_rootJoint/base_Armature/b1_Armature/b2_Armature/b3_Armature/arm1.l_Armature/arm2.l_Armature
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0.1
+        value: {x: -0.035794724, y: -0.15738425, z: 0.8636398, w: -0.47757325}
+        inSlope: {x: 0.97317356, y: 3.9277961, z: -27.353514, w: -15.629142}
+        outSlope: {x: 0.97317356, y: 3.9277961, z: -27.353514, w: -15.629142}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0, w: 0}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.13333
+        value: {x: -0.00335885, y: -0.026470799, z: -0.04805286, w: -0.9984926}
+        inSlope: {x: 0.97317356, y: 3.9277961, z: -27.353514, w: -15.629142}
+        outSlope: {x: 0.97317356, y: 3.9277961, z: -27.353514, w: -15.629142}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0, y: 0, z: 0, w: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: RootNode (gltf orientation matrix)/RootNode (model correction matrix)/Root/Lain/Armature/Armature_rootJoint/base_Armature/b1_Armature/b2_Armature/b3_Armature/arm1.l_Armature/arm2.l_Armature/arm3.l_Armature
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0.1
+        value: {x: 0.15122078, y: 0.65846837, z: -0.0923035, w: -0.7314562}
+        inSlope: {x: -2.3161685, y: -15.601258, z: -5.655744, w: -6.461825}
+        outSlope: {x: -2.3161685, y: -15.601258, z: -5.655744, w: -6.461825}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0, w: 0}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.13333
+        value: {x: 0.07402288, y: 0.13847843, z: -0.28080946, w: -0.94682884}
+        inSlope: {x: -2.3161685, y: -15.601258, z: -5.655744, w: -6.461825}
+        outSlope: {x: -2.3161685, y: -15.601258, z: -5.655744, w: -6.461825}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0, y: 0, z: 0, w: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: RootNode (gltf orientation matrix)/RootNode (model correction matrix)/Root/Lain/Armature/Armature_rootJoint/base_Armature/b1_Armature/b2_Armature/b3_Armature/arm1.l_Armature/arm2.l_Armature/arm3.l_Armature/hand.l_Armature
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0.1
+        value: {x: 0, y: 0, z: 0.5004213, w: -0.86577946}
+        inSlope: {x: 0.31703168, y: 0.05337878, z: -9.6541, w: -3.5425384}
+        outSlope: {x: 0.31703168, y: 0.05337878, z: -9.6541, w: -3.5425384}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0, w: 0}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.13333
+        value: {x: 0.010566667, y: 0.0017791148, z: 0.17865011, w: -0.98385227}
+        inSlope: {x: 0.31703168, y: 0.05337878, z: -9.6541, w: -3.5425384}
+        outSlope: {x: 0.31703168, y: 0.05337878, z: -9.6541, w: -3.5425384}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0, y: 0, z: 0, w: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: RootNode (gltf orientation matrix)/RootNode (model correction matrix)/Root/Lain/Armature/Armature_rootJoint/base_Armature/b1_Armature/b2_Armature/b3_Armature/arm1.l_Armature/arm2.l_Armature/arm3.l_Armature/hand.l_Armature/fingers1.l_Armature
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0.1
+        value: {x: 0, y: 0, z: 0.85997164, w: -0.5103374}
+        inSlope: {x: -0.5379327, y: 2.4770384, z: -16.757317, w: -13.183032}
+        outSlope: {x: -0.5379327, y: 2.4770384, z: -16.757317, w: -13.183032}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0, w: 0}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.13333
+        value: {x: -0.017929297, y: 0.08255969, z: 0.30145025, w: -0.9497279}
+        inSlope: {x: -0.5379327, y: 2.4770384, z: -16.757317, w: -13.183032}
+        outSlope: {x: -0.5379327, y: 2.4770384, z: -16.757317, w: -13.183032}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0, y: 0, z: 0, w: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: RootNode (gltf orientation matrix)/RootNode (model correction matrix)/Root/Lain/Armature/Armature_rootJoint/base_Armature/b1_Armature/b2_Armature/b3_Armature/arm1.l_Armature/arm2.l_Armature/arm3.l_Armature/hand.l_Armature/fingers1.l_Armature/fingers2.l_Armature
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0.1
+        value: {x: 0.07647454, y: 0.042658612, z: 0.3148092, w: -0.9451047}
+        inSlope: {x: -0.9528252, y: -2.1517677, z: -6.1798677, w: -1.425894}
+        outSlope: {x: -0.9528252, y: -2.1517677, z: -6.1798677, w: -1.425894}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0, w: 0}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.13333
+        value: {x: 0.044716876, y: -0.029059805, z: 0.108834215, w: -0.99262977}
+        inSlope: {x: -0.9528252, y: -2.1517677, z: -6.1798677, w: -1.425894}
+        outSlope: {x: -0.9528252, y: -2.1517677, z: -6.1798677, w: -1.425894}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0, y: 0, z: 0, w: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: RootNode (gltf orientation matrix)/RootNode (model correction matrix)/Root/Lain/Armature/Armature_rootJoint/base_Armature/b1_Armature/b2_Armature/b3_Armature/arm1.l_Armature/arm2.l_Armature/arm3.l_Armature/hand.l_Armature/index1.l_Armature
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0.1
+        value: {x: 0, y: 0, z: 0.64619714, w: -0.76316905}
+        inSlope: {x: -1.335875, y: 0.1692538, z: -15.62088, w: -6.8378115}
+        outSlope: {x: -1.335875, y: 0.1692538, z: -15.62088, w: -6.8378115}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0, w: 0}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.13333
+        value: {x: -0.044524714, y: 0.005641229, z: 0.12555318, w: -0.9910733}
+        inSlope: {x: -1.335875, y: 0.1692538, z: -15.62088, w: -6.8378115}
+        outSlope: {x: -1.335875, y: 0.1692538, z: -15.62088, w: -6.8378115}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0, y: 0, z: 0, w: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: RootNode (gltf orientation matrix)/RootNode (model correction matrix)/Root/Lain/Armature/Armature_rootJoint/base_Armature/b1_Armature/b2_Armature/b3_Armature/arm1.l_Armature/arm2.l_Armature/arm3.l_Armature/hand.l_Armature/index1.l_Armature/index2.l_Armature
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0.1
+        value: {x: -0.14890999, y: 0.42644748, z: 0.3850445, w: -0.80480474}
+        inSlope: {x: 10.704772, y: -15.183833, z: -1.0892879, w: -3.1681468}
+        outSlope: {x: 10.704772, y: -15.183833, z: -1.0892879, w: -3.1681468}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0, w: 0}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.13333
+        value: {x: 0.20788008, y: -0.07962969, z: 0.34873852, w: -0.9103991}
+        inSlope: {x: 10.704772, y: -15.183833, z: -1.0892879, w: -3.1681468}
+        outSlope: {x: 10.704772, y: -15.183833, z: -1.0892879, w: -3.1681468}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0, y: 0, z: 0, w: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: RootNode (gltf orientation matrix)/RootNode (model correction matrix)/Root/Lain/Armature/Armature_rootJoint/base_Armature/b1_Armature/b2_Armature/b3_Armature/arm1.l_Armature/arm2.l_Armature/arm3.l_Armature/hand.l_Armature/thumb1.l_Armature
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0.1
+        value: {x: -0.038399577, y: 0.092010565, z: -0.9042167, w: -0.41527998}
+        inSlope: {x: -4.2865944, y: -0.6767877, z: 2.081443, w: -2.9954956}
+        outSlope: {x: -4.2865944, y: -0.6767877, z: 2.081443, w: -2.9954956}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0, w: 0}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.13333
+        value: {x: -0.18127178, y: 0.06945323, z: -0.8348422, w: -0.51511985}
+        inSlope: {x: -4.2865944, y: -0.6767877, z: 2.081443, w: -2.9954956}
+        outSlope: {x: -4.2865944, y: -0.6767877, z: 2.081443, w: -2.9954956}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0, y: 0, z: 0, w: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: RootNode (gltf orientation matrix)/RootNode (model correction matrix)/Root/Lain/Armature/Armature_rootJoint/base_Armature/b1_Armature/b2_Armature/b3_Armature/arm1.r_Armature
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0.1
+        value: {x: 0.20828512, y: 0.0040664147, z: -0.25053972, w: -0.9454247}
+        inSlope: {x: -9.559977, y: -0.5636191, z: -4.31027, w: 0.99515253}
+        outSlope: {x: -9.559977, y: -0.5636191, z: -4.31027, w: 0.99515253}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0, w: 0}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.13333
+        value: {x: -0.11034892, y: -0.014719009, z: -0.394201, w: -0.91225624}
+        inSlope: {x: -9.559977, y: -0.5636191, z: -4.31027, w: 0.99515253}
+        outSlope: {x: -9.559977, y: -0.5636191, z: -4.31027, w: 0.99515253}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0, y: 0, z: 0, w: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: RootNode (gltf orientation matrix)/RootNode (model correction matrix)/Root/Lain/Armature/Armature_rootJoint/base_Armature/b1_Armature/b2_Armature/b3_Armature/arm1.r_Armature/arm2.r_Armature
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0.1
+        value: {x: 0.10378881, y: -0.023618111, z: -0.8138012, w: -0.5713081}
+        inSlope: {x: -0.5948326, y: 2.784143, z: 27.331598, w: -12.541178}
+        outSlope: {x: -0.5948326, y: 2.784143, z: 27.331598, w: -12.541178}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0, w: 0}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.13333
+        value: {x: 0.08396304, y: 0.06917738, z: 0.09716099, w: -0.98930556}
+        inSlope: {x: -0.5948326, y: 2.784143, z: 27.331598, w: -12.541178}
+        outSlope: {x: -0.5948326, y: 2.784143, z: 27.331598, w: -12.541178}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0, y: 0, z: 0, w: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: RootNode (gltf orientation matrix)/RootNode (model correction matrix)/Root/Lain/Armature/Armature_rootJoint/base_Armature/b1_Armature/b2_Armature/b3_Armature/arm1.r_Armature/arm2.r_Armature/arm3.r_Armature
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0.1
+        value: {x: 0.37738028, y: -0.5493441, z: 0.16676298, w: -0.72663623}
+        inSlope: {x: -8.596352, y: 12.354685, z: 4.754708, w: -6.135911}
+        outSlope: {x: -8.596352, y: 12.354685, z: 4.754708, w: -6.135911}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0, w: 0}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.13333
+        value: {x: 0.09086389, y: -0.13756244, z: 0.3252374, w: -0.93114614}
+        inSlope: {x: -8.596352, y: 12.354685, z: 4.754708, w: -6.135911}
+        outSlope: {x: -8.596352, y: 12.354685, z: 4.754708, w: -6.135911}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0, y: 0, z: 0, w: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: RootNode (gltf orientation matrix)/RootNode (model correction matrix)/Root/Lain/Armature/Armature_rootJoint/base_Armature/b1_Armature/b2_Armature/b3_Armature/arm1.r_Armature/arm2.r_Armature/arm3.r_Armature/hand.r_Armature
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0.1
+        value: {x: 0, y: 0, z: -0.3476452, w: -0.937627}
+        inSlope: {x: 0.05139672, y: 0.17038812, z: 4.160117, w: -1.2082682}
+        outSlope: {x: 0.05139672, y: 0.17038812, z: 4.160117, w: -1.2082682}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0, w: 0}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.13333
+        value: {x: 0.0017130527, y: 0.005679036, z: -0.20898849, w: -0.9778986}
+        inSlope: {x: 0.05139672, y: 0.17038812, z: 4.160117, w: -1.2082682}
+        outSlope: {x: 0.05139672, y: 0.17038812, z: 4.160117, w: -1.2082682}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0, y: 0, z: 0, w: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: RootNode (gltf orientation matrix)/RootNode (model correction matrix)/Root/Lain/Armature/Armature_rootJoint/base_Armature/b1_Armature/b2_Armature/b3_Armature/arm1.r_Armature/arm2.r_Armature/arm3.r_Armature/hand.r_Armature/fingers1.r_Armature
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0.1
+        value: {x: -0, y: 0, z: -0.64366454, w: -0.7653111}
+        inSlope: {x: 0.75208557, y: -2.0732796, z: 8.606303, w: -4.9796185}
+        outSlope: {x: 0.75208557, y: -2.0732796, z: 8.606303, w: -4.9796185}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0, w: 0}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.13333
+        value: {x: 0.025067013, y: -0.069102414, z: -0.35681644, w: -0.9312818}
+        inSlope: {x: 0.75208557, y: -2.0732796, z: 8.606303, w: -4.9796185}
+        outSlope: {x: 0.75208557, y: -2.0732796, z: 8.606303, w: -4.9796185}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0, y: 0, z: 0, w: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: RootNode (gltf orientation matrix)/RootNode (model correction matrix)/Root/Lain/Armature/Armature_rootJoint/base_Armature/b1_Armature/b2_Armature/b3_Armature/arm1.r_Armature/arm2.r_Armature/arm3.r_Armature/hand.r_Armature/fingers1.r_Armature/fingers2.r_Armature
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0.1
+        value: {x: 0, y: 0, z: -0.35333422, w: -0.935501}
+        inSlope: {x: -0.10622414, y: 0.93243265, z: 4.5104966, w: -1.2953503}
+        outSlope: {x: -0.10622414, y: 0.93243265, z: 4.5104966, w: -1.2953503}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0, w: 0}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.13333
+        value: {x: -0.0035404507, y: 0.031077981, z: -0.20299937, w: -0.978675}
+        inSlope: {x: -0.10622414, y: 0.93243265, z: 4.5104966, w: -1.2953503}
+        outSlope: {x: -0.10622414, y: 0.93243265, z: 4.5104966, w: -1.2953503}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0, y: 0, z: 0, w: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: RootNode (gltf orientation matrix)/RootNode (model correction matrix)/Root/Lain/Armature/Armature_rootJoint/base_Armature/b1_Armature/b2_Armature/b3_Armature/arm1.r_Armature/arm2.r_Armature/arm3.r_Armature/hand.r_Armature/index1.r_Armature
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0.1
+        value: {x: 0, y: 0, z: -0.6321894, w: -0.7748173}
+        inSlope: {x: -1.335875, y: -0.1692538, z: 15.200605, w: -6.4883294}
+        outSlope: {x: -1.335875, y: -0.1692538, z: 15.200605, w: -6.4883294}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0, w: 0}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.13333
+        value: {x: -0.044524714, y: -0.005641229, z: -0.12555318, w: -0.9910733}
+        inSlope: {x: -1.335875, y: -0.1692538, z: 15.200605, w: -6.4883294}
+        outSlope: {x: -1.335875, y: -0.1692538, z: 15.200605, w: -6.4883294}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0, y: 0, z: 0, w: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: RootNode (gltf orientation matrix)/RootNode (model correction matrix)/Root/Lain/Armature/Armature_rootJoint/base_Armature/b1_Armature/b2_Armature/b3_Armature/arm1.r_Armature/arm2.r_Armature/arm3.r_Armature/hand.r_Armature/index1.r_Armature/index2.r_Armature
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0.1
+        value: {x: 0.023701299, y: 0.49036115, z: -0.40530235, w: -0.7711772}
+        inSlope: {x: -2.199683, y: -0.20478478, z: 3.4063284, w: -1.5779958}
+        outSlope: {x: -2.199683, y: -0.20478478, z: 3.4063284, w: -1.5779958}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0, w: 0}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.13333
+        value: {x: -0.049614135, y: 0.48353568, z: -0.29176942, w: -0.8237718}
+        inSlope: {x: -2.199683, y: -0.20478478, z: 3.4063284, w: -1.5779958}
+        outSlope: {x: -2.199683, y: -0.20478478, z: 3.4063284, w: -1.5779958}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0, y: 0, z: 0, w: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: RootNode (gltf orientation matrix)/RootNode (model correction matrix)/Root/Lain/Armature/Armature_rootJoint/base_Armature/b1_Armature/b2_Armature/b3_Armature/arm1.r_Armature/arm2.r_Armature/arm3.r_Armature/hand.r_Armature/thumb1.r_Armature
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0.1
+        value: {x: 0.04596747, y: -0.018200504, z: 0.13657103, w: -0.9893958}
+        inSlope: {x: 0.45175028, y: -0.11938515, z: 0.34153122, w: 0.07608936}
+        outSlope: {x: 0.45175028, y: -0.11938515, z: 0.34153122, w: 0.07608936}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0, w: 0}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.13333
+        value: {x: 0.06102431, y: -0.022179611, z: 0.14795427, w: -0.98685974}
+        inSlope: {x: 0.45175028, y: -0.11938515, z: 0.34153122, w: 0.07608936}
+        outSlope: {x: 0.45175028, y: -0.11938515, z: 0.34153122, w: 0.07608936}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0, y: 0, z: 0, w: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: RootNode (gltf orientation matrix)/RootNode (model correction matrix)/Root/Lain/Armature/Armature_rootJoint/base_Armature/b1_Armature/b2_Armature/b3_Armature/arm1.r_Armature/arm2.r_Armature/arm3.r_Armature/hand.r_Armature/thumb1.r_Armature/thumb2.r_Armature
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0.1
+        value: {x: -0.6518462, y: -0.004453155, z: -0.0347563, w: -0.757545}
+        inSlope: {x: 0.717788, y: 0.8975905, z: 0.549485, w: -0.6041958}
+        outSlope: {x: 0.717788, y: 0.8975905, z: 0.549485, w: -0.6041958}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0, w: 0}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.13333
+        value: {x: -0.6279223, y: 0.025463538, z: -0.016441962, w: -0.77768284}
+        inSlope: {x: 0.717788, y: 0.8975905, z: 0.549485, w: -0.6041958}
+        outSlope: {x: 0.717788, y: 0.8975905, z: 0.549485, w: -0.6041958}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0, y: 0, z: 0, w: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: RootNode (gltf orientation matrix)/RootNode (model correction matrix)/Root/Lain/Armature/Armature_rootJoint/base_Armature/leg1.l_Armature
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0.1
+        value: {x: -0.03297701, y: -0.015770914, z: 0.023726087, w: -0.9990489}
+        inSlope: {x: 0.45311666, y: 2.4528883, z: 1.0305359, w: 0.0924936}
+        outSlope: {x: 0.45311666, y: 2.4528883, z: 1.0305359, w: 0.0924936}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0, w: 0}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.13333
+        value: {x: -0.017874632, y: 0.065983854, z: 0.058073852, w: -0.9959661}
+        inSlope: {x: 0.45311666, y: 2.4528883, z: 1.0305359, w: 0.0924936}
+        outSlope: {x: 0.45311666, y: 2.4528883, z: 1.0305359, w: 0.0924936}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0, y: 0, z: 0, w: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: RootNode (gltf orientation matrix)/RootNode (model correction matrix)/Root/Lain/Armature/Armature_rootJoint/base_Armature/leg1.l_Armature/leg2.l_Armature
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0.1
+        value: {x: -0.12412185, y: 0.014195852, z: 0.000616848, w: -0.99216384}
+        inSlope: {x: -4.083668, y: 1.2380009, z: -1.445544, w: 0.881766}
+        outSlope: {x: -4.083668, y: 1.2380009, z: -1.445544, w: 0.881766}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0, w: 0}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.13333
+        value: {x: -0.2602305, y: 0.055458423, z: -0.047563136, w: -0.9627746}
+        inSlope: {x: -4.083668, y: 1.2380009, z: -1.445544, w: 0.881766}
+        outSlope: {x: -4.083668, y: 1.2380009, z: -1.445544, w: 0.881766}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0, y: 0, z: 0, w: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: RootNode (gltf orientation matrix)/RootNode (model correction matrix)/Root/Lain/Armature/Armature_rootJoint/base_Armature/leg1.l_Armature/leg2.l_Armature/leg3.l_Armature
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0.1
+        value: {x: 0.37956896, y: 0.1958795, z: -0.056048002, w: -0.9024505}
+        inSlope: {x: 2.0199528, y: -1.8710091, z: -0.34824085, w: 0.61439997}
+        outSlope: {x: 2.0199528, y: -1.8710091, z: -0.34824085, w: 0.61439997}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0, w: 0}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.13333
+        value: {x: 0.446894, y: 0.13351877, z: -0.06765487, w: -0.88197255}
+        inSlope: {x: 2.0199528, y: -1.8710091, z: -0.34824085, w: 0.61439997}
+        outSlope: {x: 2.0199528, y: -1.8710091, z: -0.34824085, w: 0.61439997}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0, y: 0, z: 0, w: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: RootNode (gltf orientation matrix)/RootNode (model correction matrix)/Root/Lain/Armature/Armature_rootJoint/base_Armature/leg1.l_Armature/leg2.l_Armature/leg3.l_Armature/foot1.l_Armature
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0.1
+        value: {x: 0.3781879, y: -0.174039, z: 0.06315361, w: -0.90702945}
+        inSlope: {x: -2.8800032, y: -0.84561384, z: -0.11123529, w: -0.8665939}
+        outSlope: {x: -2.8800032, y: -0.84561384, z: -0.11123529, w: -0.8665939}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0, w: 0}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.13333
+        value: {x: 0.2821974, y: -0.20222332, z: 0.059446137, w: -0.935913}
+        inSlope: {x: -2.8800032, y: -0.84561384, z: -0.11123529, w: -0.8665939}
+        outSlope: {x: -2.8800032, y: -0.84561384, z: -0.11123529, w: -0.8665939}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0, y: 0, z: 0, w: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: RootNode (gltf orientation matrix)/RootNode (model correction matrix)/Root/Lain/Armature/Armature_rootJoint/base_Armature/leg1.l_Armature/leg2.l_Armature/leg3.l_Armature/foot1.l_Armature/foot2.l_Armature
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0.1
+        value: {x: 0.07458569, y: -0.07335005, z: 0.013354553, w: -0.99442434}
+        inSlope: {x: 1.7102965, y: 0.14467405, z: -0.05299502, w: 0.16690552}
+        outSlope: {x: 1.7102965, y: 0.14467405, z: -0.05299502, w: 0.16690552}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0, w: 0}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.13333
+        value: {x: 0.13158987, y: -0.06852806, z: 0.011588229, w: -0.9888614}
+        inSlope: {x: 1.7102965, y: 0.14467405, z: -0.05299502, w: 0.16690552}
+        outSlope: {x: 1.7102965, y: 0.14467405, z: -0.05299502, w: 0.16690552}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0, y: 0, z: 0, w: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: RootNode (gltf orientation matrix)/RootNode (model correction matrix)/Root/Lain/Armature/Armature_rootJoint/base_Armature/leg1.l_Armature/leg2.l_Armature/leg3.l_Armature/foot1.l_Armature/foot2.l_Armature/toes.l_Armature
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0.1
+        value: {x: 0.15608178, y: -0.015571863, z: -0.98742884, w: 0.019306995}
+        inSlope: {x: 0.04071464, y: -2.0157523, z: 0.10811456, w: 0.06345137}
+        outSlope: {x: 0.04071464, y: -2.0157523, z: 0.10811456, w: 0.06345137}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0, w: 0}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.13333
+        value: {x: 0.1574388, y: -0.08275689, z: -0.9838254, w: 0.02142183}
+        inSlope: {x: 0.04071464, y: -2.0157523, z: 0.10811456, w: 0.06345137}
+        outSlope: {x: 0.04071464, y: -2.0157523, z: 0.10811456, w: 0.06345137}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0, y: 0, z: 0, w: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: RootNode (gltf orientation matrix)/RootNode (model correction matrix)/Root/Lain/Armature/Armature_rootJoint/base_Armature/leg1.l_Armature/leg2.l_Armature/leg3.l_Armature/foot1.l_Armature/foot2.l_Armature/toes.l_Armature/slipper.l_Armature
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0.1
+        value: {x: 0.62172073, y: 0.047287166, z: -0.037074666, w: -0.78092927}
+        inSlope: {x: 0.36066622, y: -1.8411541, z: 1.3345636, w: 0.22645293}
+        outSlope: {x: 0.36066622, y: -1.8411541, z: 1.3345636, w: 0.22645293}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0, w: 0}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.13333
+        value: {x: 0.63374174, y: -0.014078503, z: 0.00740634, w: -0.7733816}
+        inSlope: {x: 0.36066622, y: -1.8411541, z: 1.3345636, w: 0.22645293}
+        outSlope: {x: 0.36066622, y: -1.8411541, z: 1.3345636, w: 0.22645293}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0, y: 0, z: 0, w: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: RootNode (gltf orientation matrix)/RootNode (model correction matrix)/Root/Lain/Armature/Armature_rootJoint/base_Armature/leg1.l_Armature/leg2.l_Armature/deform.leg.l_Armature
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0.1
+        value: {x: -0.64629084, y: -0.004824787, z: 0.04279625, w: -0.7618791}
+        inSlope: {x: 0.067058355, y: -1.5730662, z: -1.8421077, w: -0.021980219}
+        outSlope: {x: 0.067058355, y: -1.5730662, z: -1.8421077, w: -0.021980219}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0, w: 0}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.13333
+        value: {x: -0.6440558, y: -0.057255086, z: -0.018601196, w: -0.7626117}
+        inSlope: {x: 0.067058355, y: -1.5730662, z: -1.8421077, w: -0.021980219}
+        outSlope: {x: 0.067058355, y: -1.5730662, z: -1.8421077, w: -0.021980219}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0, y: 0, z: 0, w: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: RootNode (gltf orientation matrix)/RootNode (model correction matrix)/Root/Lain/Armature/Armature_rootJoint/base_Armature/leg1.r_Armature
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0.1
+        value: {x: -0.050392434, y: 0.016303884, z: -0.029216366, w: -0.99817306}
+        inSlope: {x: -0.38161054, y: 0.43708897, z: 0.07856763, w: 0.029938234}
+        outSlope: {x: -0.38161054, y: 0.43708897, z: 0.07856763, w: 0.029938234}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0, w: 0}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.13333
+        value: {x: -0.063111514, y: 0.03087206, z: -0.026597707, w: -0.9971752}
+        inSlope: {x: -0.38161054, y: 0.43708897, z: 0.07856763, w: 0.029938234}
+        outSlope: {x: -0.38161054, y: 0.43708897, z: 0.07856763, w: 0.029938234}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0, y: 0, z: 0, w: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: RootNode (gltf orientation matrix)/RootNode (model correction matrix)/Root/Lain/Armature/Armature_rootJoint/base_Armature/leg1.r_Armature/leg2.r_Armature
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0.1
+        value: {x: 0.32103264, y: 0.14738874, z: -0.08276577, w: -0.9318587}
+        inSlope: {x: 1.771626, y: 0.8617082, z: 1.5119958, w: 0.7320069}
+        outSlope: {x: 1.771626, y: 0.8617082, z: 1.5119958, w: 0.7320069}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0, w: 0}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.13333
+        value: {x: 0.38008094, y: 0.17610948, z: -0.03237095, w: -0.9074609}
+        inSlope: {x: 1.771626, y: 0.8617082, z: 1.5119958, w: 0.7320069}
+        outSlope: {x: 1.771626, y: 0.8617082, z: 1.5119958, w: 0.7320069}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0, y: 0, z: 0, w: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: RootNode (gltf orientation matrix)/RootNode (model correction matrix)/Root/Lain/Armature/Armature_rootJoint/base_Armature/leg1.r_Armature/leg2.r_Armature/leg3.r_Armature/foot1.r_Armature/foot2.r_Armature
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0.1
+        value: {x: -0.075561345, y: -0.07442513, z: -0.9942505, w: -0.014514026}
+        inSlope: {x: -0.080455095, y: 1.4115226, z: -0.06423102, w: -0.113982394}
+        outSlope: {x: -0.080455095, y: 1.4115226, z: -0.06423102, w: -0.113982394}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0, w: 0}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.13333
+        value: {x: -0.07824291, y: -0.02737908, z: -0.9963913, w: -0.01831306}
+        inSlope: {x: -0.080455095, y: 1.4115226, z: -0.06423102, w: -0.113982394}
+        outSlope: {x: -0.080455095, y: 1.4115226, z: -0.06423102, w: -0.113982394}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0, y: 0, z: 0, w: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: RootNode (gltf orientation matrix)/RootNode (model correction matrix)/Root/Lain/Armature/Armature_rootJoint/base_Armature/leg1.r_Armature/leg2.r_Armature/leg3.r_Armature/foot1.r_Armature/foot2.r_Armature/toes.r_Armature/slipper.r_Armature
+  m_CompressedRotationCurves: []
+  m_EulerCurves: []
+  m_PositionCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0.1
+        value: {x: -0.01581, y: -0.23619138, z: -2.3127775}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: -0, y: 0.86127234, z: -1.4036294}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      - serializedVersion: 3
+        time: 0.13333
+        value: {x: -0.01581, y: -0.20748517, z: -2.3595605}
+        inSlope: {x: 0, y: 0.86127234, z: -1.4036294}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: RootNode (gltf orientation matrix)/RootNode (model correction matrix)/Root/Lain/Armature/Armature_rootJoint/base_Armature/b1_Armature
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0.1
+        value: {x: 0.00096, y: 0.4664314, z: -0.008503969}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: -0.02880288, y: 0.024260323, z: 0.25514457}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      - serializedVersion: 3
+        time: 0.13333
+        value: {x: 0, y: 0.46724, z: -0}
+        inSlope: {x: -0.02880288, y: 0.024260323, z: 0.25514457}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: RootNode (gltf orientation matrix)/RootNode (model correction matrix)/Root/Lain/Armature/Armature_rootJoint/base_Armature/b1_Armature/b2_Armature/b3_Armature
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0.1
+        value: {x: 0.00094, y: 0.3979023, z: -0.017859604}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: -0.028202819, y: -0.8022046, z: 0.06037535}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      - serializedVersion: 3
+        time: 0.13333
+        value: {x: 0, y: 0.37116483, z: -0.015847294}
+        inSlope: {x: -0.028202819, y: -0.8022046, z: 0.06037535}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: RootNode (gltf orientation matrix)/RootNode (model correction matrix)/Root/Lain/Armature/Armature_rootJoint/base_Armature/b1_Armature/b2_Armature/b3_Armature/neck_Armature
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0.1
+        value: {x: 0.00194, y: 0.14246, z: -0.00453}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: -0.058205817, y: 0.46624672, z: 0.3651365}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      - serializedVersion: 3
+        time: 0.13333
+        value: {x: 0, y: 0.158, z: 0.00764}
+        inSlope: {x: -0.058205817, y: 0.46624672, z: 0.3651365}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: RootNode (gltf orientation matrix)/RootNode (model correction matrix)/Root/Lain/Armature/Armature_rootJoint/base_Armature/b1_Armature/b2_Armature/b3_Armature/neck_Armature/head_Armature
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0.1
+        value: {x: -0.081, y: 0.29929, z: -0.23395}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: -0.0004913404, y: 0.0017999422, z: -0.04662637}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      - serializedVersion: 3
+        time: 0.13333
+        value: {x: -0.08101638, y: 0.29935, z: -0.23550406}
+        inSlope: {x: -0.0004913404, y: 0.0017999422, z: -0.04662637}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: RootNode (gltf orientation matrix)/RootNode (model correction matrix)/Root/Lain/Armature/Armature_rootJoint/base_Armature/b1_Armature/b2_Armature/b3_Armature/neck_Armature/head_Armature/pupil.r_Armature
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0.1
+        value: {x: 0.081, y: 0.29929, z: -0.23395}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0.2532006, y: -0.003300341, z: -0.0021486643}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      - serializedVersion: 3
+        time: 0.13333
+        value: {x: 0.089439176, y: 0.29918, z: -0.23402162}
+        inSlope: {x: 0.2532006, y: -0.003300341, z: -0.0021486643}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: RootNode (gltf orientation matrix)/RootNode (model correction matrix)/Root/Lain/Armature/Armature_rootJoint/base_Armature/b1_Armature/b2_Armature/b3_Armature/neck_Armature/head_Armature/pupil.l_Armature
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0.1
+        value: {x: 0.0057710437, y: -0.085155286, z: 0.01591047}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: -0.36940956, y: -2.1068673, z: 0.5143158}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      - serializedVersion: 3
+        time: 0.13333
+        value: {x: -0.006541377, y: -0.15537718, z: 0.033052616}
+        inSlope: {x: -0.36940956, y: -2.1068673, z: 0.5143158}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: RootNode (gltf orientation matrix)/RootNode (model correction matrix)/Root/Lain/Armature/Armature_rootJoint/base_Armature/b1_Armature/b2_Armature/b3_Armature/neck_Armature/head_Armature/hood.up_Armature
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0.1
+        value: {x: 0.0053400937, y: -0.14616323, z: -0.017126841}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: -0.16021883, y: 1.8647833, z: 2.2759328}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      - serializedVersion: 3
+        time: 0.13333
+        value: {x: 0, y: -0.08401, z: 0.05873}
+        inSlope: {x: -0.16021883, y: 1.8647833, z: 2.2759328}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: RootNode (gltf orientation matrix)/RootNode (model correction matrix)/Root/Lain/Armature/Armature_rootJoint/base_Armature/b1_Armature/b2_Armature/b3_Armature/neck_Armature/head_Armature/hood.down_Armature
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0.1
+        value: {x: 0.15644237, y: 0.34423766, z: -0.0034404479}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: -0.35094714, y: -1.1466115, z: -0.20155793}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      - serializedVersion: 3
+        time: 0.13333
+        value: {x: 0.1447453, y: 0.3060211, z: -0.010158374}
+        inSlope: {x: -0.35094714, y: -1.1466115, z: -0.20155793}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: RootNode (gltf orientation matrix)/RootNode (model correction matrix)/Root/Lain/Armature/Armature_rootJoint/base_Armature/b1_Armature/b2_Armature/b3_Armature/arm1.l_Armature
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0.1
+        value: {x: 0.117063284, y: 0.34479108, z: 0.015059375}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: -2.1249685, y: -1.3387725, z: -0.3214902}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      - serializedVersion: 3
+        time: 0.13333
+        value: {x: 0.04623808, y: 0.3001698, z: 0.0043441067}
+        inSlope: {x: -2.1249685, y: -1.3387725, z: -0.3214902}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: RootNode (gltf orientation matrix)/RootNode (model correction matrix)/Root/Lain/Armature/Armature_rootJoint/base_Armature/b1_Armature/b2_Armature/b3_Armature/arm1.l_Armature/arm2.l_Armature
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0.1
+        value: {x: 0.030408971, y: 0.6186685, z: -0.096705645}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: -0.87625647, y: -3.028615, z: 2.897998}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      - serializedVersion: 3
+        time: 0.13333
+        value: {x: 0.0012033421, y: 0.51772475, z: -0.000115369905}
+        inSlope: {x: -0.87625647, y: -3.028615, z: 2.897998}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: RootNode (gltf orientation matrix)/RootNode (model correction matrix)/Root/Lain/Armature/Armature_rootJoint/base_Armature/b1_Armature/b2_Armature/b3_Armature/arm1.l_Armature/arm2.l_Armature/arm3.l_Armature
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0.1
+        value: {x: -0.047643777, y: 0.58881027, z: 0.023745373}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: -0.47077283, y: -2.3768609, z: -1.2258519}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      - serializedVersion: 3
+        time: 0.13333
+        value: {x: -0.06333464, y: 0.5095895, z: -0.017112274}
+        inSlope: {x: -0.47077283, y: -2.3768609, z: -1.2258519}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: RootNode (gltf orientation matrix)/RootNode (model correction matrix)/Root/Lain/Armature/Armature_rootJoint/base_Armature/b1_Armature/b2_Armature/b3_Armature/arm1.l_Armature/arm2.l_Armature/arm3.l_Armature/hand.l_Armature
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0.1
+        value: {x: -0.017880848, y: 0.20599952, z: 0.04641}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: -0.034181744, y: 0.046229366, z: -0.0027003603}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      - serializedVersion: 3
+        time: 0.13333
+        value: {x: -0.019020125, y: 0.20754035, z: 0.04632}
+        inSlope: {x: -0.034181744, y: 0.046229366, z: -0.0027003603}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: RootNode (gltf orientation matrix)/RootNode (model correction matrix)/Root/Lain/Armature/Armature_rootJoint/base_Armature/b1_Armature/b2_Armature/b3_Armature/arm1.l_Armature/arm2.l_Armature/arm3.l_Armature/hand.l_Armature/fingers1.l_Armature
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0.1
+        value: {x: -0, y: 0.15454, z: -0}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0.0018795723, y: 0.35174966, z: 0.030603059}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      - serializedVersion: 3
+        time: 0.13333
+        value: {x: 0.00006264615, y: 0.16626382, z: 0.00102}
+        inSlope: {x: 0.0018795723, y: 0.35174966, z: 0.030603059}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: RootNode (gltf orientation matrix)/RootNode (model correction matrix)/Root/Lain/Armature/Armature_rootJoint/base_Armature/b1_Armature/b2_Armature/b3_Armature/arm1.l_Armature/arm2.l_Armature/arm3.l_Armature/hand.l_Armature/fingers1.l_Armature/fingers2.l_Armature
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0.1
+        value: {x: -0.011266689, y: 0.21124613, z: -0.09648}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: -0.14650078, y: -0.37624916, z: -0.027302923}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      - serializedVersion: 3
+        time: 0.13333
+        value: {x: -0.01614956, y: 0.19870575, z: -0.09739}
+        inSlope: {x: -0.14650078, y: -0.37624916, z: -0.027302923}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: RootNode (gltf orientation matrix)/RootNode (model correction matrix)/Root/Lain/Armature/Armature_rootJoint/base_Armature/b1_Armature/b2_Armature/b3_Armature/arm1.l_Armature/arm2.l_Armature/arm3.l_Armature/hand.l_Armature/index1.l_Armature
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0.1
+        value: {x: -0.1564426, y: 0.3445469, z: -0.010107261}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 1.939496, y: -0.5202969, z: -0.035731293}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      - serializedVersion: 3
+        time: 0.13333
+        value: {x: -0.09179919, y: 0.32720542, z: -0.011298185}
+        inSlope: {x: 1.939496, y: -0.5202969, z: -0.035731293}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: RootNode (gltf orientation matrix)/RootNode (model correction matrix)/Root/Lain/Armature/Armature_rootJoint/base_Armature/b1_Armature/b2_Armature/b3_Armature/arm1.r_Armature
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0.1
+        value: {x: -0.117063284, y: 0.34479108, z: 0.015059375}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0.069651864, y: -1.0751806, z: 0.39075866}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      - serializedVersion: 3
+        time: 0.13333
+        value: {x: -0.11474179, y: 0.3089553, z: 0.028083362}
+        inSlope: {x: 0.069651864, y: -1.0751806, z: 0.39075866}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: RootNode (gltf orientation matrix)/RootNode (model correction matrix)/Root/Lain/Armature/Armature_rootJoint/base_Armature/b1_Armature/b2_Armature/b3_Armature/arm1.r_Armature/arm2.r_Armature
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0.1
+        value: {x: -0.030408971, y: 0.6186685, z: -0.096705645}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0.8838086, y: -2.7896528, z: 2.922829}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      - serializedVersion: 3
+        time: 0.13333
+        value: {x: -0.000951629, y: 0.52568936, z: 0.00071224803}
+        inSlope: {x: 0.8838086, y: -2.7896528, z: 2.922829}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: RootNode (gltf orientation matrix)/RootNode (model correction matrix)/Root/Lain/Armature/Armature_rootJoint/base_Armature/b1_Armature/b2_Armature/b3_Armature/arm1.r_Armature/arm2.r_Armature/arm3.r_Armature
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0.1
+        value: {x: -0.03915363, y: 0.5643112, z: 0.012879724}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 3.0749555, y: -1.6418155, z: -0.8998499}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      - serializedVersion: 3
+        time: 0.13333
+        value: {x: 0.06333464, y: 0.5095895, z: -0.017112274}
+        inSlope: {x: 3.0749555, y: -1.6418155, z: -0.8998499}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: RootNode (gltf orientation matrix)/RootNode (model correction matrix)/Root/Lain/Armature/Armature_rootJoint/base_Armature/b1_Armature/b2_Armature/b3_Armature/arm1.r_Armature/arm2.r_Armature/arm3.r_Armature/hand.r_Armature
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0.1
+        value: {x: 0.018049018, y: 0.21100639, z: 0.04641}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: -0.0050456277, y: -0.15022096, z: -0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      - serializedVersion: 3
+        time: 0.13333
+        value: {x: 0.017880848, y: 0.20599952, z: 0.04641}
+        inSlope: {x: -0.0050456277, y: -0.15022096, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: RootNode (gltf orientation matrix)/RootNode (model correction matrix)/Root/Lain/Armature/Armature_rootJoint/base_Armature/b1_Armature/b2_Armature/b3_Armature/arm1.r_Armature/arm2.r_Armature/arm3.r_Armature/hand.r_Armature/fingers1.r_Armature
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0.1
+        value: {x: -0.00548708, y: 0.15776983, z: -0}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0.16274929, y: 0.25484517, z: 0.030603059}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      - serializedVersion: 3
+        time: 0.13333
+        value: {x: -0.00006264615, y: 0.16626382, z: 0.00102}
+        inSlope: {x: 0.16274929, y: 0.25484517, z: 0.030603059}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: RootNode (gltf orientation matrix)/RootNode (model correction matrix)/Root/Lain/Armature/Armature_rootJoint/base_Armature/b1_Armature/b2_Armature/b3_Armature/arm1.r_Armature/arm2.r_Armature/arm3.r_Armature/hand.r_Armature/fingers1.r_Armature/fingers2.r_Armature
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0.1
+        value: {x: 0.011098421, y: 0.20623806, z: -0.09648}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0.18555832, y: -0.17989676, z: -0.03000306}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      - serializedVersion: 3
+        time: 0.13333
+        value: {x: 0.01728308, y: 0.2002421, z: -0.09748}
+        inSlope: {x: 0.18555832, y: -0.17989676, z: -0.03000306}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: RootNode (gltf orientation matrix)/RootNode (model correction matrix)/Root/Lain/Armature/Armature_rootJoint/base_Armature/b1_Armature/b2_Armature/b3_Armature/arm1.r_Armature/arm2.r_Armature/arm3.r_Armature/hand.r_Armature/index1.r_Armature
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0.1
+        value: {x: 0.005442483, y: 0.14555848, z: -0}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: -0.16329081, y: 0.0987554, z: -0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      - serializedVersion: 3
+        time: 0.13333
+        value: {x: 0, y: 0.14885, z: -0}
+        inSlope: {x: -0.16329081, y: 0.0987554, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: RootNode (gltf orientation matrix)/RootNode (model correction matrix)/Root/Lain/Armature/Armature_rootJoint/base_Armature/b1_Armature/b2_Armature/b3_Armature/arm1.r_Armature/arm2.r_Armature/arm3.r_Armature/hand.r_Armature/index1.r_Armature/index2.r_Armature
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0.1
+        value: {x: -0.04589, y: 0.08112, z: -0.14755}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: -0.66218305, y: 1.2514825, z: 0.06597955}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      - serializedVersion: 3
+        time: 0.13333
+        value: {x: -0.06796056, y: 0.12283191, z: -0.1453509}
+        inSlope: {x: -0.66218305, y: 1.2514825, z: 0.06597955}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: RootNode (gltf orientation matrix)/RootNode (model correction matrix)/Root/Lain/Armature/Armature_rootJoint/base_Armature/b1_Armature/b2_Armature/b3_Armature/arm1.r_Armature/arm2.r_Armature/arm3.r_Armature/hand.r_Armature/thumb1.r_Armature
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0.1
+        value: {x: -0.27083725, y: -0.07809066, z: -2.3889616}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0.3617741, y: -0.5158938, z: -0.31273392}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      - serializedVersion: 3
+        time: 0.13333
+        value: {x: -0.25877932, y: -0.0952854, z: -2.399385}
+        inSlope: {x: 0.3617741, y: -0.5158938, z: -0.31273392}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: RootNode (gltf orientation matrix)/RootNode (model correction matrix)/Root/Lain/Armature/Armature_rootJoint/base_Armature/leg1.l_Armature
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0.1
+        value: {x: 0.0011814495, y: 0.28672054, z: -0.019962704}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: -0.059784144, y: -0.4514135, z: 0.42087287}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      - serializedVersion: 3
+        time: 0.13333
+        value: {x: -0.00081115606, y: 0.27167493, z: -0.005935011}
+        inSlope: {x: -0.059784144, y: -0.4514135, z: 0.42087287}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: RootNode (gltf orientation matrix)/RootNode (model correction matrix)/Root/Lain/Armature/Armature_rootJoint/base_Armature/leg1.l_Armature/leg2.l_Armature
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0.1
+        value: {x: -0.0001229368, y: 0.74024016, z: 0.00056093023}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0.09141305, y: -0.33197623, z: 0.75356185}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      - serializedVersion: 3
+        time: 0.13333
+        value: {x: 0.0029238602, y: 0.7291754, z: 0.025677148}
+        inSlope: {x: 0.09141305, y: -0.33197623, z: 0.75356185}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: RootNode (gltf orientation matrix)/RootNode (model correction matrix)/Root/Lain/Armature/Armature_rootJoint/base_Armature/leg1.l_Armature/leg2.l_Armature/leg3.l_Armature
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0.1
+        value: {x: 0.0008473392, y: 1.0944484, z: 0.05598818}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: -0.030026834, y: 0.34191212, z: -1.5177736}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      - serializedVersion: 3
+        time: 0.13333
+        value: {x: -0.0001534552, y: 1.1058444, z: 0.0054007857}
+        inSlope: {x: -0.030026834, y: 0.34191212, z: -1.5177736}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: RootNode (gltf orientation matrix)/RootNode (model correction matrix)/Root/Lain/Armature/Armature_rootJoint/base_Armature/leg1.l_Armature/leg2.l_Armature/leg3.l_Armature/foot1.l_Armature
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0.1
+        value: {x: 0.0023408583, y: 0.21665439, z: -0.002294401}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: -0.21203968, y: 0.4072376, z: -0.032195874}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      - serializedVersion: 3
+        time: 0.13333
+        value: {x: -0.0047264243, y: 0.23022762, z: -0.0033674894}
+        inSlope: {x: -0.21203968, y: 0.4072376, z: -0.032195874}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: RootNode (gltf orientation matrix)/RootNode (model correction matrix)/Root/Lain/Armature/Armature_rootJoint/base_Armature/leg1.l_Armature/leg2.l_Armature/leg3.l_Armature/foot1.l_Armature/foot2.l_Armature
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0.1
+        value: {x: -0.023766922, y: 0.27476734, z: 0.07642217}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0.31099778, y: 0.2322301, z: -0.5507411}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      - serializedVersion: 3
+        time: 0.13333
+        value: {x: -0.013401366, y: 0.28250757, z: 0.05806597}
+        inSlope: {x: 0.31099778, y: 0.2322301, z: -0.5507411}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: RootNode (gltf orientation matrix)/RootNode (model correction matrix)/Root/Lain/Armature/Armature_rootJoint/base_Armature/leg1.l_Armature/leg2.l_Armature/leg3.l_Armature/foot1.l_Armature/foot2.l_Armature/toes.l_Armature/slipper.l_Armature
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0.1
+        value: {x: -0.0027097452, y: 0.70095116, z: -0.17140141}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: -0.052787736, y: 0.781132, z: -0.058334935}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      - serializedVersion: 3
+        time: 0.13333
+        value: {x: -0.0044691605, y: 0.7269863, z: -0.17334571}
+        inSlope: {x: -0.052787736, y: 0.781132, z: -0.058334935}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: RootNode (gltf orientation matrix)/RootNode (model correction matrix)/Root/Lain/Armature/Armature_rootJoint/base_Armature/leg1.l_Armature/leg2.l_Armature/deform.leg.l_Armature
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0.1
+        value: {x: 0.25518197, y: -0.16651264, z: -2.420437}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0.102270335, y: 1.2497145, z: -0.7871032}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      - serializedVersion: 3
+        time: 0.13333
+        value: {x: 0.25859064, y: -0.12485965, z: -2.4466712}
+        inSlope: {x: 0.102270335, y: 1.2497145, z: -0.7871032}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: RootNode (gltf orientation matrix)/RootNode (model correction matrix)/Root/Lain/Armature/Armature_rootJoint/base_Armature/leg1.r_Armature
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0.1
+        value: {x: 0.0009365714, y: 0.27296478, z: 0.0033170294}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: -0.02809995, y: 0.32298902, z: -0.09952083}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      - serializedVersion: 3
+        time: 0.13333
+        value: {x: 0, y: 0.28373, z: 0}
+        inSlope: {x: -0.02809995, y: 0.32298902, z: -0.09952083}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: RootNode (gltf orientation matrix)/RootNode (model correction matrix)/Root/Lain/Armature/Armature_rootJoint/base_Armature/leg1.r_Armature/leg2.r_Armature
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0.1
+        value: {x: 0.000015225193, y: 0.72338897, z: 0.0002946388}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: -0.009198706, y: 0.13755386, z: 0.09430652}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      - serializedVersion: 3
+        time: 0.13333
+        value: {x: -0.00029136767, y: 0.72797364, z: 0.0034378753}
+        inSlope: {x: -0.009198706, y: 0.13755386, z: 0.09430652}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: RootNode (gltf orientation matrix)/RootNode (model correction matrix)/Root/Lain/Armature/Armature_rootJoint/base_Armature/leg1.r_Armature/leg2.r_Armature/leg3.r_Armature
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0.1
+        value: {x: -0.0033583122, y: 1.1298448, z: -0.0053042504}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0.12356165, y: 0.71761274, z: -0.027304502}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      - serializedVersion: 3
+        time: 0.13333
+        value: {x: 0.0007599978, y: 1.1537628, z: -0.0062143095}
+        inSlope: {x: 0.12356165, y: 0.71761274, z: -0.027304502}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: RootNode (gltf orientation matrix)/RootNode (model correction matrix)/Root/Lain/Armature/Armature_rootJoint/base_Armature/leg1.r_Armature/leg2.r_Armature/leg3.r_Armature/foot1.r_Armature
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0.1
+        value: {x: 0, y: 0.2073, z: -0}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: -0.2004461, y: 0.35218197, z: 0.40563312}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      - serializedVersion: 3
+        time: 0.13333
+        value: {x: -0.0066808686, y: 0.21903823, z: 0.013519753}
+        inSlope: {x: -0.2004461, y: 0.35218197, z: 0.40563312}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: RootNode (gltf orientation matrix)/RootNode (model correction matrix)/Root/Lain/Armature/Armature_rootJoint/base_Armature/leg1.r_Armature/leg2.r_Armature/leg3.r_Armature/foot1.r_Armature/foot2.r_Armature
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0.1
+        value: {x: 0.020346766, y: 0.2677673, z: 0.044250194}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: -0.4382209, y: 0.05884997, z: 0.565228}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      - serializedVersion: 3
+        time: 0.13333
+        value: {x: 0.005740864, y: 0.26972878, z: 0.063089244}
+        inSlope: {x: -0.4382209, y: 0.05884997, z: 0.565228}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: RootNode (gltf orientation matrix)/RootNode (model correction matrix)/Root/Lain/Armature/Armature_rootJoint/base_Armature/leg1.r_Armature/leg2.r_Armature/leg3.r_Armature/foot1.r_Armature/foot2.r_Armature/toes.r_Armature/slipper.r_Armature
+  m_ScaleCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0.1
+        value: {x: 1.0000013, y: 1, z: 1.0000013}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: -27.002735, y: -27.002699, z: -27.002735}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      - serializedVersion: 3
+        time: 0.13333
+        value: {x: 0.100000136, y: 0.1, z: 0.100000136}
+        inSlope: {x: -27.002735, y: -27.002699, z: -27.002735}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: RootNode (gltf orientation matrix)/RootNode (model correction matrix)/Root/Lain/Armature/Armature_rootJoint/base_Armature/b1_Armature/b2_Armature/b3_Armature/neck_Armature/head_Armature/hood.up_Armature
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0.1
+        value: {x: 0.100000136, y: 0.1, z: 0.100000136}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 27.002735, y: 27.002699, z: 27.002735}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      - serializedVersion: 3
+        time: 0.13333
+        value: {x: 1.0000013, y: 1, z: 1.0000013}
+        inSlope: {x: 27.002735, y: 27.002699, z: 27.002735}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: RootNode (gltf orientation matrix)/RootNode (model correction matrix)/Root/Lain/Armature/Armature_rootJoint/base_Armature/b1_Armature/b2_Armature/b3_Armature/neck_Armature/head_Armature/hood.down_Armature
+  m_FloatCurves: []
+  m_PPtrCurves: []
+  m_SampleRate: 60
+  m_WrapMode: 2
+  m_Bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  m_ClipBindingConstant:
+    genericBindings: []
+    pptrCurveMapping: []
+  m_AnimationClipSettings:
+    serializedVersion: 2
+    m_AdditiveReferencePoseClip: {fileID: 0}
+    m_AdditiveReferencePoseTime: 0
+    m_StartTime: 0
+    m_StopTime: 0.13333
+    m_OrientationOffsetY: 0
+    m_Level: 0
+    m_CycleOffset: 0
+    m_HasAdditiveReferencePose: 0
+    m_LoopTime: 0
+    m_LoopBlend: 0
+    m_LoopBlendOrientation: 0
+    m_LoopBlendPositionY: 0
+    m_LoopBlendPositionXZ: 0
+    m_KeepOriginalOrientation: 0
+    m_KeepOriginalPositionY: 1
+    m_KeepOriginalPositionXZ: 0
+    m_HeightFromFeet: 0
+    m_Mirror: 0
+  m_EditorCurves: []
+  m_EulerEditorCurves: []
+  m_HasGenericRootTransform: 0
+  m_HasMotionFloatCurves: 0
+  m_GenerateMotionCurves: 0
+  m_Events: []

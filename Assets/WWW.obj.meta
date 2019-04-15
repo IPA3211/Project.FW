@@ -1,0 +1,436 @@
+fileFormatVersion: 2
+guid: ee29cdb867558114cbe8af89fa83804e
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: default
+    100002: //RootNode
+    400000: default
+    400002: //RootNode
+    2100000: 24_body_0.9_1_1
+    2100002: 24_face_0.2_0_0
+    2100004: 24_lips_0.5_0_0
+    2100006: 24_teeth-lower_0.1_16_16
+    2100008: 24_teeth-upper_0.1_16_16
+    2100010: 24_tongue_0.2_0_0
+    2100012: 25_hair0_0.2_0_0
+    2100014: 25_hair11_0.2_0_0
+    2100016: 25_hair12_0.2_0_0
+    2100018: 25_hair13_0.2_0_0
+    2100020: 25_hair14_0.2_0_0
+    2100022: 25_hair15_0.2_0_0
+    2100024: 25_hair16_0.2_0_0
+    2100026: 25_hair17_0.2_0_0
+    2100028: 25_hair18_0.2_0_0
+    2100030: 25_hair19_0.2_0_0
+    2100032: 25_hair1_0.2_0_0
+    2100034: 25_hair21_0.2_0_0
+    2100036: 25_hair22_0.2_0_0
+    2100038: 25_hair23_0.2_0_0
+    2100040: 25_hair24_0.2_0_0
+    2100042: 25_hair25_0.2_0_0
+    2100044: 25_hair26_0.2_0_0
+    2100046: 25_hair27_0.2_0_0
+    2100048: 25_hair28_0.2_0_0
+    2100050: 25_hair29_0.2_0_0
+    2100052: 25_hair2_0.2_0_0
+    2100054: 25_hair2a_0.2_0_0
+    2100056: 25_hair2b_0.2_0_0
+    2100058: 25_hair2c_0.2_0_0
+    2100060: 25_hair2d_0.2_0_0
+    2100062: 25_hair2e_0.2_0_0
+    2100064: 25_hair2f_0.2_0_0
+    2100066: 25_hair30_0.2_0_0
+    2100068: 25_hair31_0.2_0_0
+    2100070: 25_hair32_0.2_0_0
+    2100072: 25_hair33_0.2_0_0
+    2100074: 25_hair34_0.2_0_0
+    2100076: 25_hair35_0.2_0_0
+    2100078: 25_hair36_0.2_0_0
+    2100080: 25_hair37_0.2_0_0
+    2100082: 25_hair38_0.2_0_0
+    2100084: 25_hair3_0.2_0_0
+    2100086: 25_hair4_0.2_0_0
+    2100088: 25_hair5_0.2_0_0
+    2100090: 25_hair6_0.2_0_0
+    2100092: 25_hair7_0.2_0_0
+    2100094: 25_hair8_0.2_0_0
+    2100096: 25_hair9_0.2_0_0
+    2100098: 25_haira_0.2_0_0
+    2100100: 25_hairb_0.2_0_0
+    2100102: 26_eyeballs_0.1_16_16
+    2100104: 26_iris_0.2_0_0
+    2100106: 7_eyelashes-lower_1_16_16
+    2100108: 7_eyelashes-upper-ba_0.1_16_16
+    2100110: 7_eyelashes-upper-fr_0.1_16_16
+    2100112: 7_eyeshadow_0.1_16_16
+    2300000: default
+    3300000: default
+    4300000: default
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 24_body_0.9_1_1
+    second: {fileID: 2100000, guid: edca5ab34e1503749acb8ba863645656, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 24_face_0.2_0_0
+    second: {fileID: 2100000, guid: 78c17c6b0349ce24c88e6b69806629c2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 24_lips_0.5_0_0
+    second: {fileID: 2100000, guid: f2280a87cb5decb459237bae6a6c18af, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 24_teeth-lower_0.1_16_16
+    second: {fileID: 2100000, guid: cfc2d3a8cfb95084d87fcd14f9e3f805, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 24_teeth-upper_0.1_16_16
+    second: {fileID: 2100000, guid: 445a6d18c34ca92468fb531f6f901678, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 24_tongue_0.2_0_0
+    second: {fileID: 2100000, guid: 672167f92f4bf4a45ad7a255e73b8554, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 25_hair0_0.2_0_0
+    second: {fileID: 2100000, guid: bfd45ec945d4d4d4981700b1e3067d40, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 25_hair11_0.2_0_0
+    second: {fileID: 2100000, guid: aa9c02a306919384daf315664f856070, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 25_hair12_0.2_0_0
+    second: {fileID: 2100000, guid: 722b77554006a3a40b536454120e69f1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 25_hair13_0.2_0_0
+    second: {fileID: 2100000, guid: 1ca120e8f43bced4eaa575c43f6e4753, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 25_hair14_0.2_0_0
+    second: {fileID: 2100000, guid: 3e77d7640612d5f45aba0d5dffd47f24, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 25_hair15_0.2_0_0
+    second: {fileID: 2100000, guid: d400c11eec7244e499e5e1b842b891ba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 25_hair16_0.2_0_0
+    second: {fileID: 2100000, guid: 51ad9321675c87a4a8f198ba99e601e1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 25_hair17_0.2_0_0
+    second: {fileID: 2100000, guid: e47615227053e214abb3b9b944ed2f44, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 25_hair18_0.2_0_0
+    second: {fileID: 2100000, guid: 68d8c801af82e064ca309d9dd37ab078, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 25_hair19_0.2_0_0
+    second: {fileID: 2100000, guid: 10341624c6edff940abe1c279adcdac7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 25_hair1_0.2_0_0
+    second: {fileID: 2100000, guid: 0e2109edb257442489d984d3886b0b00, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 25_hair21_0.2_0_0
+    second: {fileID: 2100000, guid: fc2b8063fee86e9489cf25b56d0ed7e3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 25_hair22_0.2_0_0
+    second: {fileID: 2100000, guid: 33b4541dbebe0f1489c77e5fdfe4921b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 25_hair23_0.2_0_0
+    second: {fileID: 2100000, guid: 38edb7772901bda4db967c34787bca26, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 25_hair24_0.2_0_0
+    second: {fileID: 2100000, guid: 9c7df7e3492b40d469f8ced84e1c933d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 25_hair25_0.2_0_0
+    second: {fileID: 2100000, guid: f519d8055ff6c9447a8e823dbbc6fcd8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 25_hair26_0.2_0_0
+    second: {fileID: 2100000, guid: e9e50876c87a84d4a9ffa6596f9509ac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 25_hair27_0.2_0_0
+    second: {fileID: 2100000, guid: cc333bb8a37ef7746958e9454f84ba81, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 25_hair28_0.2_0_0
+    second: {fileID: 2100000, guid: 1dbefa05bbdc216449f013f84acb36e6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 25_hair29_0.2_0_0
+    second: {fileID: 2100000, guid: 76687563f924a5b4fbb56c8f7a9f7997, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 25_hair2_0.2_0_0
+    second: {fileID: 2100000, guid: 84f5cb2f1cba2c54a9bb9e6bacb0cad4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 25_hair2a_0.2_0_0
+    second: {fileID: 2100000, guid: f19d31342a0242b40b66665222baef22, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 25_hair2b_0.2_0_0
+    second: {fileID: 2100000, guid: 72df584f39711fa41992bda5d8157191, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 25_hair2c_0.2_0_0
+    second: {fileID: 2100000, guid: 8c9c77d4d9d13e843a490f67b005bbba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 25_hair2d_0.2_0_0
+    second: {fileID: 2100000, guid: 4ae27e95bb9caba47955b8d05d4ae23c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 25_hair2e_0.2_0_0
+    second: {fileID: 2100000, guid: d0ad1a8acd3423b47930749f5fba29c5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 25_hair2f_0.2_0_0
+    second: {fileID: 2100000, guid: 36efad34ae5b927449edc628f924505c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 25_hair30_0.2_0_0
+    second: {fileID: 2100000, guid: db6111a7b53d4974bb609c9009ecc36d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 25_hair31_0.2_0_0
+    second: {fileID: 2100000, guid: 4c38682bca3b14748aaf77a07dfe58ad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 25_hair32_0.2_0_0
+    second: {fileID: 2100000, guid: 5955ad2ee08d6b444b9812428ae30c80, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 25_hair33_0.2_0_0
+    second: {fileID: 2100000, guid: c1614c2412f66c54c886e2d7c3290978, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 25_hair34_0.2_0_0
+    second: {fileID: 2100000, guid: 9fbe827b346f1ce4aac724173866b824, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 25_hair35_0.2_0_0
+    second: {fileID: 2100000, guid: 55f96b34b52eb2144912e96f60cc0e39, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 25_hair36_0.2_0_0
+    second: {fileID: 2100000, guid: 01d0e288f5012e7459261c292c5ff1ce, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 25_hair37_0.2_0_0
+    second: {fileID: 2100000, guid: eeb9981a82ef2d14faee5555f8e9c373, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 25_hair38_0.2_0_0
+    second: {fileID: 2100000, guid: fb0ce22865f1645429b582ea94bc83ad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 25_hair3_0.2_0_0
+    second: {fileID: 2100000, guid: cf32b1188269a9149a0f66750ef3e56a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 25_hair4_0.2_0_0
+    second: {fileID: 2100000, guid: c411c926eff31e443b146ee6b70c388c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 25_hair5_0.2_0_0
+    second: {fileID: 2100000, guid: 268fba4a2e1e32343972d05a8fd28ec3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 25_hair6_0.2_0_0
+    second: {fileID: 2100000, guid: 6420a7d02e34faf4d9d1542475a3834b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 25_hair7_0.2_0_0
+    second: {fileID: 2100000, guid: 6ff3752f6fc76be44965b788de093e39, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 25_hair8_0.2_0_0
+    second: {fileID: 2100000, guid: 7a229601c3cfa6941ad0c1072c10ab65, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 25_hair9_0.2_0_0
+    second: {fileID: 2100000, guid: 7b35837564d269249b2a62afb5391db0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 25_haira_0.2_0_0
+    second: {fileID: 2100000, guid: 41e28d9c87c955a4abdbaf64c48c75d6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 25_hairb_0.2_0_0
+    second: {fileID: 2100000, guid: 9ae6fbebd0250c74a8b26a259ed88405, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 26_eyeballs_0.1_16_16
+    second: {fileID: 2100000, guid: dc52752e5b06df54a986ddc7a6a3d767, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 26_iris_0.2_0_0
+    second: {fileID: 2100000, guid: d723f6aeaccb3cd4b946e33b11a5997d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 7_eyelashes-lower_1_16_16
+    second: {fileID: 2100000, guid: 148e2a2e6278c5346a22ddc4c12c364e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 7_eyelashes-upper-ba_0.1_16_16
+    second: {fileID: 2100000, guid: df034761ed85c8f4dab43de89daf57f4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 7_eyelashes-upper-fr_0.1_16_16
+    second: {fileID: 2100000, guid: eaedafd4c1dd81244a329b76299e0c2d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 7_eyeshadow_0.1_16_16
+    second: {fileID: 2100000, guid: e269febc9a94dbc43b3446572c1f42b3, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

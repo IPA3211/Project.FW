@@ -1,0 +1,794 @@
+# Blender MTL File: 'untitled.blend'
+# Material Count: 57
+
+newmtl 24_body_0.9_1_1
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.684408 0.510670 0.598720
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 0
+map_Kd Nude - Honoka\hono_body_base.png
+map_Bump  Nude - Honoka\\rac_body_nrm_VLH2_PP1.tga
+map_Ks  Nude - Honoka\\hono_body_spec.png
+map_d  Nude - Honoka\\hono_body_base.png
+
+newmtl 24_face_0.2_0_0
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.464626 0.510262 0.684355
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 0
+map_Kd Nude - Honoka\hon_face_base.tga
+map_Bump  Nude - Honoka\\hon_face_nrm_VLH2_PP1.tga
+map_Ks  Nude - Honoka\\hon_face_spe.tga
+map_d  Nude - Honoka\\hon_face_base.tga
+
+newmtl 24_lips_0.5_0_0
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.481317 0.673359 0.694974
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 0
+map_Kd Nude - Honoka\hon_face_base.tga
+map_Bump  Nude - Honoka\\hon_face_nrm_VLH2_PP1.tga
+map_Ks  Nude - Honoka\\hon_face_spe.tga
+map_d  Nude - Honoka\\hon_face_base.tga
+
+newmtl 24_teeth-lower_0.1_16_16
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.621530 0.770947 0.430294
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 0
+map_Kd Nude - Honoka\hon_face_base.tga
+map_Bump  Nude - Honoka\\hon_face_nrm_VLH2_PP1.tga
+map_Ks  Nude - Honoka\\hon_face_spe.tga
+map_d  Nude - Honoka\\hon_face_base.tga
+
+newmtl 24_teeth-upper_0.1_16_16
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.403079 0.442203 0.613325
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 0
+map_Kd Nude - Honoka\hon_face_base.tga
+map_Bump  Nude - Honoka\\hon_face_nrm_VLH2_PP1.tga
+map_Ks  Nude - Honoka\\hon_face_spe.tga
+map_d  Nude - Honoka\\hon_face_base.tga
+
+newmtl 24_tongue_0.2_0_0
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.748284 0.518070 0.764842
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 0
+map_Kd Nude - Honoka\hon_face_base.tga
+map_Bump  Nude - Honoka\\hon_face_nrm_VLH2_PP1.tga
+map_Ks  Nude - Honoka\\hon_face_spe.tga
+map_d  Nude - Honoka\\hon_face_base.tga
+
+newmtl 25_hair0_0.2_0_0
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.674854 0.618759 0.736007
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 0
+map_Kd Nude - Honoka\hon_front_hair_base.tga
+map_Bump  Nude - Honoka\\hon_front_hair_nrm.tga
+map_Ks  Nude - Honoka\\hon_front_hair_spe.tga
+map_d  Nude - Honoka\\hon_front_hair_base.tga
+
+newmtl 25_hair11_0.2_0_0
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.425721 0.557349 0.527826
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 0
+map_Kd Nude - Honoka\hon_hair_head_base.tga
+map_Bump  Nude - Honoka\\hon_hair_head_nrm.tga
+map_Ks  Nude - Honoka\\hon_hair_head_spe.tga
+map_d  Nude - Honoka\\hon_hair_head_base.tga
+
+newmtl 25_hair12_0.2_0_0
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.490061 0.595344 0.579928
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 0
+map_Kd Nude - Honoka\hon_backhair_base.tga
+map_Bump  Nude - Honoka\\hon_backhair_nrm.tga
+map_Ks  Nude - Honoka\\hon_backhair_spe.tga
+map_d  Nude - Honoka\\hon_backhair_base.tga
+
+newmtl 25_hair13_0.2_0_0
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.406870 0.692462 0.642594
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 0
+map_Kd Nude - Honoka\hon_backhair_base.tga
+map_Bump  Nude - Honoka\\hon_backhair_nrm.tga
+map_Ks  Nude - Honoka\\hon_backhair_spe.tga
+map_d  Nude - Honoka\\hon_backhair_base.tga
+
+newmtl 25_hair14_0.2_0_0
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.587602 0.511271 0.505783
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 0
+map_Kd Nude - Honoka\hon_backhair_base.tga
+map_Bump  Nude - Honoka\\hon_backhair_nrm.tga
+map_Ks  Nude - Honoka\\hon_backhair_spe.tga
+map_d  Nude - Honoka\\hon_backhair_base.tga
+
+newmtl 25_hair15_0.2_0_0
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.492580 0.567947 0.428555
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 0
+map_Kd Nude - Honoka\hon_backhair_base.tga
+map_Bump  Nude - Honoka\\hon_backhair_nrm.tga
+map_Ks  Nude - Honoka\\hon_backhair_spe.tga
+map_d  Nude - Honoka\\hon_backhair_base.tga
+
+newmtl 25_hair16_0.2_0_0
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.496538 0.643368 0.518272
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 0
+map_Kd Nude - Honoka\hon_backhair_base.tga
+map_Bump  Nude - Honoka\\hon_backhair_nrm.tga
+map_Ks  Nude - Honoka\\hon_backhair_spe.tga
+map_d  Nude - Honoka\\hon_backhair_base.tga
+
+newmtl 25_hair17_0.2_0_0
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.604956 0.750871 0.415243
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 0
+map_Kd Nude - Honoka\hon_backhair_base.tga
+map_Bump  Nude - Honoka\\hon_backhair_nrm.tga
+map_Ks  Nude - Honoka\\hon_backhair_spe.tga
+map_d  Nude - Honoka\\hon_backhair_base.tga
+
+newmtl 25_hair18_0.2_0_0
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.797299 0.546853 0.440377
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 0
+map_Kd Nude - Honoka\hon_front_hair_base.tga
+map_Bump  Nude - Honoka\\hon_front_hair_nrm.tga
+map_Ks  Nude - Honoka\\hon_front_hair_spe.tga
+map_d  Nude - Honoka\\hon_front_hair_base.tga
+
+newmtl 25_hair19_0.2_0_0
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.723211 0.702296 0.691372
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 0
+map_Kd Nude - Honoka\hon_front_hair_base.tga
+map_Bump  Nude - Honoka\\hon_front_hair_nrm.tga
+map_Ks  Nude - Honoka\\hon_front_hair_spe.tga
+map_d  Nude - Honoka\\hon_front_hair_base.tga
+
+newmtl 25_hair1_0.2_0_0
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.607825 0.600823 0.740131
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 0
+map_Kd Nude - Honoka\hon_backhair_base.tga
+map_Bump  Nude - Honoka\\hon_backhair_nrm.tga
+map_Ks  Nude - Honoka\\hon_backhair_spe.tga
+map_d  Nude - Honoka\\hon_backhair_base.tga
+
+newmtl 25_hair21_0.2_0_0
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.448952 0.448291 0.404438
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 0
+map_Kd Nude - Honoka\hon_front_hair_base.tga
+map_Bump  Nude - Honoka\\hon_front_hair_nrm.tga
+map_Ks  Nude - Honoka\\hon_front_hair_spe.tga
+map_d  Nude - Honoka\\hon_front_hair_base.tga
+
+newmtl 25_hair22_0.2_0_0
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.688187 0.432512 0.426240
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 0
+map_Kd Nude - Honoka\hon_front_hair_base.tga
+map_Bump  Nude - Honoka\\hon_front_hair_nrm.tga
+map_Ks  Nude - Honoka\\hon_front_hair_spe.tga
+map_d  Nude - Honoka\\hon_front_hair_base.tga
+
+newmtl 25_hair23_0.2_0_0
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.566469 0.407479 0.627521
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 0
+map_Kd Nude - Honoka\hon_front_hair_base.tga
+map_Bump  Nude - Honoka\\hon_front_hair_nrm.tga
+map_Ks  Nude - Honoka\\hon_front_hair_spe.tga
+map_d  Nude - Honoka\\hon_front_hair_base.tga
+
+newmtl 25_hair24_0.2_0_0
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.554908 0.695181 0.755941
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 0
+map_Kd Nude - Honoka\hon_front_hair_base.tga
+map_Bump  Nude - Honoka\\hon_front_hair_nrm.tga
+map_Ks  Nude - Honoka\\hon_front_hair_spe.tga
+map_d  Nude - Honoka\\hon_front_hair_base.tga
+
+newmtl 25_hair25_0.2_0_0
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.604074 0.678847 0.498994
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 0
+map_Kd Nude - Honoka\hon_front_hair_base.tga
+map_Bump  Nude - Honoka\\hon_front_hair_nrm.tga
+map_Ks  Nude - Honoka\\hon_front_hair_spe.tga
+map_d  Nude - Honoka\\hon_front_hair_base.tga
+
+newmtl 25_hair26_0.2_0_0
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.472484 0.602921 0.626312
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 0
+map_Kd Nude - Honoka\hon_front_hair_base.tga
+map_Bump  Nude - Honoka\\hon_front_hair_nrm.tga
+map_Ks  Nude - Honoka\\hon_front_hair_spe.tga
+map_d  Nude - Honoka\\hon_front_hair_base.tga
+
+newmtl 25_hair27_0.2_0_0
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.457644 0.653896 0.703507
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 0
+map_Kd Nude - Honoka\hon_front_hair_base.tga
+map_Bump  Nude - Honoka\\hon_front_hair_nrm.tga
+map_Ks  Nude - Honoka\\hon_front_hair_spe.tga
+map_d  Nude - Honoka\\hon_front_hair_base.tga
+
+newmtl 25_hair28_0.2_0_0
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.551008 0.518611 0.726164
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 0
+map_Kd Nude - Honoka\hon_front_hair_base.tga
+map_Bump  Nude - Honoka\\hon_front_hair_nrm.tga
+map_Ks  Nude - Honoka\\hon_front_hair_spe.tga
+map_d  Nude - Honoka\\hon_front_hair_base.tga
+
+newmtl 25_hair29_0.2_0_0
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.794200 0.571797 0.787765
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 0
+map_Kd Nude - Honoka\hon_front_hair_base.tga
+map_Bump  Nude - Honoka\\hon_front_hair_nrm.tga
+map_Ks  Nude - Honoka\\hon_front_hair_spe.tga
+map_d  Nude - Honoka\\hon_front_hair_base.tga
+
+newmtl 25_hair2_0.2_0_0
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.506701 0.424026 0.540817
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 0
+map_Kd Nude - Honoka\hon_backhair_base.tga
+map_Bump  Nude - Honoka\\hon_backhair_nrm.tga
+map_Ks  Nude - Honoka\\hon_backhair_spe.tga
+map_d  Nude - Honoka\\hon_backhair_base.tga
+
+newmtl 25_hair2a_0.2_0_0
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.527884 0.695880 0.423010
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 0
+map_Kd Nude - Honoka\hon_backhair_base.tga
+map_Bump  Nude - Honoka\\hon_backhair_nrm.tga
+map_Ks  Nude - Honoka\\hon_backhair_spe.tga
+map_d  Nude - Honoka\\hon_backhair_base.tga
+
+newmtl 25_hair2b_0.2_0_0
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.649260 0.628255 0.650785
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 0
+map_Kd Nude - Honoka\hon_backhair_base.tga
+map_Bump  Nude - Honoka\\hon_backhair_nrm.tga
+map_Ks  Nude - Honoka\\hon_backhair_spe.tga
+map_d  Nude - Honoka\\hon_backhair_base.tga
+
+newmtl 25_hair2c_0.2_0_0
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.448148 0.642764 0.437537
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 0
+map_Kd Nude - Honoka\hon_backhair_base.tga
+map_Bump  Nude - Honoka\\hon_backhair_nrm.tga
+map_Ks  Nude - Honoka\\hon_backhair_spe.tga
+map_d  Nude - Honoka\\hon_backhair_base.tga
+
+newmtl 25_hair2d_0.2_0_0
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.587844 0.524909 0.426231
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 0
+map_Kd Nude - Honoka\hon_front_hair_base.tga
+map_Bump  Nude - Honoka\\hon_front_hair_nrm.tga
+map_Ks  Nude - Honoka\\hon_front_hair_spe.tga
+map_d  Nude - Honoka\\hon_front_hair_base.tga
+
+newmtl 25_hair2e_0.2_0_0
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.723644 0.682869 0.764830
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 0
+map_Kd Nude - Honoka\hon_front_hair_base.tga
+map_Bump  Nude - Honoka\\hon_front_hair_nrm.tga
+map_Ks  Nude - Honoka\\hon_front_hair_spe.tga
+map_d  Nude - Honoka\\hon_front_hair_base.tga
+
+newmtl 25_hair2f_0.2_0_0
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.773258 0.569834 0.577996
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 0
+map_Kd Nude - Honoka\hon_front_hair_base.tga
+map_Bump  Nude - Honoka\\hon_front_hair_nrm.tga
+map_Ks  Nude - Honoka\\hon_front_hair_spe.tga
+map_d  Nude - Honoka\\hon_front_hair_base.tga
+
+newmtl 25_hair30_0.2_0_0
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.791415 0.705219 0.734688
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 0
+map_Kd Nude - Honoka\hon_front_hair_base.tga
+map_Bump  Nude - Honoka\\hon_front_hair_nrm.tga
+map_Ks  Nude - Honoka\\hon_front_hair_spe.tga
+map_d  Nude - Honoka\\hon_front_hair_base.tga
+
+newmtl 25_hair31_0.2_0_0
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.563844 0.662210 0.486123
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 0
+map_Kd Nude - Honoka\hon_front_hair_base.tga
+map_Bump  Nude - Honoka\\hon_front_hair_nrm.tga
+map_Ks  Nude - Honoka\\hon_front_hair_spe.tga
+map_d  Nude - Honoka\\hon_front_hair_base.tga
+
+newmtl 25_hair32_0.2_0_0
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.738469 0.682086 0.697728
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 0
+map_Kd Nude - Honoka\hon_front_hair_base.tga
+map_Bump  Nude - Honoka\\hon_front_hair_nrm.tga
+map_Ks  Nude - Honoka\\hon_front_hair_spe.tga
+map_d  Nude - Honoka\\hon_front_hair_base.tga
+
+newmtl 25_hair33_0.2_0_0
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.583875 0.773080 0.700473
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 0
+map_Kd Nude - Honoka\hon_front_hair_base.tga
+map_Bump  Nude - Honoka\\hon_front_hair_nrm.tga
+map_Ks  Nude - Honoka\\hon_front_hair_spe.tga
+map_d  Nude - Honoka\\hon_front_hair_base.tga
+
+newmtl 25_hair34_0.2_0_0
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.670454 0.436762 0.784641
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 0
+map_Kd Nude - Honoka\hon_front_hair_base.tga
+map_Bump  Nude - Honoka\\hon_front_hair_nrm.tga
+map_Ks  Nude - Honoka\\hon_front_hair_spe.tga
+map_d  Nude - Honoka\\hon_front_hair_base.tga
+
+newmtl 25_hair35_0.2_0_0
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.578511 0.694516 0.687207
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 0
+map_Kd Nude - Honoka\hon_front_hair_base.tga
+map_Bump  Nude - Honoka\\hon_front_hair_nrm.tga
+map_Ks  Nude - Honoka\\hon_front_hair_spe.tga
+map_d  Nude - Honoka\\hon_front_hair_base.tga
+
+newmtl 25_hair36_0.2_0_0
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.495648 0.785681 0.704436
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 0
+map_Kd Nude - Honoka\hon_backhair_base.tga
+map_Bump  Nude - Honoka\\hon_backhair_nrm.tga
+map_Ks  Nude - Honoka\\hon_backhair_spe.tga
+map_d  Nude - Honoka\\hon_backhair_base.tga
+
+newmtl 25_hair37_0.2_0_0
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.570160 0.633897 0.747284
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 0
+map_Kd Nude - Honoka\hon_front_hair_base.tga
+map_Bump  Nude - Honoka\\hon_front_hair_nrm.tga
+map_Ks  Nude - Honoka\\hon_front_hair_spe.tga
+map_d  Nude - Honoka\\hon_front_hair_base.tga
+
+newmtl 25_hair38_0.2_0_0
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.673261 0.424018 0.789696
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 0
+map_Kd Nude - Honoka\hon_front_hair_base.tga
+map_Bump  Nude - Honoka\\hon_front_hair_nrm.tga
+map_Ks  Nude - Honoka\\hon_front_hair_spe.tga
+map_d  Nude - Honoka\\hon_front_hair_base.tga
+
+newmtl 25_hair3_0.2_0_0
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.696238 0.471760 0.730291
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 0
+map_Kd Nude - Honoka\hon_backhair_base.tga
+map_Bump  Nude - Honoka\\hon_backhair_nrm.tga
+map_Ks  Nude - Honoka\\hon_backhair_spe.tga
+map_d  Nude - Honoka\\hon_backhair_base.tga
+
+newmtl 25_hair4_0.2_0_0
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.686769 0.455157 0.759429
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 0
+map_Kd Nude - Honoka\hon_backhair_base.tga
+map_Bump  Nude - Honoka\\hon_backhair_nrm.tga
+map_Ks  Nude - Honoka\\hon_backhair_spe.tga
+map_d  Nude - Honoka\\hon_backhair_base.tga
+
+newmtl 25_hair5_0.2_0_0
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.506502 0.551834 0.424314
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 0
+map_Kd Nude - Honoka\hon_front_hair_base.tga
+map_Bump  Nude - Honoka\\hon_front_hair_nrm.tga
+map_Ks  Nude - Honoka\\hon_front_hair_spe.tga
+map_d  Nude - Honoka\\hon_front_hair_base.tga
+
+newmtl 25_hair6_0.2_0_0
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.598679 0.473890 0.685611
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 0
+map_Kd Nude - Honoka\hon_backhair_base.tga
+map_Bump  Nude - Honoka\\hon_backhair_nrm.tga
+map_Ks  Nude - Honoka\\hon_backhair_spe.tga
+map_d  Nude - Honoka\\hon_backhair_base.tga
+
+newmtl 25_hair7_0.2_0_0
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.511122 0.486013 0.477679
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 0
+map_Kd Nude - Honoka\hon_backhair_base.tga
+map_Bump  Nude - Honoka\\hon_backhair_nrm.tga
+map_Ks  Nude - Honoka\\hon_backhair_spe.tga
+map_d  Nude - Honoka\\hon_backhair_base.tga
+
+newmtl 25_hair8_0.2_0_0
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.741982 0.465596 0.415746
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 0
+map_Kd Nude - Honoka\hon_backhair_base.tga
+map_Bump  Nude - Honoka\\hon_backhair_nrm.tga
+map_Ks  Nude - Honoka\\hon_backhair_spe.tga
+map_d  Nude - Honoka\\hon_backhair_base.tga
+
+newmtl 25_hair9_0.2_0_0
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.765929 0.446413 0.671127
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 0
+map_Kd Nude - Honoka\hon_backhair_base.tga
+map_Bump  Nude - Honoka\\hon_backhair_nrm.tga
+map_Ks  Nude - Honoka\\hon_backhair_spe.tga
+map_d  Nude - Honoka\\hon_backhair_base.tga
+
+newmtl 25_haira_0.2_0_0
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.491065 0.667825 0.406106
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 0
+map_Kd Nude - Honoka\hon_backhair_base.tga
+map_Bump  Nude - Honoka\\hon_backhair_nrm.tga
+map_Ks  Nude - Honoka\\hon_backhair_spe.tga
+map_d  Nude - Honoka\\hon_backhair_base.tga
+
+newmtl 25_hairb_0.2_0_0
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.601622 0.577173 0.777432
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 0
+map_Kd Nude - Honoka\hon_backhair_base.tga
+map_Bump  Nude - Honoka\\hon_backhair_nrm.tga
+map_Ks  Nude - Honoka\\hon_backhair_spe.tga
+map_d  Nude - Honoka\\hon_backhair_base.tga
+
+newmtl 26_eyeballs_0.1_16_16
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.759647 0.411274 0.533341
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 0
+map_Kd Nude - Honoka\hon_face_base.tga
+map_Bump  Nude - Honoka\\hon_face_nrm_VLH2_PP1.tga
+map_Ke  Nude - Honoka\\hon_sirome_ref.tga
+map_d  Nude - Honoka\\hon_face_base.tga
+refl  Nude - Honoka\\hon_sirome_ref.tga
+
+newmtl 26_iris_0.2_0_0
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.572891 0.608506 0.611698
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 0
+map_Kd Nude - Honoka\hon_face_base.tga
+map_Bump  Nude - Honoka\\hon_face_nrm_VLH2_PP1.tga
+map_Ke  Nude - Honoka\\hon_eye_ref.tga
+map_d  Nude - Honoka\\hon_face_base.tga
+refl  Nude - Honoka\\hon_eye_ref.tga
+
+newmtl 7_eyelashes-lower_1_16_16
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.448066 0.704946 0.700007
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 0
+map_Kd Nude - Honoka\hon_sitamatuge.tga
+map_d  Nude - Honoka\\hon_sitamatuge.tga
+
+newmtl 7_eyelashes-upper-ba_0.1_16_16
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.477816 0.466988 0.690700
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 0
+map_Kd Nude - Honoka\hon_matuge_base_PP1.tga
+map_d  Nude - Honoka\\hon_matuge_base_PP1.tga
+
+newmtl 7_eyelashes-upper-fr_0.1_16_16
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.558196 0.729125 0.713911
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 0
+map_Kd Nude - Honoka\hon_matuge_base_PP1.tga
+map_d  Nude - Honoka\\hon_matuge_base_PP1.tga
+
+newmtl 7_eyeshadow_0.1_16_16
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.767851 0.640922 0.567836
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 0
+map_Kd Nude - Honoka\hon_eye_sdw.tga
+map_d  Nude - Honoka\\hon_eye_sdw.tga

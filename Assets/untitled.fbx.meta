@@ -1,0 +1,1351 @@
+fileFormatVersion: 2
+guid: 4e810f5b6031bdd488c24c4f0a07808f
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: 24_body_0.9_1_1
+    100002: 24_face_0.2_0_0
+    100004: 24_lips_0.5_0_0
+    100006: 24_teeth-lower_0.1_16_16
+    100008: 24_teeth-upper_0.1_16_16
+    100010: 24_tongue_0.2_0_0
+    100012: 25_hair0_0.2_0_0
+    100014: 25_hair11_0.2_0_0
+    100016: 25_hair12_0.2_0_0
+    100018: 25_hair13_0.2_0_0
+    100020: 25_hair14_0.2_0_0
+    100022: 25_hair15_0.2_0_0
+    100024: 25_hair16_0.2_0_0
+    100026: 25_hair17_0.2_0_0
+    100028: 25_hair18_0.2_0_0
+    100030: 25_hair19_0.2_0_0
+    100032: 25_hair1_0.2_0_0
+    100034: 25_hair21_0.2_0_0
+    100036: 25_hair22_0.2_0_0
+    100038: 25_hair23_0.2_0_0
+    100040: 25_hair24_0.2_0_0
+    100042: 25_hair25_0.2_0_0
+    100044: 25_hair26_0.2_0_0
+    100046: 25_hair27_0.2_0_0
+    100048: 25_hair28_0.2_0_0
+    100050: 25_hair29_0.2_0_0
+    100052: 25_hair2_0.2_0_0
+    100054: 25_hair2a_0.2_0_0
+    100056: 25_hair2b_0.2_0_0
+    100058: 25_hair2c_0.2_0_0
+    100060: 25_hair2d_0.2_0_0
+    100062: 25_hair2e_0.2_0_0
+    100064: 25_hair2f_0.2_0_0
+    100066: 25_hair30_0.2_0_0
+    100068: 25_hair31_0.2_0_0
+    100070: 25_hair32_0.2_0_0
+    100072: 25_hair33_0.2_0_0
+    100074: 25_hair34_0.2_0_0
+    100076: 25_hair35_0.2_0_0
+    100078: 25_hair36_0.2_0_0
+    100080: 25_hair37_0.2_0_0
+    100082: 25_hair38_0.2_0_0
+    100084: 25_hair3_0.2_0_0
+    100086: 25_hair4_0.2_0_0
+    100088: 25_hair5_0.2_0_0
+    100090: 25_hair6_0.2_0_0
+    100092: 25_hair7_0.2_0_0
+    100094: 25_hair8_0.2_0_0
+    100096: 25_hair9_0.2_0_0
+    100098: 25_haira_0.2_0_0
+    100100: 25_hairb_0.2_0_0
+    100102: 26_eyeballs_0.1_16_16
+    100104: 26_iris_0.2_0_0
+    100106: 7_eyelashes-lower_1_16_16
+    100108: 7_eyelashes-upper-ba_0.1_16_16
+    100110: 7_eyelashes-upper-fr_0.1_16_16
+    100112: 7_eyeshadow_0.1_16_16
+    100114: arm left elbow
+    100116: arm left elbow ctr
+    100118: arm left elbow ctr2
+    100120: arm left elbow ctr2_end
+    100122: arm left elbow ctr_end
+    100124: arm left finger 1a
+    100126: arm left finger 1b
+    100128: arm left finger 1c
+    100130: arm left finger 1c_end
+    100132: arm left finger 2a
+    100134: arm left finger 2b
+    100136: arm left finger 2c
+    100138: arm left finger 2c_end
+    100140: arm left finger 3a
+    100142: arm left finger 3b
+    100144: arm left finger 3c
+    100146: arm left finger 3c_end
+    100148: arm left finger 4a
+    100150: arm left finger 4b
+    100152: arm left finger 4c
+    100154: arm left finger 4c_end
+    100156: arm left finger 5 base
+    100158: arm left finger 5a
+    100160: arm left finger 5b
+    100162: arm left finger 5c
+    100164: arm left finger 5c_end
+    100166: arm left shoulder 1
+    100168: arm left shoulder 2
+    100170: arm left shoulder 2 ctr
+    100172: arm left shoulder 2 ctr2
+    100174: arm left shoulder 2 ctr2_end
+    100176: arm left shoulder 2 ctr_end
+    100178: arm left wrist
+    100180: arm left wrist ctr
+    100182: arm left wrist ctr_end
+    100184: arm right elbow
+    100186: arm right elbow ctr
+    100188: arm right elbow ctr2
+    100190: arm right elbow ctr2_end
+    100192: arm right elbow ctr_end
+    100194: arm right finger 1a
+    100196: arm right finger 1b
+    100198: arm right finger 1c
+    100200: arm right finger 1c_end
+    100202: arm right finger 2a
+    100204: arm right finger 2b
+    100206: arm right finger 2c
+    100208: arm right finger 2c_end
+    100210: arm right finger 3a
+    100212: arm right finger 3b
+    100214: arm right finger 3c
+    100216: arm right finger 3c_end
+    100218: arm right finger 4a
+    100220: arm right finger 4b
+    100222: arm right finger 4c
+    100224: arm right finger 4c_end
+    100226: arm right finger 5 base
+    100228: arm right finger 5a
+    100230: arm right finger 5b
+    100232: arm right finger 5c
+    100234: arm right finger 5c_end
+    100236: arm right shoulder 1
+    100238: arm right shoulder 2
+    100240: arm right shoulder 2 ctr
+    100242: arm right shoulder 2 ctr.001
+    100244: arm right shoulder 2 ctr.001_end
+    100246: arm right shoulder 2 ctr_end
+    100248: arm right wrist
+    100250: arm right wrist ctr
+    100252: arm right wrist ctr_end
+    100254: Armature
+    100256: breast left 1
+    100258: breast left 1_end
+    100260: breast left 2
+    100262: breast left 2_end
+    100264: breast left 3
+    100266: breast left 3_end
+    100268: breast left 4
+    100270: breast left 4_end
+    100272: breast left 5
+    100274: breast left 5_end
+    100276: breast left base
+    100278: breast left tip
+    100280: breast right 1
+    100282: breast right 1_end
+    100284: breast right 2
+    100286: breast right 2_end
+    100288: breast right 3
+    100290: breast right 3_end
+    100292: breast right 4
+    100294: breast right 4_end
+    100296: breast right 5
+    100298: breast right 5_end
+    100300: breast right base
+    100302: breast right tip
+    100304: Camera
+    100306: dummy head
+    100308: dummy head_end
+    100310: Face Root
+    100312: glasses
+    100314: glasses_end
+    100316: hair back I left a 1
+    100318: hair back I left a 2
+    100320: hair back I left a 3
+    100322: hair back I left a 4
+    100324: hair back I left a 5
+    100326: hair back I left a 6
+    100328: hair back I left a 7
+    100330: hair back I left a 7_end
+    100332: hair back I left a root
+    100334: hair back I left b 1
+    100336: hair back I left b 2
+    100338: hair back I left b 3
+    100340: hair back I left b 4
+    100342: hair back I left b 5
+    100344: hair back I left b 6
+    100346: hair back I left b 7
+    100348: hair back I left b 7_end
+    100350: hair back I left b root
+    100352: hair back I left c 1
+    100354: hair back I left c 2
+    100356: hair back I left c 3
+    100358: hair back I left c 4
+    100360: hair back I left c 5
+    100362: hair back I left c 6
+    100364: hair back I left c 7
+    100366: hair back I left c 7_end
+    100368: hair back I left c root
+    100370: hair back I right a 1
+    100372: hair back I right a 2
+    100374: hair back I right a 3
+    100376: hair back I right a 4
+    100378: hair back I right a 5
+    100380: hair back I right a 6
+    100382: hair back I right a 7
+    100384: hair back I right a 7_end
+    100386: hair back I right a root
+    100388: hair back I right b 1
+    100390: hair back I right b 2
+    100392: hair back I right b 3
+    100394: hair back I right b 4
+    100396: hair back I right b 5
+    100398: hair back I right b 6
+    100400: hair back I right b 7
+    100402: hair back I right b 7_end
+    100404: hair back I right b root
+    100406: hair back I right c 1
+    100408: hair back I right c 2
+    100410: hair back I right c 3
+    100412: hair back I right c 4
+    100414: hair back I right c 5
+    100416: hair back I right c 6
+    100418: hair back I right c 7
+    100420: hair back I right c 7_end
+    100422: hair back I right c root
+    100424: hair back II left a 1
+    100426: hair back II left a 2
+    100428: hair back II left a 3
+    100430: hair back II left a 4
+    100432: hair back II left a 5
+    100434: hair back II left a 6
+    100436: hair back II left a 7
+    100438: hair back II left a 8
+    100440: hair back II left a 8_end
+    100442: hair back II left a root
+    100444: hair back II left b 1
+    100446: hair back II left b 2
+    100448: hair back II left b 3
+    100450: hair back II left b 4
+    100452: hair back II left b 5
+    100454: hair back II left b 6
+    100456: hair back II left b 7
+    100458: hair back II left b 8
+    100460: hair back II left b 8_end
+    100462: hair back II left b root
+    100464: hair back II middle 1
+    100466: hair back II middle 2
+    100468: hair back II middle 3
+    100470: hair back II middle 4
+    100472: hair back II middle 5
+    100474: hair back II middle 6
+    100476: hair back II middle 7
+    100478: hair back II middle 8
+    100480: hair back II middle 8_end
+    100482: hair back II middle root
+    100484: hair back II right a 1
+    100486: hair back II right a 2
+    100488: hair back II right a 3
+    100490: hair back II right a 4
+    100492: hair back II right a 5
+    100494: hair back II right a 6
+    100496: hair back II right a 7
+    100498: hair back II right a 8
+    100500: hair back II right a 8_end
+    100502: hair back II right a root
+    100504: hair back II right b 1
+    100506: hair back II right b 2
+    100508: hair back II right b 3
+    100510: hair back II right b 4
+    100512: hair back II right b 5
+    100514: hair back II right b 6
+    100516: hair back II right b 7
+    100518: hair back II right b 8
+    100520: hair back II right b 8_end
+    100522: hair back II right b root
+    100524: hair back III left a 1
+    100526: hair back III left a 2
+    100528: hair back III left a 3
+    100530: hair back III left a 4
+    100532: hair back III left a 5
+    100534: hair back III left a 6
+    100536: hair back III left a 7
+    100538: hair back III left a 8
+    100540: hair back III left a 8_end
+    100542: hair back III left a root
+    100544: hair back III left b 1
+    100546: hair back III left b 2
+    100548: hair back III left b 3
+    100550: hair back III left b 4
+    100552: hair back III left b 5
+    100554: hair back III left b 6
+    100556: hair back III left b 7
+    100558: hair back III left b 8
+    100560: hair back III left b 8_end
+    100562: hair back III left b root
+    100564: hair back III left c 1
+    100566: hair back III left c 2
+    100568: hair back III left c 3
+    100570: hair back III left c 4
+    100572: hair back III left c 5
+    100574: hair back III left c 6
+    100576: hair back III left c 7
+    100578: hair back III left c 7_end
+    100580: hair back III left c root
+    100582: hair back III right a 1
+    100584: hair back III right a 2
+    100586: hair back III right a 3
+    100588: hair back III right a 4
+    100590: hair back III right a 5
+    100592: hair back III right a 6
+    100594: hair back III right a 7
+    100596: hair back III right a 8
+    100598: hair back III right a 8_end
+    100600: hair back III right a root
+    100602: hair back III right b 1
+    100604: hair back III right b 2
+    100606: hair back III right b 3
+    100608: hair back III right b 4
+    100610: hair back III right b 5
+    100612: hair back III right b 6
+    100614: hair back III right b 7
+    100616: hair back III right b 8
+    100618: hair back III right b 8_end
+    100620: hair back III right b root
+    100622: hair back III right c 1
+    100624: hair back III right c 2
+    100626: hair back III right c 3
+    100628: hair back III right c 4
+    100630: hair back III right c 5
+    100632: hair back III right c 6
+    100634: hair back III right c 7
+    100636: hair back III right c 7_end
+    100638: hair back III right c root
+    100640: hair back III right d 1
+    100642: hair back III right d 2
+    100644: hair back III right d 3
+    100646: hair back III right d 4
+    100648: hair back III right d 5
+    100650: hair back III right d 6
+    100652: hair back III right d 7
+    100654: hair back III right d 7_end
+    100656: hair back III right d root
+    100658: hair front left 1
+    100660: hair front left 2
+    100662: hair front left 3
+    100664: hair front left 4
+    100666: hair front left 5
+    100668: hair front left 5_end
+    100670: hair front middle 1
+    100672: hair front middle 2
+    100674: hair front middle 3
+    100676: hair front middle 4
+    100678: hair front middle 5
+    100680: hair front middle 5_end
+    100682: hair front right 1
+    100684: hair front right 2
+    100686: hair front right 3
+    100688: hair front right 4
+    100690: hair front right 5
+    100692: hair front right 5_end
+    100694: hair side left 1
+    100696: hair side left 2
+    100698: hair side left 3
+    100700: hair side left 4
+    100702: hair side left 5
+    100704: hair side left 6
+    100706: hair side left 7
+    100708: hair side left 7_end
+    100710: hair side left root
+    100712: hair side right 1
+    100714: hair side right 2
+    100716: hair side right 3
+    100718: hair side right 4
+    100720: hair side right 5
+    100722: hair side right 6
+    100724: hair side right 7
+    100726: hair side right 7_end
+    100728: hair side right root
+    100730: hair sidetail a 1
+    100732: hair sidetail a 10
+    100734: hair sidetail a 10_end
+    100736: hair sidetail a 2
+    100738: hair sidetail a 3
+    100740: hair sidetail a 4
+    100742: hair sidetail a 5
+    100744: hair sidetail a 6
+    100746: hair sidetail a 7
+    100748: hair sidetail a 8
+    100750: hair sidetail a 9
+    100752: hair sidetail a root
+    100754: hair sidetail b 1
+    100756: hair sidetail b 10
+    100758: hair sidetail b 10_end
+    100760: hair sidetail b 2
+    100762: hair sidetail b 3
+    100764: hair sidetail b 4
+    100766: hair sidetail b 5
+    100768: hair sidetail b 6
+    100770: hair sidetail b 7
+    100772: hair sidetail b 8
+    100774: hair sidetail b 9
+    100776: hair sidetail b root
+    100778: hair sidetail c 1
+    100780: hair sidetail c 10
+    100782: hair sidetail c 10_end
+    100784: hair sidetail c 2
+    100786: hair sidetail c 3
+    100788: hair sidetail c 4
+    100790: hair sidetail c 5
+    100792: hair sidetail c 6
+    100794: hair sidetail c 7
+    100796: hair sidetail c 8
+    100798: hair sidetail c 9
+    100800: hair sidetail c root
+    100802: head cheek left a
+    100804: head cheek left a_end
+    100806: head cheek left b
+    100808: head cheek left b_end
+    100810: head cheek left c
+    100812: head cheek left c_end
+    100814: head cheek right a
+    100816: head cheek right a_end
+    100818: head cheek right b
+    100820: head cheek right b_end
+    100822: head cheek right c
+    100824: head cheek right c_end
+    100826: head eyeball left
+    100828: head eyeball left_end
+    100830: head eyeball right
+    100832: head eyeball right_end
+    100834: head eyebrow left a
+    100836: head eyebrow left a_end
+    100838: head eyebrow left b
+    100840: head eyebrow left b_end
+    100842: head eyebrow left c
+    100844: head eyebrow left c_end
+    100846: head eyebrow middle
+    100848: head eyebrow middle_end
+    100850: head eyebrow right a
+    100852: head eyebrow right a_end
+    100854: head eyebrow right b
+    100856: head eyebrow right b_end
+    100858: head eyebrow right c
+    100860: head eyebrow right c_end
+    100862: head eyelid left lower a
+    100864: head eyelid left lower a_end
+    100866: head eyelid left lower b
+    100868: head eyelid left lower b_end
+    100870: head eyelid left upper
+    100872: head eyelid left upper_end
+    100874: head eyelid right lower a
+    100876: head eyelid right lower a_end
+    100878: head eyelid right lower b
+    100880: head eyelid right lower b_end
+    100882: head eyelid right upper
+    100884: head eyelid right upper_end
+    100886: head forehead left
+    100888: head forehead left_end
+    100890: head forehead right
+    100892: head forehead right_end
+    100894: head jaw
+    100896: head lip corner left
+    100898: head lip corner left_end
+    100900: head lip corner right
+    100902: head lip corner right_end
+    100904: head lip lower left
+    100906: head lip lower left_end
+    100908: head lip lower middle
+    100910: head lip lower middle_end
+    100912: head lip lower right
+    100914: head lip lower right_end
+    100916: head lip upper left
+    100918: head lip upper left_end
+    100920: head lip upper middle
+    100922: head lip upper middle_end
+    100924: head lip upper right
+    100926: head lip upper right_end
+    100928: head neck lower
+    100930: head neck upper
+    100932: head nose left a
+    100934: head nose left a_end
+    100936: head nose left b
+    100938: head nose left b_end
+    100940: head nose left c
+    100942: head nose left c_end
+    100944: head nose left d
+    100946: head nose left d_end
+    100948: head nose middle
+    100950: head nose middle_end
+    100952: head nose right a
+    100954: head nose right a_end
+    100956: head nose right b
+    100958: head nose right b_end
+    100960: head nose right c
+    100962: head nose right c_end
+    100964: head nose right d
+    100966: head nose right d_end
+    100968: head tongue a
+    100970: head tongue b
+    100972: head tongue b_end
+    100974: Lamp
+    100976: leg left ankle
+    100978: leg left butt ctr
+    100980: leg left butt ctr_end
+    100982: leg left knee
+    100984: leg left knee ctr
+    100986: leg left knee ctr_end
+    100988: leg left thigh
+    100990: leg left thigh ctr
+    100992: leg left thigh ctr2
+    100994: leg left thigh ctr2_end
+    100996: leg left thigh ctr_end
+    100998: leg left toes
+    101000: leg left toes_end
+    101002: leg right ankle
+    101004: leg right butt ctr
+    101006: leg right butt ctr_end
+    101008: leg right knee
+    101010: leg right knee ctr
+    101012: leg right knee ctr_end
+    101014: leg right thigh
+    101016: leg right thigh ctr
+    101018: leg right thigh ctr2
+    101020: leg right thigh ctr2_end
+    101022: leg right thigh ctr_end
+    101024: leg right toes
+    101026: leg right toes_end
+    101028: pelvis
+    101030: root ground
+    101032: root hips
+    101034: spine lower
+    101036: spine upper
+    101038: //RootNode
+    101040: untitled
+    101042: unused MOT01_Head
+    101044: unused MOT15_Neck
+    101046: unused MOT15_Neck_end
+    101048: unused OPT_acs_fronthair_root1
+    101050: unused OPT_acs_ground
+    101052: unused OPT_acs_ground_end
+    101054: unused OPT_acs_Hair_root
+    101056: unused WGT_body_0
+    101058: unused WGT_cap_0
+    101060: unused WGT_cap_0_end
+    101062: unused WGT_face4
+    101064: unused WGT_face4_end
+    101066: unused WGT_sweat_cheek_l
+    101068: unused WGT_sweat_cheek_l_end
+    101070: unused WGT_sweat_cheek_r
+    101072: unused WGT_sweat_cheek_r_end
+    101074: unused WGT_sweat_chest
+    101076: unused WGT_sweat_chest_end
+    101078: unused WGT_zdmodel
+    101080: unused WGT_zdmodel_end
+    101082: unusedhandl
+    101084: unusedhandr
+    400000: 24_body_0.9_1_1
+    400002: 24_face_0.2_0_0
+    400004: 24_lips_0.5_0_0
+    400006: 24_teeth-lower_0.1_16_16
+    400008: 24_teeth-upper_0.1_16_16
+    400010: 24_tongue_0.2_0_0
+    400012: 25_hair0_0.2_0_0
+    400014: 25_hair11_0.2_0_0
+    400016: 25_hair12_0.2_0_0
+    400018: 25_hair13_0.2_0_0
+    400020: 25_hair14_0.2_0_0
+    400022: 25_hair15_0.2_0_0
+    400024: 25_hair16_0.2_0_0
+    400026: 25_hair17_0.2_0_0
+    400028: 25_hair18_0.2_0_0
+    400030: 25_hair19_0.2_0_0
+    400032: 25_hair1_0.2_0_0
+    400034: 25_hair21_0.2_0_0
+    400036: 25_hair22_0.2_0_0
+    400038: 25_hair23_0.2_0_0
+    400040: 25_hair24_0.2_0_0
+    400042: 25_hair25_0.2_0_0
+    400044: 25_hair26_0.2_0_0
+    400046: 25_hair27_0.2_0_0
+    400048: 25_hair28_0.2_0_0
+    400050: 25_hair29_0.2_0_0
+    400052: 25_hair2_0.2_0_0
+    400054: 25_hair2a_0.2_0_0
+    400056: 25_hair2b_0.2_0_0
+    400058: 25_hair2c_0.2_0_0
+    400060: 25_hair2d_0.2_0_0
+    400062: 25_hair2e_0.2_0_0
+    400064: 25_hair2f_0.2_0_0
+    400066: 25_hair30_0.2_0_0
+    400068: 25_hair31_0.2_0_0
+    400070: 25_hair32_0.2_0_0
+    400072: 25_hair33_0.2_0_0
+    400074: 25_hair34_0.2_0_0
+    400076: 25_hair35_0.2_0_0
+    400078: 25_hair36_0.2_0_0
+    400080: 25_hair37_0.2_0_0
+    400082: 25_hair38_0.2_0_0
+    400084: 25_hair3_0.2_0_0
+    400086: 25_hair4_0.2_0_0
+    400088: 25_hair5_0.2_0_0
+    400090: 25_hair6_0.2_0_0
+    400092: 25_hair7_0.2_0_0
+    400094: 25_hair8_0.2_0_0
+    400096: 25_hair9_0.2_0_0
+    400098: 25_haira_0.2_0_0
+    400100: 25_hairb_0.2_0_0
+    400102: 26_eyeballs_0.1_16_16
+    400104: 26_iris_0.2_0_0
+    400106: 7_eyelashes-lower_1_16_16
+    400108: 7_eyelashes-upper-ba_0.1_16_16
+    400110: 7_eyelashes-upper-fr_0.1_16_16
+    400112: 7_eyeshadow_0.1_16_16
+    400114: arm left elbow
+    400116: arm left elbow ctr
+    400118: arm left elbow ctr2
+    400120: arm left elbow ctr2_end
+    400122: arm left elbow ctr_end
+    400124: arm left finger 1a
+    400126: arm left finger 1b
+    400128: arm left finger 1c
+    400130: arm left finger 1c_end
+    400132: arm left finger 2a
+    400134: arm left finger 2b
+    400136: arm left finger 2c
+    400138: arm left finger 2c_end
+    400140: arm left finger 3a
+    400142: arm left finger 3b
+    400144: arm left finger 3c
+    400146: arm left finger 3c_end
+    400148: arm left finger 4a
+    400150: arm left finger 4b
+    400152: arm left finger 4c
+    400154: arm left finger 4c_end
+    400156: arm left finger 5 base
+    400158: arm left finger 5a
+    400160: arm left finger 5b
+    400162: arm left finger 5c
+    400164: arm left finger 5c_end
+    400166: arm left shoulder 1
+    400168: arm left shoulder 2
+    400170: arm left shoulder 2 ctr
+    400172: arm left shoulder 2 ctr2
+    400174: arm left shoulder 2 ctr2_end
+    400176: arm left shoulder 2 ctr_end
+    400178: arm left wrist
+    400180: arm left wrist ctr
+    400182: arm left wrist ctr_end
+    400184: arm right elbow
+    400186: arm right elbow ctr
+    400188: arm right elbow ctr2
+    400190: arm right elbow ctr2_end
+    400192: arm right elbow ctr_end
+    400194: arm right finger 1a
+    400196: arm right finger 1b
+    400198: arm right finger 1c
+    400200: arm right finger 1c_end
+    400202: arm right finger 2a
+    400204: arm right finger 2b
+    400206: arm right finger 2c
+    400208: arm right finger 2c_end
+    400210: arm right finger 3a
+    400212: arm right finger 3b
+    400214: arm right finger 3c
+    400216: arm right finger 3c_end
+    400218: arm right finger 4a
+    400220: arm right finger 4b
+    400222: arm right finger 4c
+    400224: arm right finger 4c_end
+    400226: arm right finger 5 base
+    400228: arm right finger 5a
+    400230: arm right finger 5b
+    400232: arm right finger 5c
+    400234: arm right finger 5c_end
+    400236: arm right shoulder 1
+    400238: arm right shoulder 2
+    400240: arm right shoulder 2 ctr
+    400242: arm right shoulder 2 ctr.001
+    400244: arm right shoulder 2 ctr.001_end
+    400246: arm right shoulder 2 ctr_end
+    400248: arm right wrist
+    400250: arm right wrist ctr
+    400252: arm right wrist ctr_end
+    400254: Armature
+    400256: breast left 1
+    400258: breast left 1_end
+    400260: breast left 2
+    400262: breast left 2_end
+    400264: breast left 3
+    400266: breast left 3_end
+    400268: breast left 4
+    400270: breast left 4_end
+    400272: breast left 5
+    400274: breast left 5_end
+    400276: breast left base
+    400278: breast left tip
+    400280: breast right 1
+    400282: breast right 1_end
+    400284: breast right 2
+    400286: breast right 2_end
+    400288: breast right 3
+    400290: breast right 3_end
+    400292: breast right 4
+    400294: breast right 4_end
+    400296: breast right 5
+    400298: breast right 5_end
+    400300: breast right base
+    400302: breast right tip
+    400304: Camera
+    400306: dummy head
+    400308: dummy head_end
+    400310: Face Root
+    400312: glasses
+    400314: glasses_end
+    400316: hair back I left a 1
+    400318: hair back I left a 2
+    400320: hair back I left a 3
+    400322: hair back I left a 4
+    400324: hair back I left a 5
+    400326: hair back I left a 6
+    400328: hair back I left a 7
+    400330: hair back I left a 7_end
+    400332: hair back I left a root
+    400334: hair back I left b 1
+    400336: hair back I left b 2
+    400338: hair back I left b 3
+    400340: hair back I left b 4
+    400342: hair back I left b 5
+    400344: hair back I left b 6
+    400346: hair back I left b 7
+    400348: hair back I left b 7_end
+    400350: hair back I left b root
+    400352: hair back I left c 1
+    400354: hair back I left c 2
+    400356: hair back I left c 3
+    400358: hair back I left c 4
+    400360: hair back I left c 5
+    400362: hair back I left c 6
+    400364: hair back I left c 7
+    400366: hair back I left c 7_end
+    400368: hair back I left c root
+    400370: hair back I right a 1
+    400372: hair back I right a 2
+    400374: hair back I right a 3
+    400376: hair back I right a 4
+    400378: hair back I right a 5
+    400380: hair back I right a 6
+    400382: hair back I right a 7
+    400384: hair back I right a 7_end
+    400386: hair back I right a root
+    400388: hair back I right b 1
+    400390: hair back I right b 2
+    400392: hair back I right b 3
+    400394: hair back I right b 4
+    400396: hair back I right b 5
+    400398: hair back I right b 6
+    400400: hair back I right b 7
+    400402: hair back I right b 7_end
+    400404: hair back I right b root
+    400406: hair back I right c 1
+    400408: hair back I right c 2
+    400410: hair back I right c 3
+    400412: hair back I right c 4
+    400414: hair back I right c 5
+    400416: hair back I right c 6
+    400418: hair back I right c 7
+    400420: hair back I right c 7_end
+    400422: hair back I right c root
+    400424: hair back II left a 1
+    400426: hair back II left a 2
+    400428: hair back II left a 3
+    400430: hair back II left a 4
+    400432: hair back II left a 5
+    400434: hair back II left a 6
+    400436: hair back II left a 7
+    400438: hair back II left a 8
+    400440: hair back II left a 8_end
+    400442: hair back II left a root
+    400444: hair back II left b 1
+    400446: hair back II left b 2
+    400448: hair back II left b 3
+    400450: hair back II left b 4
+    400452: hair back II left b 5
+    400454: hair back II left b 6
+    400456: hair back II left b 7
+    400458: hair back II left b 8
+    400460: hair back II left b 8_end
+    400462: hair back II left b root
+    400464: hair back II middle 1
+    400466: hair back II middle 2
+    400468: hair back II middle 3
+    400470: hair back II middle 4
+    400472: hair back II middle 5
+    400474: hair back II middle 6
+    400476: hair back II middle 7
+    400478: hair back II middle 8
+    400480: hair back II middle 8_end
+    400482: hair back II middle root
+    400484: hair back II right a 1
+    400486: hair back II right a 2
+    400488: hair back II right a 3
+    400490: hair back II right a 4
+    400492: hair back II right a 5
+    400494: hair back II right a 6
+    400496: hair back II right a 7
+    400498: hair back II right a 8
+    400500: hair back II right a 8_end
+    400502: hair back II right a root
+    400504: hair back II right b 1
+    400506: hair back II right b 2
+    400508: hair back II right b 3
+    400510: hair back II right b 4
+    400512: hair back II right b 5
+    400514: hair back II right b 6
+    400516: hair back II right b 7
+    400518: hair back II right b 8
+    400520: hair back II right b 8_end
+    400522: hair back II right b root
+    400524: hair back III left a 1
+    400526: hair back III left a 2
+    400528: hair back III left a 3
+    400530: hair back III left a 4
+    400532: hair back III left a 5
+    400534: hair back III left a 6
+    400536: hair back III left a 7
+    400538: hair back III left a 8
+    400540: hair back III left a 8_end
+    400542: hair back III left a root
+    400544: hair back III left b 1
+    400546: hair back III left b 2
+    400548: hair back III left b 3
+    400550: hair back III left b 4
+    400552: hair back III left b 5
+    400554: hair back III left b 6
+    400556: hair back III left b 7
+    400558: hair back III left b 8
+    400560: hair back III left b 8_end
+    400562: hair back III left b root
+    400564: hair back III left c 1
+    400566: hair back III left c 2
+    400568: hair back III left c 3
+    400570: hair back III left c 4
+    400572: hair back III left c 5
+    400574: hair back III left c 6
+    400576: hair back III left c 7
+    400578: hair back III left c 7_end
+    400580: hair back III left c root
+    400582: hair back III right a 1
+    400584: hair back III right a 2
+    400586: hair back III right a 3
+    400588: hair back III right a 4
+    400590: hair back III right a 5
+    400592: hair back III right a 6
+    400594: hair back III right a 7
+    400596: hair back III right a 8
+    400598: hair back III right a 8_end
+    400600: hair back III right a root
+    400602: hair back III right b 1
+    400604: hair back III right b 2
+    400606: hair back III right b 3
+    400608: hair back III right b 4
+    400610: hair back III right b 5
+    400612: hair back III right b 6
+    400614: hair back III right b 7
+    400616: hair back III right b 8
+    400618: hair back III right b 8_end
+    400620: hair back III right b root
+    400622: hair back III right c 1
+    400624: hair back III right c 2
+    400626: hair back III right c 3
+    400628: hair back III right c 4
+    400630: hair back III right c 5
+    400632: hair back III right c 6
+    400634: hair back III right c 7
+    400636: hair back III right c 7_end
+    400638: hair back III right c root
+    400640: hair back III right d 1
+    400642: hair back III right d 2
+    400644: hair back III right d 3
+    400646: hair back III right d 4
+    400648: hair back III right d 5
+    400650: hair back III right d 6
+    400652: hair back III right d 7
+    400654: hair back III right d 7_end
+    400656: hair back III right d root
+    400658: hair front left 1
+    400660: hair front left 2
+    400662: hair front left 3
+    400664: hair front left 4
+    400666: hair front left 5
+    400668: hair front left 5_end
+    400670: hair front middle 1
+    400672: hair front middle 2
+    400674: hair front middle 3
+    400676: hair front middle 4
+    400678: hair front middle 5
+    400680: hair front middle 5_end
+    400682: hair front right 1
+    400684: hair front right 2
+    400686: hair front right 3
+    400688: hair front right 4
+    400690: hair front right 5
+    400692: hair front right 5_end
+    400694: hair side left 1
+    400696: hair side left 2
+    400698: hair side left 3
+    400700: hair side left 4
+    400702: hair side left 5
+    400704: hair side left 6
+    400706: hair side left 7
+    400708: hair side left 7_end
+    400710: hair side left root
+    400712: hair side right 1
+    400714: hair side right 2
+    400716: hair side right 3
+    400718: hair side right 4
+    400720: hair side right 5
+    400722: hair side right 6
+    400724: hair side right 7
+    400726: hair side right 7_end
+    400728: hair side right root
+    400730: hair sidetail a 1
+    400732: hair sidetail a 10
+    400734: hair sidetail a 10_end
+    400736: hair sidetail a 2
+    400738: hair sidetail a 3
+    400740: hair sidetail a 4
+    400742: hair sidetail a 5
+    400744: hair sidetail a 6
+    400746: hair sidetail a 7
+    400748: hair sidetail a 8
+    400750: hair sidetail a 9
+    400752: hair sidetail a root
+    400754: hair sidetail b 1
+    400756: hair sidetail b 10
+    400758: hair sidetail b 10_end
+    400760: hair sidetail b 2
+    400762: hair sidetail b 3
+    400764: hair sidetail b 4
+    400766: hair sidetail b 5
+    400768: hair sidetail b 6
+    400770: hair sidetail b 7
+    400772: hair sidetail b 8
+    400774: hair sidetail b 9
+    400776: hair sidetail b root
+    400778: hair sidetail c 1
+    400780: hair sidetail c 10
+    400782: hair sidetail c 10_end
+    400784: hair sidetail c 2
+    400786: hair sidetail c 3
+    400788: hair sidetail c 4
+    400790: hair sidetail c 5
+    400792: hair sidetail c 6
+    400794: hair sidetail c 7
+    400796: hair sidetail c 8
+    400798: hair sidetail c 9
+    400800: hair sidetail c root
+    400802: head cheek left a
+    400804: head cheek left a_end
+    400806: head cheek left b
+    400808: head cheek left b_end
+    400810: head cheek left c
+    400812: head cheek left c_end
+    400814: head cheek right a
+    400816: head cheek right a_end
+    400818: head cheek right b
+    400820: head cheek right b_end
+    400822: head cheek right c
+    400824: head cheek right c_end
+    400826: head eyeball left
+    400828: head eyeball left_end
+    400830: head eyeball right
+    400832: head eyeball right_end
+    400834: head eyebrow left a
+    400836: head eyebrow left a_end
+    400838: head eyebrow left b
+    400840: head eyebrow left b_end
+    400842: head eyebrow left c
+    400844: head eyebrow left c_end
+    400846: head eyebrow middle
+    400848: head eyebrow middle_end
+    400850: head eyebrow right a
+    400852: head eyebrow right a_end
+    400854: head eyebrow right b
+    400856: head eyebrow right b_end
+    400858: head eyebrow right c
+    400860: head eyebrow right c_end
+    400862: head eyelid left lower a
+    400864: head eyelid left lower a_end
+    400866: head eyelid left lower b
+    400868: head eyelid left lower b_end
+    400870: head eyelid left upper
+    400872: head eyelid left upper_end
+    400874: head eyelid right lower a
+    400876: head eyelid right lower a_end
+    400878: head eyelid right lower b
+    400880: head eyelid right lower b_end
+    400882: head eyelid right upper
+    400884: head eyelid right upper_end
+    400886: head forehead left
+    400888: head forehead left_end
+    400890: head forehead right
+    400892: head forehead right_end
+    400894: head jaw
+    400896: head lip corner left
+    400898: head lip corner left_end
+    400900: head lip corner right
+    400902: head lip corner right_end
+    400904: head lip lower left
+    400906: head lip lower left_end
+    400908: head lip lower middle
+    400910: head lip lower middle_end
+    400912: head lip lower right
+    400914: head lip lower right_end
+    400916: head lip upper left
+    400918: head lip upper left_end
+    400920: head lip upper middle
+    400922: head lip upper middle_end
+    400924: head lip upper right
+    400926: head lip upper right_end
+    400928: head neck lower
+    400930: head neck upper
+    400932: head nose left a
+    400934: head nose left a_end
+    400936: head nose left b
+    400938: head nose left b_end
+    400940: head nose left c
+    400942: head nose left c_end
+    400944: head nose left d
+    400946: head nose left d_end
+    400948: head nose middle
+    400950: head nose middle_end
+    400952: head nose right a
+    400954: head nose right a_end
+    400956: head nose right b
+    400958: head nose right b_end
+    400960: head nose right c
+    400962: head nose right c_end
+    400964: head nose right d
+    400966: head nose right d_end
+    400968: head tongue a
+    400970: head tongue b
+    400972: head tongue b_end
+    400974: Lamp
+    400976: leg left ankle
+    400978: leg left butt ctr
+    400980: leg left butt ctr_end
+    400982: leg left knee
+    400984: leg left knee ctr
+    400986: leg left knee ctr_end
+    400988: leg left thigh
+    400990: leg left thigh ctr
+    400992: leg left thigh ctr2
+    400994: leg left thigh ctr2_end
+    400996: leg left thigh ctr_end
+    400998: leg left toes
+    401000: leg left toes_end
+    401002: leg right ankle
+    401004: leg right butt ctr
+    401006: leg right butt ctr_end
+    401008: leg right knee
+    401010: leg right knee ctr
+    401012: leg right knee ctr_end
+    401014: leg right thigh
+    401016: leg right thigh ctr
+    401018: leg right thigh ctr2
+    401020: leg right thigh ctr2_end
+    401022: leg right thigh ctr_end
+    401024: leg right toes
+    401026: leg right toes_end
+    401028: pelvis
+    401030: root ground
+    401032: root hips
+    401034: spine lower
+    401036: spine upper
+    401038: untitled
+    401040: //RootNode
+    401042: unused MOT01_Head
+    401044: unused MOT15_Neck
+    401046: unused MOT15_Neck_end
+    401048: unused OPT_acs_fronthair_root1
+    401050: unused OPT_acs_ground
+    401052: unused OPT_acs_ground_end
+    401054: unused OPT_acs_Hair_root
+    401056: unused WGT_body_0
+    401058: unused WGT_cap_0
+    401060: unused WGT_cap_0_end
+    401062: unused WGT_face4
+    401064: unused WGT_face4_end
+    401066: unused WGT_sweat_cheek_l
+    401068: unused WGT_sweat_cheek_l_end
+    401070: unused WGT_sweat_cheek_r
+    401072: unused WGT_sweat_cheek_r_end
+    401074: unused WGT_sweat_chest
+    401076: unused WGT_sweat_chest_end
+    401078: unused WGT_zdmodel
+    401080: unused WGT_zdmodel_end
+    401082: unusedhandl
+    401084: unusedhandr
+    2000000: Camera
+    2100000: 7_eyeshadow_0.1_16_16
+    2100002: 7_eyelashes-upper-fr_0.1_16_16
+    2100004: 7_eyelashes-upper-ba_0.1_16_16
+    2100006: 7_eyelashes-lower_1_16_16
+    2100008: 26_iris_0.2_0_0
+    2100010: 26_eyeballs_0.1_16_16
+    2100012: 25_hairb_0.2_0_0
+    2100014: 25_haira_0.2_0_0
+    2100016: 25_hair9_0.2_0_0
+    2100018: 25_hair8_0.2_0_0
+    2100020: 25_hair7_0.2_0_0
+    2100022: 25_hair6_0.2_0_0
+    2100024: 25_hair5_0.2_0_0
+    2100026: 25_hair4_0.2_0_0
+    2100028: 25_hair3_0.2_0_0
+    2100030: 25_hair38_0.2_0_0
+    2100032: 25_hair37_0.2_0_0
+    2100034: 25_hair36_0.2_0_0
+    2100036: 25_hair35_0.2_0_0
+    2100038: 25_hair34_0.2_0_0
+    2100040: 25_hair33_0.2_0_0
+    2100042: 25_hair32_0.2_0_0
+    2100044: 25_hair31_0.2_0_0
+    2100046: 25_hair30_0.2_0_0
+    2100048: 25_hair2f_0.2_0_0
+    2100050: 25_hair2e_0.2_0_0
+    2100052: 25_hair2d_0.2_0_0
+    2100054: 25_hair2c_0.2_0_0
+    2100056: 25_hair2b_0.2_0_0
+    2100058: 25_hair2a_0.2_0_0
+    2100060: 25_hair2_0.2_0_0
+    2100062: 25_hair29_0.2_0_0
+    2100064: 25_hair28_0.2_0_0
+    2100066: 25_hair27_0.2_0_0
+    2100068: 25_hair26_0.2_0_0
+    2100070: 25_hair25_0.2_0_0
+    2100072: 25_hair24_0.2_0_0
+    2100074: 25_hair23_0.2_0_0
+    2100076: 25_hair22_0.2_0_0
+    2100078: 25_hair21_0.2_0_0
+    2100080: 25_hair1_0.2_0_0
+    2100082: 25_hair19_0.2_0_0
+    2100084: 25_hair18_0.2_0_0
+    2100086: 25_hair17_0.2_0_0
+    2100088: 25_hair16_0.2_0_0
+    2100090: 25_hair15_0.2_0_0
+    2100092: 25_hair14_0.2_0_0
+    2100094: 25_hair13_0.2_0_0
+    2100096: 25_hair12_0.2_0_0
+    2100098: 25_hair11_0.2_0_0
+    2100100: 25_hair0_0.2_0_0
+    2100102: 24_tongue_0.2_0_0
+    2100104: 24_teeth-upper_0.1_16_16
+    2100106: 24_teeth-lower_0.1_16_16
+    2100108: 24_lips_0.5_0_0
+    2100110: 24_face_0.2_0_0
+    2100112: 24_body_0.9_1_1
+    2300000: untitled
+    3300000: untitled
+    4300000: untitled
+    4300002: 7_eyeshadow_0.1_16_16
+    4300004: 7_eyelashes-upper-fr_0.1_16_16
+    4300006: 7_eyelashes-upper-ba_0.1_16_16
+    4300008: 7_eyelashes-lower_1_16_16
+    4300010: 26_iris_0.2_0_0
+    4300012: 26_eyeballs_0.1_16_16
+    4300014: 25_hairb_0.2_0_0
+    4300016: 25_haira_0.2_0_0
+    4300018: 25_hair9_0.2_0_0
+    4300020: 25_hair8_0.2_0_0
+    4300022: 25_hair7_0.2_0_0
+    4300024: 25_hair6_0.2_0_0
+    4300026: 25_hair5_0.2_0_0
+    4300028: 25_hair4_0.2_0_0
+    4300030: 25_hair3_0.2_0_0
+    4300032: 25_hair38_0.2_0_0
+    4300034: 25_hair37_0.2_0_0
+    4300036: 25_hair36_0.2_0_0
+    4300038: 25_hair35_0.2_0_0
+    4300040: 25_hair34_0.2_0_0
+    4300042: 25_hair33_0.2_0_0
+    4300044: 25_hair32_0.2_0_0
+    4300046: 25_hair31_0.2_0_0
+    4300048: 25_hair30_0.2_0_0
+    4300050: 25_hair2f_0.2_0_0
+    4300052: 25_hair2e_0.2_0_0
+    4300054: 25_hair2d_0.2_0_0
+    4300056: 25_hair2c_0.2_0_0
+    4300058: 25_hair2b_0.2_0_0
+    4300060: 25_hair2a_0.2_0_0
+    4300062: 25_hair2_0.2_0_0
+    4300064: 25_hair29_0.2_0_0
+    4300066: 25_hair28_0.2_0_0
+    4300068: 25_hair27_0.2_0_0
+    4300070: 25_hair26_0.2_0_0
+    4300072: 25_hair25_0.2_0_0
+    4300074: 25_hair24_0.2_0_0
+    4300076: 25_hair23_0.2_0_0
+    4300078: 25_hair22_0.2_0_0
+    4300080: 25_hair21_0.2_0_0
+    4300082: 25_hair1_0.2_0_0
+    4300084: 25_hair19_0.2_0_0
+    4300086: 25_hair18_0.2_0_0
+    4300088: 25_hair17_0.2_0_0
+    4300090: 25_hair16_0.2_0_0
+    4300092: 25_hair15_0.2_0_0
+    4300094: 25_hair14_0.2_0_0
+    4300096: 25_hair13_0.2_0_0
+    4300098: 25_hair12_0.2_0_0
+    4300100: 25_hair11_0.2_0_0
+    4300102: 25_hair0_0.2_0_0
+    4300104: 24_tongue_0.2_0_0
+    4300106: 24_teeth-upper_0.1_16_16
+    4300108: 24_teeth-lower_0.1_16_16
+    4300110: 24_lips_0.5_0_0
+    4300112: 24_face_0.2_0_0
+    4300114: 24_body_0.9_1_1
+    9500000: //RootNode
+    10800000: Lamp
+    13700000: 24_body_0.9_1_1
+    13700002: 24_face_0.2_0_0
+    13700004: 24_lips_0.5_0_0
+    13700006: 24_teeth-lower_0.1_16_16
+    13700008: 24_teeth-upper_0.1_16_16
+    13700010: 24_tongue_0.2_0_0
+    13700012: 25_hair0_0.2_0_0
+    13700014: 25_hair11_0.2_0_0
+    13700016: 25_hair12_0.2_0_0
+    13700018: 25_hair13_0.2_0_0
+    13700020: 25_hair14_0.2_0_0
+    13700022: 25_hair15_0.2_0_0
+    13700024: 25_hair16_0.2_0_0
+    13700026: 25_hair17_0.2_0_0
+    13700028: 25_hair18_0.2_0_0
+    13700030: 25_hair19_0.2_0_0
+    13700032: 25_hair1_0.2_0_0
+    13700034: 25_hair21_0.2_0_0
+    13700036: 25_hair22_0.2_0_0
+    13700038: 25_hair23_0.2_0_0
+    13700040: 25_hair24_0.2_0_0
+    13700042: 25_hair25_0.2_0_0
+    13700044: 25_hair26_0.2_0_0
+    13700046: 25_hair27_0.2_0_0
+    13700048: 25_hair28_0.2_0_0
+    13700050: 25_hair29_0.2_0_0
+    13700052: 25_hair2_0.2_0_0
+    13700054: 25_hair2a_0.2_0_0
+    13700056: 25_hair2b_0.2_0_0
+    13700058: 25_hair2c_0.2_0_0
+    13700060: 25_hair2d_0.2_0_0
+    13700062: 25_hair2e_0.2_0_0
+    13700064: 25_hair2f_0.2_0_0
+    13700066: 25_hair30_0.2_0_0
+    13700068: 25_hair31_0.2_0_0
+    13700070: 25_hair32_0.2_0_0
+    13700072: 25_hair33_0.2_0_0
+    13700074: 25_hair34_0.2_0_0
+    13700076: 25_hair35_0.2_0_0
+    13700078: 25_hair36_0.2_0_0
+    13700080: 25_hair37_0.2_0_0
+    13700082: 25_hair38_0.2_0_0
+    13700084: 25_hair3_0.2_0_0
+    13700086: 25_hair4_0.2_0_0
+    13700088: 25_hair5_0.2_0_0
+    13700090: 25_hair6_0.2_0_0
+    13700092: 25_hair7_0.2_0_0
+    13700094: 25_hair8_0.2_0_0
+    13700096: 25_hair9_0.2_0_0
+    13700098: 25_haira_0.2_0_0
+    13700100: 25_hairb_0.2_0_0
+    13700102: 26_eyeballs_0.1_16_16
+    13700104: 26_iris_0.2_0_0
+    13700106: 7_eyelashes-lower_1_16_16
+    13700108: 7_eyelashes-upper-ba_0.1_16_16
+    13700110: 7_eyelashes-upper-fr_0.1_16_16
+    13700112: 7_eyeshadow_0.1_16_16
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

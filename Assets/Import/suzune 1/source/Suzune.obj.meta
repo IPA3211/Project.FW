@@ -1,0 +1,309 @@
+fileFormatVersion: 2
+guid: 68d9f0a9f8fb7cd4a98be58641841f5d
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: vsn_mesh_0_body_big
+    100004: vsn_mesh_0_face_00_skin
+    100006: vsn_mesh_0_hair_00
+    100008: vsn_mesh_10_face_10_futae
+    100010: vsn_mesh_10_skart
+    100012: vsn_mesh_11_tops
+    100014: vsn_mesh_12_mask
+    100016: vsn_mesh_12_zz_rin_hokuro
+    100018: vsn_mesh_13_zzz_body_dou
+    100020: vsn_mesh_1_body_big_brk
+    100022: vsn_mesh_1_face_01_tooth_tongue
+    100024: vsn_mesh_1_hair_02
+    100026: vsn_mesh_2_body_brk2_big
+    100028: vsn_mesh_2_face_02_eyelash
+    100030: vsn_mesh_3_btms
+    100032: vsn_mesh_3_face_03_eyes
+    100034: vsn_mesh_4_leg
+    100036: vsn_mesh_6_leg_brk2
+    100038: vsn_mesh_8_pants_black
+    100040: vsn_mesh_9_face_09_mayuge
+    400000: //RootNode
+    400002: vsn_mesh_0_body_big
+    400004: vsn_mesh_0_face_00_skin
+    400006: vsn_mesh_0_hair_00
+    400008: vsn_mesh_10_face_10_futae
+    400010: vsn_mesh_10_skart
+    400012: vsn_mesh_11_tops
+    400014: vsn_mesh_12_mask
+    400016: vsn_mesh_12_zz_rin_hokuro
+    400018: vsn_mesh_13_zzz_body_dou
+    400020: vsn_mesh_1_body_big_brk
+    400022: vsn_mesh_1_face_01_tooth_tongue
+    400024: vsn_mesh_1_hair_02
+    400026: vsn_mesh_2_body_brk2_big
+    400028: vsn_mesh_2_face_02_eyelash
+    400030: vsn_mesh_3_btms
+    400032: vsn_mesh_3_face_03_eyes
+    400034: vsn_mesh_4_leg
+    400036: vsn_mesh_6_leg_brk2
+    400038: vsn_mesh_8_pants_black
+    400040: vsn_mesh_9_face_09_mayuge
+    2100000: Material__29
+    2100002: face_mat
+    2100004: hair_mat
+    2100006: Material__27
+    2100008: nnj11_up_mat
+    2100010: body_mat
+    2100012: Material__25
+    2100014: Material__30
+    2100016: Material__26
+    2100018: nnj11_und_mat
+    2100020: Material__31
+    2100022: Material__28
+    2300000: vsn_mesh_0_body_big
+    2300002: vsn_mesh_0_face_00_skin
+    2300004: vsn_mesh_0_hair_00
+    2300006: vsn_mesh_10_face_10_futae
+    2300008: vsn_mesh_10_skart
+    2300010: vsn_mesh_11_tops
+    2300012: vsn_mesh_12_mask
+    2300014: vsn_mesh_12_zz_rin_hokuro
+    2300016: vsn_mesh_13_zzz_body_dou
+    2300018: vsn_mesh_1_body_big_brk
+    2300020: vsn_mesh_1_face_01_tooth_tongue
+    2300022: vsn_mesh_1_hair_02
+    2300024: vsn_mesh_2_body_brk2_big
+    2300026: vsn_mesh_2_face_02_eyelash
+    2300028: vsn_mesh_3_btms
+    2300030: vsn_mesh_3_face_03_eyes
+    2300032: vsn_mesh_4_leg
+    2300034: vsn_mesh_6_leg_brk2
+    2300036: vsn_mesh_8_pants_black
+    2300038: vsn_mesh_9_face_09_mayuge
+    3300000: vsn_mesh_0_body_big
+    3300002: vsn_mesh_0_face_00_skin
+    3300004: vsn_mesh_0_hair_00
+    3300006: vsn_mesh_10_face_10_futae
+    3300008: vsn_mesh_10_skart
+    3300010: vsn_mesh_11_tops
+    3300012: vsn_mesh_12_mask
+    3300014: vsn_mesh_12_zz_rin_hokuro
+    3300016: vsn_mesh_13_zzz_body_dou
+    3300018: vsn_mesh_1_body_big_brk
+    3300020: vsn_mesh_1_face_01_tooth_tongue
+    3300022: vsn_mesh_1_hair_02
+    3300024: vsn_mesh_2_body_brk2_big
+    3300026: vsn_mesh_2_face_02_eyelash
+    3300028: vsn_mesh_3_btms
+    3300030: vsn_mesh_3_face_03_eyes
+    3300032: vsn_mesh_4_leg
+    3300034: vsn_mesh_6_leg_brk2
+    3300036: vsn_mesh_8_pants_black
+    3300038: vsn_mesh_9_face_09_mayuge
+    4300000: vsn_mesh_0_body_big
+    4300002: vsn_mesh_0_face_00_skin
+    4300004: vsn_mesh_0_hair_00
+    4300006: vsn_mesh_10_face_10_futae
+    4300008: vsn_mesh_10_skart
+    4300010: vsn_mesh_11_tops
+    4300012: vsn_mesh_12_mask
+    4300014: vsn_mesh_12_zz_rin_hokuro
+    4300016: vsn_mesh_13_zzz_body_dou
+    4300018: vsn_mesh_1_body_big_brk
+    4300020: vsn_mesh_1_face_01_tooth_tongue
+    4300022: vsn_mesh_1_hair_02
+    4300024: vsn_mesh_2_body_brk2_big
+    4300026: vsn_mesh_2_face_02_eyelash
+    4300028: vsn_mesh_3_btms
+    4300030: vsn_mesh_3_face_03_eyes
+    4300032: vsn_mesh_4_leg
+    4300034: vsn_mesh_6_leg_brk2
+    4300036: vsn_mesh_8_pants_black
+    4300038: vsn_mesh_9_face_09_mayuge
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: "Invalid Avatar Rig Configuration. Missing or invalid transform:\n\tRequired
+      human bone 'Hips' not found\n"
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton:
+    - name: Suzune(Clone)
+      parentName: 
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: vsn_mesh_0_body_big
+      parentName: Suzune(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: vsn_mesh_0_face_00_skin
+      parentName: Suzune(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: vsn_mesh_0_hair_00
+      parentName: Suzune(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: vsn_mesh_10_face_10_futae
+      parentName: Suzune(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: vsn_mesh_10_skart
+      parentName: Suzune(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: vsn_mesh_11_tops
+      parentName: Suzune(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: vsn_mesh_12_mask
+      parentName: Suzune(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: vsn_mesh_12_zz_rin_hokuro
+      parentName: Suzune(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: vsn_mesh_13_zzz_body_dou
+      parentName: Suzune(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: vsn_mesh_1_body_big_brk
+      parentName: Suzune(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: vsn_mesh_1_face_01_tooth_tongue
+      parentName: Suzune(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: vsn_mesh_1_hair_02
+      parentName: Suzune(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: vsn_mesh_2_body_brk2_big
+      parentName: Suzune(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: vsn_mesh_2_face_02_eyelash
+      parentName: Suzune(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: vsn_mesh_3_btms
+      parentName: Suzune(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: vsn_mesh_3_face_03_eyes
+      parentName: Suzune(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: vsn_mesh_4_leg
+      parentName: Suzune(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: vsn_mesh_6_leg_brk2
+      parentName: Suzune(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: vsn_mesh_8_pants_black
+      parentName: Suzune(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: vsn_mesh_9_face_09_mayuge
+      parentName: Suzune(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
